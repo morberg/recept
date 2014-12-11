@@ -26,7 +26,8 @@ Koka potatisen till potatissalladen. Koka sparrisen några minuter och dela den
 -	2 msk sweet chili
 -	rivet skal från en lime
 
-Hacka nötterna grovt och blanda samman med finhackad vitlök, smör, sweet chili och limeskal. Dags att ge sig i kast med laxen.
+Hacka nötterna grovt och blanda samman med finhackad vitlök, smör, sweet
+chili och limeskal. Dags att ge sig i kast med laxen.
 
 ### Lax
 
