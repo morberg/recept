@@ -14,6 +14,10 @@ På kvällen:
 
 Morgonen efter:
 
-1.	Häll ut degen på mjölat bakbord och dela i två delar. Forma två bröd: Ta tag i en flik och vik in tvärsöver. Repetera tills du format ett runt degämne. Vänd uppochner och forma till ett bröd. Lägg i jäskorg med mjölad handduk och skarven uppåt.
-2.	Sätt in en gjutjärnsgryta med lock på nedre falsen i ugnen. Sätt den på 300 grader. Låt bröden jäsa en timme medan ugnen blir varm.
+1.	Häll ut degen på mjölat bakbord och dela i två delar. Forma två bröd: Ta tag
+i en flik och vik in tvärsöver. Repetera tills du format ett runt degämne. Vänd
+uppochner och forma till ett bröd. Lägg i jäskorg med mjölad handduk och skarven
+uppåt.
+2.	Sätt in en gjutjärnsgryta med lock på nedre falsen i ugnen. Sätt den på 300
+grader. Låt bröden jäsa en timme medan ugnen blir varm.
 3.	Vänd ner degen i den varma grytan. Skåra toppen. Baka 25 minuter med lock på. Sänk värmen till 225 grader, ta av locket och baka ytterligare 25 minuter.
