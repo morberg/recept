@@ -12,19 +12,12 @@ Brantevikssill
 ### Inläggning
 
 -	5 dl socker
-
 -	2 gula lökar
-
 -	2 röda lökar
-
 -	1 citron
-
 -	3 msk hel kryddpeppar
-
 -	2 msk hel vitpeppar
-
 -	2 lagerblad
-
 -	1 stor knippa dill
 
 Gör såhär:
