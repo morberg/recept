@@ -15,7 +15,7 @@ Smält smöret i en gryta på medelvärme. Tillsätt purjolök och sänk värmen
 - 1/2 kg potatis, skalad och klyftad (inte i små bitar)
 - 1 lagerblad
 
-Tillsätt buljong, potatis, och krydda lätt med salt och peppar. Låt koka upp och sjud sedan under lock tills potatisen är klar, ca. 15 minuter.
+Tillsätt buljong, potatis och lagerblad. Krydda lätt med salt och peppar. Låt koka upp och sjud sedan under lock tills potatisen är klar, ca. 15 minuter.
 
 Plocka upp potatisen från soppan med en tång och lägg över i en skål. Plocka upp lagerbladet och släng. Mixa soppan med en stavmixer tills den är helt slät.
 
