@@ -1,3 +1,3 @@
 # Receptsamling
 
-Välkommen till Morbergs nya receptsamling. Välj recept från menyn uppe till vänster.
+Välkommen till Morbergs receptsamling. Välj recept från menyn uppe till vänster.
