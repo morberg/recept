@@ -13,7 +13,7 @@ Creolsk gryta
 -	6 dl vispgrädde
 -	2 msk vetemjöl
 
-Gör såhär:
+Gör så här:
 
 1.	Skär bort senor och hinnor från fläskfilén. Skiva i centimetertjocka skivor. Dela korven i mindre bitar. Skiva upp paprikan i stavar. Häll av lagen från syltlöken.
 2.	Hetta upp lite smör i en gryta. Bryn fläskfilén, krydda med salt och peppar. Lägg i korven och syltlöken och låt steka några minuter.

@@ -11,7 +11,7 @@ Yvonnes snabba äpplekaka
 -	1 dl vetemjöl
 -	1 tsk kanel
 
-Gör såhär:
+Gör så här:
 
 1.	Skala och kärna ur äpplena och skär dem i tunna klyftor. Eller skivor om du känner för det. Det viktigaste är att de är tunna. Lägg ut skivorna (eller klyftorna) i en form.
 2.	Smält smöret1 och tillsätt övriga ingredienser. Smula över äpplena.

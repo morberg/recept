@@ -20,7 +20,7 @@ Brantevikssill
 -	2 lagerblad
 -	1 stor knippa dill
 
-Gör såhär:
+Gör så här:
 
 1.	Dra skinnet av sillfiléerna; varje filé blir då två mindre filéer. Lägg dessa i lagen och låt stå ett dygn i kylen.
 
