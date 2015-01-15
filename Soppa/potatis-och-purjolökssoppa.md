@@ -2,14 +2,14 @@
 
 ## 4 personer
 
-- 2 dl mjölk + 1 msk citron eller vinäger (egentligen kärnmjölk om det finns)
+- 2 dl mjölk + 1 msk citron eller vinäger (helst kärnmjölk om det finns)
 
 Blanda mjölk och vinäger och låt stå i rumstemperatur minst 15 minuter så att det tjocknar något. Fortsätt med resten av receptet.
 
 - 2 msk smör
 - 2 stora purjolökar, vita och ljusgröna delen, grovt hackade
 
-Smält smöret i en gryta på medelvärme. Tillsätt purjolök och sänk värmen. Stek dom mjuka utan att de tar färg i 10-15 minuter.
+Smält smöret i en gryta på medelvärme. Tillsätt purjolök och sänk värmen. Stek dom mjuka utan att dom tar färg i 10-15 minuter.
 
 - 1 liter kycklingbuljong
 - 1/2 kg potatis, skalad och klyftad (inte i små bitar)
