@@ -4,7 +4,7 @@
 
 - 2 dl mjölk + 1 msk citron eller vinäger (egentligen kärnmjölk om det finns)
 
-Blanda mjölk och vinäger och låt stå i rumstemperatur ca. 15 minuter så att det tjocknar något.
+Blanda mjölk och vinäger och låt stå i rumstemperatur minst 15 minuter så att det tjocknar något. Fortsätt med resten av receptet.
 
 - 2 msk smör
 - 2 stora purjolökar, vita och ljusgröna delen, grovt hackade
