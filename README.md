@@ -8,8 +8,9 @@ Checka ut en lokal kopia med:
 ## Generera PDF
 * Använd Atom som editor.
 * Installera paketet `markdown-pdf`
-* Ändra eventuellt typsnitt i `markdown-preview` från Helvetica Neue till Avenir
-* Generera PDF inifrån editorn med Shift+Cmd+C
+* Ändra eventuellt typsnitt i `markdown-preview` från Helvetica Neue till Avenir, filen heter `/Applications/Atom.app/Contents/Resources/app/node_modules/markdown-preview/stylesheets/markdown-preview.less`. Lägg till "Avenir" före "Helvetica Neue" efter `@font-family`
+* Se en preview med `Ctrl+Shift+M`
+* Generera PDF inifrån editorn med `Shift+Cmd+C`
 
 ## Webbversion
 Middleman och Franklin verkar funka smidigast och med minst handpåläggning.
