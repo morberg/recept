@@ -10,7 +10,6 @@ Börja med att göra en omgång köttfärssås på ca. 400 g färs.
 -	3 dl ljummet vatten
 -	2 msk olja
 -	1 tsk salt
--	1 ägg
 -	9–10 dl vetemjöl
 
 Sätt på ugnen på 225°. Blanda ihop degen och låt jäsa i 15 minuter.
