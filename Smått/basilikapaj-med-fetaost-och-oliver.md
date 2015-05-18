@@ -28,8 +28,8 @@ Skölj och skiva tomaterna. Hacka basilikan. Lägg tomatskivorna i pajskalet. 
 
 -	4 ägg
 -	4 dl mjölk
--	1/2 tsk salt
+-	1 tsk salt
 -	2 krm svartpeppar
 -	1–2 vitlöksklyftor
 
-Vispa ihop ägg, mjölk, salt, peppar och pressad vitlök. Häll äggstanningen över fyllningen. Grädda i 200° ca 35 minuter.
+Vispa ihop ägg, mjölk, salt, peppar och pressad vitlök. Häll äggstanningen över fyllningen. Grädda i 200° ca 45 minuter.
