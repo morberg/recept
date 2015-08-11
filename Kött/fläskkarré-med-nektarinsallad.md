@@ -28,4 +28,4 @@ Blanda ingredienserna till marinaden i en bunke.
 
 Skär karrén i 4 skivor och stek eller grilla 3-4 min per sida, eller tills den är genomstekt.
 
-Vänd ner den nygrillade fläskkarrén i marinaden (skär eventuellt upp den i strimlor först) och servera med lite japansk soja, nektarinsallad och klyftpotatis.
+Strimla den nygrillade fläskkarrén och vänd ner i marinaden. Servera med lite japansk soja, nektarinsallad och klyftpotatis.
