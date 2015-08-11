@@ -18,9 +18,9 @@ Tärna nektariner och tomater. Skiva vårlök tunt. Tillsätt finrivet skal och 
 * 2 msk olja
 * 2 msk röd currypasta
 * 1 msk honung
-* 1/2 tsk talt
+* 1/2 tsk salt
 * 2 msk japansk soja
-* 1 tsk sambal oelek
+* 1 tsk sriracha
 
 Blanda ingredienserna till marinaden i en bunke.
 
