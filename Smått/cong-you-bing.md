@@ -4,7 +4,7 @@ Cong you bing
 4 personer
 ----------
 
--	6 dl vetemjöl
+-	360 gram (6 dl) vetemjöl
 -	1/2 tsk salt
 -	2 1/2 dl sjudande vatten
 -	2 msk sesamolja
@@ -15,7 +15,7 @@ Prova gärna att [grilla pannkakorna](http://www.seriouseats.com/2015/06/grill-y
 
 Instruktioner:
 
-1.	Blanda mjöl och salt i en bunke eller en matberedare (helst med degkrok).
+1.	Blanda mjöl och salt i en bunke eller en matberedare med degkrok.
 2.	Sätt igång matberedaren, slå på vattnet och blanda samman.
 3. Häll ut på lätt mjölat bakbord och forma till en klump.
 4.	Rulla in degen i plastfolie och låt vila 30 minuter i rumstemperatur eller några timmar (upp till en natt) i kylskåp.
