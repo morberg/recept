@@ -78,7 +78,7 @@ Nu är allt uppsatt. Skapa HTML-sidorna till katalogen `build` med:
 
     bundle exec middleman build
 
-Kolla på den lokalt med:
+Kolla eventuellt på den lokalt med:
 
     bundle exec middleman server
 
