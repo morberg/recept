@@ -10,7 +10,7 @@ Pizza
 -	25 g jäst
 -	2 msk olja
 -	1/2 tsk salt
--	ca 350 gram (5 dl) vetemjöl
+-	ca 350 g (5 dl) vetemjöl
 
 Häll vattnet i en degbunke. Lös upp jästen, tillsätt olja och salt. Blanda i mjölet i omgångar – spara någon deciliter av mjölet till utbakningen. Ta upp degen på bakbordet och knåda den smidig under några minuter. Låt jäsa under bakduk på dragfri plats under 30 minuter.
 

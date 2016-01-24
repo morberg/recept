@@ -4,7 +4,7 @@ Cong you bing
 4 personer
 ----------
 
--	360 gram (6 dl) vetemjöl
+-	360 g (6 dl) vetemjöl
 -	1/2 tsk salt
 -	2 1/2 dl sjudande vatten
 -	2 msk sesamolja
