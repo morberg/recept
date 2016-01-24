@@ -4,8 +4,8 @@ Bröd i gryta
 -	660 g kallt vatten
 -	5 g jäst (som en kikärta) eller 100 g surdeg
 -	21 g salt
--	780 g vetemjöl special
--	80 g grovt rågmjöl
+-	700 g vetemjöl special
+-	160 g grovt rågmjöl
 
 På kvällen:
 
