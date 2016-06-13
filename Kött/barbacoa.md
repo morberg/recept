@@ -1,10 +1,10 @@
-Biff Barbacoa - Chili
-=====================
+Biff Barbacoa
+=============
 
 6-10 personer
 -------------
 
-Sätt ugnen på 125 grader.
+Baserat på [recept från Serious Eats](http://www.seriouseats.com/recipes/2012/04/tender-beef-barbacoa-chipotle-tacos-recipe.html). Sätt ugnen på 125 grader.
 
 - 1 torkad ancho chili
 - 1 torkad poblano chili
