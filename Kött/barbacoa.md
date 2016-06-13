@@ -48,6 +48,6 @@ Lägg på ett lock på glänt och ställ in i ugnen. Låt koka i 4 timmar, vänd
 
 Lyft upp köttet. Koka ner vätskan till 3-4 dl. 
 
-Kan serveras omedelbart, men utvecklar ännu mer smak om man lägger kött tillsammans med sås i en lufttät förpackning i kylen upp till fem dagar. Dra isär köttet med två gafflar vid servering och värm upp med såsen.
+Kan serveras omedelbart, men utvecklar ännu mer smak om man lägger kött tillsammans med sås i en lufttät förpackning i kylen upp till fem dagar. Dra isär köttet med två gafflar vid servering och värm upp med såsen. Smaka av med salt och peppar.
 
 Servera med tacoskal eller burritos, picklad rödlök, mangosalsa, lime, koriander, guacamole eller något annat du kan komma på.
