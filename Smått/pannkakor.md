@@ -1,14 +1,14 @@
 Pannkakor
 =========
 
-8–10 st. stora pannkakor
-------------------------
+15–18 st. stora pannkakor
+-------------------------
 
--	2 1/2 dl vetemjöl
--	1/2 tsk salt
--	6 dl mjölk
--	3 ägg
--	50 g smör
+-	4 dl vetemjöl
+-	1 tsk salt
+-	1 l mjölk
+-	5 ägg
+-	80 g smör
 
 Instruktioner:
 
