@@ -34,16 +34,12 @@ Börja med Ruby-miljön om du inte gjort det tidigare på datorn:
 Sätt upp Middleman och [Franklin](https://github.com/bryanbraun/franklin):
 
     % gem install middleman
-    % git clone git@github.com:bryanbraun/franklin.git ~/.middleman/franklin
+    % git clone git@github.com:bryanbraun/franklin.git ~/.middleman/bryanbraun/franklin
 
 Skapa katalog för receptsamlingen och gå dit:
 
-    % middleman init recept --template=franklin
+    % middleman init recept --template=bryanbraun/franklin
     % cd recept
-
-Lägg till följande i `Gemfile`:
-
-    gem 'middleman-deploy', '~> 1.0.0'
 
 Uppdatera `config.rb` med följande:
 
@@ -66,7 +62,6 @@ Gå till `source`, ta bort default-filer och checka ut receptsamlingen:
     % rm *.md
     % git init .
     % git remote add -t \* -f origin https://github.com/morberg/recept.git
-    % git checkout master
     % cd ..
 
 Uppdatera `data/book.yml`:
