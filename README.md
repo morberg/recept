@@ -25,6 +25,12 @@ Checka ut en lokal kopia med:
 ## Webbversion
 Middleman och Franklin verkar funka smidigast och med minst handpåläggning.
 
+Börja med Ruby-miljön om du inte gjort det tidigare på datorn:
+
+    % brew update
+    % brew install rbenv
+    % rbenv init
+
 Sätt upp Middleman och [Franklin](https://github.com/bryanbraun/franklin):
 
     % gem install middleman
