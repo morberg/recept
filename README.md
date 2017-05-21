@@ -41,10 +41,14 @@ Skapa katalog för receptsamlingen och gå dit:
     % middleman init recept --template=bryanbraun/franklin
     % cd recept
 
+Lägg till följande rad till `Gemfile`:
+
+    % gem 'middleman-deploy', '~> 2.0.0.pre.alpha'
+
 Uppdatera `config.rb` med följande:
 
     activate :deploy do |deploy|
-    deploy.method = :git
+    deploy.deploy_method = :git
     # Optional Settings
     deploy.remote   = 'https://github.com/morberg/morberg.github.io.git' # remote name or git url, default: origin
     deploy.branch   = 'master' # default: gh-pages
