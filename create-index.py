@@ -10,4 +10,4 @@ for dirName, subdirList, fileList in os.walk(rootDir):
     if (dirName=='.'): continue
     print("## {}".format(dirName[2:]))
     for fname in fileList:
-        print("[{}]({}/{})".format(fname[:-3], dirName, fname))
+        print("* [{}]({}/{})".format(fname[:-3], dirName, fname))
