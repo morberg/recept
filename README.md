@@ -5,90 +5,12 @@ Checka ut en lokal kopia med:
 
     git clone https://github.com/morberg/recept.git
 
-## Generera PDF
-* Använd Atom som editor.
-* Installera paketet `markdown-pdf`
-* Ändra typsnitt till Avenir genom att lägga till följande i din `styles.less` (välj Settings->Themes->your stylesheet):
-
-
-    @font-family: "Avenir", "Helvetica Neue", Helvetica, sans-serif;
-    .markdown-preview {
-        font-family: @font-family;
-        h1, h2, h3, h4, h5, h6 {
-            font-family: @font-family;
-        }
-    }
-
-* Se en preview med `Ctrl+Shift+M`
-* Generera PDF inifrån editorn med `Shift+Cmd+C`
-
 ## Webbversion
-Middleman och Franklin verkar funka smidigast och med minst handpåläggning.
+Om man i "Settings" för github-projektet slår på GitHub Pages kan recepten automatiskt
+publiceras till https://morberg.github.io/recept/ 
 
-Börja med Ruby-miljön om du inte gjort det tidigare på datorn:
+Filen `index.md` behöver genereras lokalt för att få en innehållsförteckning.
+Använd `create-index.py` för detta på din lokala maskin och checka sedan in `index.md` till github.
 
-    % brew update
-    % brew install rbenv
-    % rbenv init
-
-Sätt upp Middleman och [Franklin](https://github.com/bryanbraun/franklin):
-
-    % gem install middleman
-    % git clone git@github.com:bryanbraun/franklin.git ~/.middleman/bryanbraun/franklin
-
-Skapa katalog för receptsamlingen och gå dit:
-
-    % middleman init recept --template=bryanbraun/franklin
-    % cd recept
-
-Lägg till följande rad till `Gemfile`:
-
-    % gem 'middleman-deploy', '~> 2.0.0.pre.alpha'
-
-Uppdatera `config.rb` med följande:
-
-    activate :deploy do |deploy|
-    deploy.deploy_method = :git
-    # Optional Settings
-    deploy.remote   = 'https://github.com/morberg/morberg.github.io.git' # remote name or git url, default: origin
-    deploy.branch   = 'master' # default: gh-pages
-    # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
-    # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
-    end
-
-Avsluta med att installera alla beroenden:
-
-    % bundle install  # Installs any franklin-specific gems.
-
-Gå till `source`, ta bort default-filer och checka ut receptsamlingen:
-
-    % cd source
-    % rm *.md
-    % git init .
-    % git remote add -t \* -f origin https://github.com/morberg/recept.git
-    % cd ..
-
-Uppdatera `data/book.yml`:
-
-    ---
-    title: Receptsamling
-    author: Niklas Morberg
-    github_url: https://github.com/morberg.github.io
-    domain: http://morberg.github.io/
-    license_name: Attribution-ShareAlike
-    license_url: https://creativecommons.org/licenses/by-sa/4.0
-    theme: epsilon
-
-Nu är allt uppsatt. Skapa HTML-sidorna till katalogen `build` med:
-
-    bundle exec middleman build
-
-Kolla eventuellt på den lokalt med:
-
-    bundle exec middleman server
-
-och sedan
-
-    bundle exec middleman deploy
-
-för att publicera till http://morberg.github.io.
+## PDF-varianter
+Surfa till rätt recept på github.com. Byt ut `github.com` till `gitprint.com`. Done.
