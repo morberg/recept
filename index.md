@@ -2,82 +2,82 @@
 
 ## Bakat
 
-* [bröd-i-gryta](./Bakat/bröd-i-gryta.md)
-* [chocolate-chip-cookies](./Bakat/chocolate-chip-cookies.md)
-* [chokladbollar](./Bakat/chokladbollar.md)
-* [focaccia](./Bakat/focaccia.md)
-* [kolakakor](./Bakat/kolakakor.md)
-* [pizza](./Bakat/pizza.md)
+* [Bröd i gryta](./Bakat/Bröd i gryta.md)
+* [Chocolate Chip Cookies](./Bakat/chocolate-chip-cookies.md)
+* [Chokladbollar](./Bakat/chokladbollar.md)
+* [Focaccia](./Bakat/focaccia.md)
+* [Kolakakor](./Bakat/kolakakor.md)
+* [Pizza](./Bakat/pizza.md)
 
 ## Fågel
 
-* [chicken-a-la-king](./Fågel/chicken-a-la-king.md)
-* [johannas-kyckling](./Fågel/johannas-kyckling.md)
-* [kyckling-med-citronquinoa](./Fågel/kyckling-med-citronquinoa.md)
-* [ramensoppa-med-kyckling](./Fågel/ramensoppa-med-kyckling.md)
+* [Chicken à la King](./Fågel/chicken-a-la-king.md)
+* [Johannas grekiska kyckling](./Fågel/johannas-kyckling.md)
+* [Kyckling med citronquinoa och fikonsky](./Fågel/kyckling-med-citronquinoa.md)
+* [Ramensoppa med kyckling](./Fågel/ramensoppa-med-kyckling.md)
 
 ## Fisk
 
-* [anders-och-lenas-lax](./Fisk/anders-och-lenas-lax.md)
-* [brantevikssill](./Fisk/brantevikssill.md)
-* [disas-musslor](./Fisk/disas-musslor.md)
-* [hoki-med-äggsås](./Fisk/hoki-med-äggsås.md)
-* [inkokt-lax](./Fisk/inkokt-lax.md)
-* [laxsallad-med-lime-och-jordnötter](./Fisk/laxsallad-med-lime-och-jordnötter.md)
-* [rödspätta-grenoble](./Fisk/rödspätta-grenoble.md)
-* [sushi](./Fisk/sushi.md)
+* [Anders och Lenas Lax](./Fisk/anders-och-lenas-lax.md)
+* [Brantevikssill](./Fisk/brantevikssill.md)
+* [Disas musslor](./Fisk/disas-musslor.md)
+* [Hoki med äggsås](./Fisk/hoki-med-äggsås.md)
+* [Inkokt lax med romsås och timjanmorötter](./Fisk/inkokt-lax.md)
+* [Laxsallad med lime och jordnötter](./Fisk/laxsallad-med-lime-och-jordnötter.md)
+* [Rödspätta Grenoble](./Fisk/rödspätta-grenoble.md)
+* [Sushi](./Fisk/sushi.md)
 
 ## Gott
 
-* [cheesecake](./Gott/cheesecake.md)
-* [chokladmousse](./Gott/chokladmousse.md)
-* [mormors-chokladkaka](./Gott/mormors-chokladkaka.md)
-* [yvonnes-äpplekaka](./Gott/yvonnes-äpplekaka.md)
+* [Cheesecake](./Gott/cheesecake.md)
+* [Chokladmousse](./Gott/chokladmousse.md)
+* [Mormors chokladkaka](./Gott/mormors-chokladkaka.md)
+* [Yvonnes snabba äpplekaka](./Gott/yvonnes-äpplekaka.md)
 
 ## Kött
 
-* [barbacoa](./Kött/barbacoa.md)
-* [creolsk-gryta](./Kött/creolsk-gryta.md)
-* [falukorv-blomkålspuré](./Kött/falukorv-blomkålspuré.md)
-* [fläskkarré-med-nektarinsallad](./Kött/fläskkarré-med-nektarinsallad.md)
-* [jamies-beef-and-stout-pie](./Kött/jamies-beef-and-stout-pie.md)
-* [köttfärspiroger](./Kött/köttfärspiroger.md)
-* [kroppkakor](./Kött/kroppkakor.md)
-* [lammstek-med-svartrotsgratäng](./Kött/lammstek-med-svartrotsgratäng.md)
-* [revbensspjäll](./Kött/revbensspjäll.md)
-* [salami-och-pestofyllda-rullader](./Kött/salami-och-pestofyllda-rullader.md)
-* [strimlad-lövbiff-i-senapssås](./Kött/strimlad-lövbiff-i-senapssås.md)
+* [Biff Barbacoa](./Kött/barbacoa.md)
+* [Creolsk gryta](./Kött/creolsk-gryta.md)
+* [Falukorv med blomkålspuré och grönsaker](./Kött/falukorv-blomkålspuré.md)
+* [Grillad fläskkarré med nektarinsallad och klyftpotatis](./Kött/fläskkarré-med-nektarinsallad.md)
+* [Jamie’s Beef and Stout pie](./Kött/jamies-beef-and-stout-pie.md)
+* [Köttfärspiroger](./Kött/köttfärspiroger.md)
+* [Grova öländska kroppkakor](./Kött/kroppkakor.md)
+* [Lammstek med svartrots- och potatisgratäng](./Kött/lammstek-med-svartrotsgratäng.md)
+* [Revbensspjäll med cole slaw](./Kött/revbensspjäll.md)
+* [Salami- och pestofyllda rullader](./Kött/salami-och-pestofyllda-rullader.md)
+* [Strimlad lövbiff i senapssås med parmesan](./Kött/strimlad-lövbiff-i-senapssås.md)
 
 ## Pasta
 
-* [lasagne](./Pasta/lasagne.md)
-* [pasta-bolognese-högrev](./Pasta/pasta-bolognese-högrev.md)
+* [Lasagne](./Pasta/lasagne.md)
+* [Pasta Bolognese på högrev](./Pasta/pasta-bolognese-högrev.md)
 
 ## Sås
 
-* [bearnaisesås](./Sås/bearnaisesås.md)
-* [cajundressing](./Sås/cajundressing.md)
-* [currysås](./Sås/currysås.md)
-* [pepparrotsdip](./Sås/pepparrotsdip.md)
-* [romanescosås](./Sås/romanescosås.md)
-* [tahinisås](./Sås/tahinisås.md)
+* [Bearnaisesås](./Sås/bearnaisesås.md)
+* [Cajundressing](./Sås/cajundressing.md)
+* [Currysås](./Sås/currysås.md)
+* [Pepparrotsdip](./Sås/pepparrotsdip.md)
+* [Romanescosås](./Sås/romanescosås.md)
+* [Magisk Tahinisås](./Sås/tahinisås.md)
 
 ## Smått
 
-* [amerikanska-pannkakor](./Smått/amerikanska-pannkakor.md)
-* [basilikapaj-med-fetaost-och-oliver](./Smått/basilikapaj-med-fetaost-och-oliver.md)
-* [cong-you-bing](./Smått/cong-you-bing.md)
-* [färska-vårrullar](./Smått/färska-vårrullar.md)
-* [fläskpannkaka](./Smått/fläskpannkaka.md)
-* [inbakade-räkor-med-sesamsås](./Smått/inbakade-räkor-med-sesamsås.md)
-* [köttfärspaj](./Smått/köttfärspaj.md)
-* [ost-och-skinkpaj](./Smått/ost-och-skinkpaj.md)
-* [pannkakor](./Smått/pannkakor.md)
-* [terrin-på-svamp-och-äpple](./Smått/terrin-på-svamp-och-äpple.md)
-* [zuccinipaj-med-pesto](./Smått/zuccinipaj-med-pesto.md)
+* [Amerikanska pannkakor](./Smått/amerikanska-pannkakor.md)
+* [Basilikapaj med fetaost och oliver](./Smått/basilikapaj-med-fetaost-och-oliver.md)
+* [Cong you bing](./Smått/cong-you-bing.md)
+* [Färska vårrullar med dipsås](./Smått/färska-vårrullar.md)
+* [Fläskpannkaka](./Smått/fläskpannkaka.md)
+* [Inbakade räkor med sesamsås](./Smått/inbakade-räkor-med-sesamsås.md)
+* [Köttfärspaj](./Smått/köttfärspaj.md)
+* [Ost- och skinkpaj](./Smått/ost-och-skinkpaj.md)
+* [Pannkakor](./Smått/pannkakor.md)
+* [Drakamöllans terrin på svamp och äpple](./Smått/terrin-på-svamp-och-äpple.md)
+* [Zuccinipaj med pesto](./Smått/zuccinipaj-med-pesto.md)
 
 ## Soppa
 
-* [jordärtskockssoppa-med-parmachips](./Soppa/jordärtskockssoppa-med-parmachips.md)
-* [köttfärssoppa](./Soppa/köttfärssoppa.md)
-* [morotssoppa](./Soppa/morotssoppa.md)
+* [Jordärtskockssoppa med parmachips](./Soppa/jordärtskockssoppa-med-parmachips.md)
+* [Köttfärssoppa](./Soppa/köttfärssoppa.md)
+* [Morotssoppa](./Soppa/morotssoppa.md)

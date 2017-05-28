@@ -12,5 +12,7 @@ for dirName, subdirList, fileList in os.walk(rootDir):
     category = unicodedata.normalize('NFC', dirName)
     print("\n## {}\n".format(category[2:]))
     for fname in fileList:
-        recipe = unicodedata.normalize('NFC', fname)
-        print("* [{}]({}/{})".format(recipe[:-3], dirName, recipe))
+        recipeLink = unicodedata.normalize('NFC', fname)
+        with open(dirName + '/' + fname, 'r') as f:
+                recipeTitle = f.readline().strip('#').strip()
+        print("* [{}]({}/{})".format(recipeTitle, dirName, recipeLink))
