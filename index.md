@@ -11,10 +11,10 @@
 
 ## Fågel
 
-* [Chicken à la King](./Fågel/chicken-a-la-king.md)
-* [Johannas grekiska kyckling](./Fågel/johannas-kyckling.md)
-* [Kyckling med citronquinoa och fikonsky](./Fågel/kyckling-med-citronquinoa.md)
-* [Ramensoppa med kyckling](./Fågel/ramensoppa-med-kyckling.md)
+* [Chicken à la King](./Fågel/chicken-a-la-king.md)
+* [Johannas grekiska kyckling](./Fågel/johannas-kyckling.md)
+* [Kyckling med citronquinoa och fikonsky](./Fågel/kyckling-med-citronquinoa.md)
+* [Ramensoppa med kyckling](./Fågel/ramensoppa-med-kyckling.md)
 
 ## Fisk
 
@@ -36,17 +36,17 @@
 
 ## Kött
 
-* [Biff Barbacoa](./Kött/barbacoa.md)
-* [Creolsk gryta](./Kött/creolsk-gryta.md)
-* [Falukorv med blomkålspuré och grönsaker](./Kött/falukorv-blomkålspuré.md)
-* [Grillad fläskkarré med nektarinsallad och klyftpotatis](./Kött/fläskkarré-med-nektarinsallad.md)
-* [Jamie’s Beef and Stout pie](./Kött/jamies-beef-and-stout-pie.md)
-* [Köttfärspiroger](./Kött/köttfärspiroger.md)
-* [Grova öländska kroppkakor](./Kött/kroppkakor.md)
-* [Lammstek med svartrots- och potatisgratäng](./Kött/lammstek-med-svartrotsgratäng.md)
-* [Revbensspjäll med cole slaw](./Kött/revbensspjäll.md)
-* [Salami- och pestofyllda rullader](./Kött/salami-och-pestofyllda-rullader.md)
-* [Strimlad lövbiff i senapssås med parmesan](./Kött/strimlad-lövbiff-i-senapssås.md)
+* [Biff Barbacoa](./Kött/barbacoa.md)
+* [Creolsk gryta](./Kött/creolsk-gryta.md)
+* [Falukorv med blomkålspuré och grönsaker](./Kött/falukorv-blomkålspuré.md)
+* [Grillad fläskkarré med nektarinsallad och klyftpotatis](./Kött/fläskkarré-med-nektarinsallad.md)
+* [Jamie’s Beef and Stout pie](./Kött/jamies-beef-and-stout-pie.md)
+* [Köttfärspiroger](./Kött/köttfärspiroger.md)
+* [Grova öländska kroppkakor](./Kött/kroppkakor.md)
+* [Lammstek med svartrots- och potatisgratäng](./Kött/lammstek-med-svartrotsgratäng.md)
+* [Revbensspjäll med cole slaw](./Kött/revbensspjäll.md)
+* [Salami- och pestofyllda rullader](./Kött/salami-och-pestofyllda-rullader.md)
+* [Strimlad lövbiff i senapssås med parmesan](./Kött/strimlad-lövbiff-i-senapssås.md)
 
 ## Pasta
 
@@ -55,27 +55,27 @@
 
 ## Sås
 
-* [Bearnaisesås](./Sås/bearnaisesås.md)
-* [Cajundressing](./Sås/cajundressing.md)
-* [Currysås](./Sås/currysås.md)
-* [Pepparrotsdip](./Sås/pepparrotsdip.md)
-* [Romanescosås](./Sås/romanescosås.md)
-* [Magisk Tahinisås](./Sås/tahinisås.md)
+* [Bearnaisesås](./Sås/bearnaisesås.md)
+* [Cajundressing](./Sås/cajundressing.md)
+* [Currysås](./Sås/currysås.md)
+* [Pepparrotsdip](./Sås/pepparrotsdip.md)
+* [Romanescosås](./Sås/romanescosås.md)
+* [Magisk Tahinisås](./Sås/tahinisås.md)
 
 ## Smått
 
-* [Amerikanska pannkakor](./Smått/amerikanska-pannkakor.md)
-* [Basilikapaj med fetaost och oliver](./Smått/basilikapaj-med-fetaost-och-oliver.md)
-* [Cong you bing](./Smått/cong-you-bing.md)
-* [Färska vårrullar med dipsås](./Smått/färska-vårrullar.md)
-* [Fläskpannkaka](./Smått/fläskpannkaka.md)
-* [Inbakade räkor med sesamsås](./Smått/inbakade-räkor-med-sesamsås.md)
-* [Kallbryggt kaffe](./Smått/kallbryggt-kaffe.md)
-* [Köttfärspaj](./Smått/köttfärspaj.md)
-* [Ost- och skinkpaj](./Smått/ost-och-skinkpaj.md)
-* [Pannkakor](./Smått/pannkakor.md)
-* [Drakamöllans terrin på svamp och äpple](./Smått/terrin-på-svamp-och-äpple.md)
-* [Zuccinipaj med pesto](./Smått/zuccinipaj-med-pesto.md)
+* [Amerikanska pannkakor](./Smått/amerikanska-pannkakor.md)
+* [Basilikapaj med fetaost och oliver](./Smått/basilikapaj-med-fetaost-och-oliver.md)
+* [Cong you bing](./Smått/cong-you-bing.md)
+* [Färska vårrullar med dipsås](./Smått/färska-vårrullar.md)
+* [Fläskpannkaka](./Smått/fläskpannkaka.md)
+* [Inbakade räkor med sesamsås](./Smått/inbakade-räkor-med-sesamsås.md)
+* [Kallbryggt kaffe](./Smått/kallbryggt-kaffe.md)
+* [Köttfärspaj](./Smått/köttfärspaj.md)
+* [Ost- och skinkpaj](./Smått/ost-och-skinkpaj.md)
+* [Pannkakor](./Smått/pannkakor.md)
+* [Drakamöllans terrin på svamp och äpple](./Smått/terrin-på-svamp-och-äpple.md)
+* [Zuccinipaj med pesto](./Smått/zuccinipaj-med-pesto.md)
 
 ## Soppa
 
