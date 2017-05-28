@@ -2,7 +2,7 @@
 
 ## Bakat
 
-* [Bröd i gryta](./Bakat/Bröd i gryta.md)
+* [Bröd i gryta](./Bakat/bröd-i-gryta.md)
 * [Chocolate Chip Cookies](./Bakat/chocolate-chip-cookies.md)
 * [Chokladbollar](./Bakat/chokladbollar.md)
 * [Focaccia](./Bakat/focaccia.md)
@@ -70,6 +70,7 @@
 * [Färska vårrullar med dipsås](./Smått/färska-vårrullar.md)
 * [Fläskpannkaka](./Smått/fläskpannkaka.md)
 * [Inbakade räkor med sesamsås](./Smått/inbakade-räkor-med-sesamsås.md)
+* [Kallbryggt kaffe](./Smått/kallbryggt-kaffe.md)
 * [Köttfärspaj](./Smått/köttfärspaj.md)
 * [Ost- och skinkpaj](./Smått/ost-och-skinkpaj.md)
 * [Pannkakor](./Smått/pannkakor.md)
