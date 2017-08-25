@@ -1,20 +1,35 @@
 # Grillad fläskkarré med nektarinsallad och klyftpotatis
 ## 4 personer
 
-Om du vill grilla, tänd grillen. Sätt även ugnen på 250 grader.
+Sätt ugnen på 225 grader. Klyfta
 
 * 800 gram potatis
 
-Klyfta potatisen och lägg i en långpanna med bakplåtspapper. Ringla över lite olivolja, salt och svartpeppar. Tillaga i övre delen av ugnen 20-25 min, eller tills potatisen är klar.
+och lägg i en långpanna med bakplåtspapper. Ringla över lite olivolja, salt och svartpeppar. Tillaga i övre delen av ugnen 45 min, eller tills potatisen är klar.
+
+Om du vill grilla, tänd grillen.
+
+## Nektarinsallad
+Tärna:
 
 * 3 nektariner
 * 2 tomater
+
+Skiva
+
 * 1 knippe vårlök
+
+Tillsätt finrivet skal och pressad saft av
+
 * 1/2 lime
-* 1 bit ingefära
 
-Tärna nektariner och tomater. Skiva vårlök tunt. Tillsätt finrivet skal och pressad saft av 1/2 lime och finriv ingefäran (1 msk). Ingefäran kan vara stark, tillsätt inte allt på en gång. Blanda väl, smaka av och tillsätt ev. mer ingefära.
+och finriv
 
+* 1 bit ingefära (ca. 1 msk)
+
+Ingefäran kan vara stark, tillsätt inte allt på en gång. Blanda väl, smaka av och tillsätt ev. mer ingefära.
+
+## Marinad
 * 2 msk olja
 * 2 msk röd currypasta
 * 1 msk honung
@@ -24,8 +39,12 @@ Tärna nektariner och tomater. Skiva vårlök tunt. Tillsätt finrivet skal och 
 
 Blanda ingredienserna till marinaden i en bunke.
 
+Skär
+
 * 600 g fläskkarré
 
-Skär karrén i 4 skivor och stek eller grilla 3-4 min per sida, eller tills den är genomstekt.
+i 4 skivor och stek eller grilla 3-4 min per sida, eller tills den är genomstekt.
+ 
+Strimla den nygrillade fläskkarrén och vänd ner i marinaden. Låt stå i några minuter.
 
-Strimla den nygrillade fläskkarrén och vänd ner i marinaden. Servera med lite japansk soja, nektarinsallad och klyftpotatis.
+Servera med lite japansk soja, nektarinsallad och klyftpotatis.
