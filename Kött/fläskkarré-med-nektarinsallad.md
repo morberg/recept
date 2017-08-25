@@ -5,7 +5,7 @@ Sätt ugnen på 225 grader. Klyfta
 
 * 800 gram potatis
 
-och lägg i en långpanna med bakplåtspapper. Ringla över lite olivolja, salt och svartpeppar. Tillaga i övre delen av ugnen 45 min, eller tills potatisen är klar.
+och lägg i en långpanna med bakplåtspapper. Ringla över lite olivolja, salt och svartpeppar. Tillaga i övre delen av ugnen 45 min eller tills potatisen är klar.
 
 Om du vill grilla, tänd grillen.
 
