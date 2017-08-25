@@ -5,7 +5,7 @@ Sätt ugnen på 225 grader. Klyfta
 
 * 800 gram potatis
 
-och lägg i en långpanna med bakplåtspapper. Ringla över lite olivolja, salt och svartpeppar. Tillaga i övre delen av ugnen 45 min eller tills potatisen är klar.
+och lägg i en långpanna med bakplåtspapper. Ringla över lite olivolja och rosmarin. Tillaga i övre delen av ugnen 45 min eller tills potatisen är klar.
 
 Om du vill grilla, tänd grillen.
 
@@ -47,4 +47,6 @@ i 4 skivor och stek eller grilla 3-4 min per sida eller tills den är genomstekt
  
 Strimla den nygrillade fläskkarrén och vänd ner i marinaden. Låt stå i några minuter.
 
-Servera med lite japansk soja, nektarinsallad och klyftpotatis.
+Salta potatisen när den är färdig och blanda runt.
+
+Servera karrén med lite japansk soja, nektarinsallad och potatis.
