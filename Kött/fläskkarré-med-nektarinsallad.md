@@ -10,7 +10,7 @@ och lägg i en långpanna med bakplåtspapper. Ringla över lite olivolja, salt 
 Om du vill grilla, tänd grillen.
 
 ### Nektarinsallad
-Tärna:
+Tärna
 
 * 3 nektariner
 * 2 tomater
