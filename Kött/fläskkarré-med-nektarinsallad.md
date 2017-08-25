@@ -9,7 +9,7 @@ och lägg i en långpanna med bakplåtspapper. Ringla över lite olivolja, salt 
 
 Om du vill grilla, tänd grillen.
 
-## Nektarinsallad
+### Nektarinsallad
 Tärna:
 
 * 3 nektariner
@@ -29,7 +29,7 @@ och finriv
 
 Ingefäran kan vara stark, tillsätt inte allt på en gång. Blanda väl, smaka av och tillsätt ev. mer ingefära.
 
-## Marinad
+### Marinad
 * 2 msk olja
 * 2 msk röd currypasta
 * 1 msk honung
