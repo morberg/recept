@@ -43,7 +43,7 @@ Skär
 
 * 600 g fläskkarré
 
-i 4 skivor och stek eller grilla 3-4 min per sida, eller tills den är genomstekt.
+i 4 skivor och stek eller grilla 3-4 min per sida eller tills den är genomstekt.
  
 Strimla den nygrillade fläskkarrén och vänd ner i marinaden. Låt stå i några minuter.
 
