@@ -2,13 +2,13 @@
 
 Krossa
 
-* 5 dl corn flakes
+* 80 g corn flakes
 
-i små bitar. Smält:
+med händerna i små bitar. Smält:
 
-* 1/2 burk jordnötssmör
-* 1 dl ljus sirap
-* 1/2 dl socker
+* 170 g jordnötssmör
+* 140 g ljus sirap
+* 50 g socker
 
 i en kastrull. Blanda i flingorna och 
 
