@@ -7,13 +7,17 @@ Hamburgerbröd
 
 Smula ner jästen i en bakmaskin och tillsätt mjölken, blanda tills jästen löst sig.
 
-Mät upp:
+Väg under tiden upp:
+- 75 g smör
+och kör i mikron i 45 sekunder så att det blir lite mjukt.
+
+Blanda
 - 480 gram (8 dl) vetemjöl special
 - 1/2 tsk salt
 - 1 tsk socker
 
-i en bunke. Blanda runt lite lätt och häll i bakmaskinen. Avsluta med att lägga i:
-- 75 g rumsvarmt smör
+i en bunke. Veva runt lite lätt och häll i bakmaskinen. Avsluta med att lägga i:
+
 - 1 ägg
 
 Kör bakmaskinen i tio minuter. Degen kommer att vara lite kladdig.
