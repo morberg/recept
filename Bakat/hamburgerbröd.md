@@ -1,7 +1,7 @@
-Hamburgerbröd
-=============
-8 stycken
----------
+# Hamburgerbröd
+
+## 8 stycken
+
 - 25 g jäst
 - 2,5 dl mjölk, fingervarm
 
@@ -20,9 +20,9 @@ Blanda:
 i en bunke. Veva runt lite lätt. Lägg smöret i bunken och knäck i:
 - 1 ägg
 
-Häll allt innehåll i bunken i bakmaskinen och kör i tio minuter. Degen kommer att vara lite kladdig. Täck med plastfolie och jäs i en halvtimme tills den är dubbelt så stor.
+Häll allt innehåll från bunken i bakmaskinen och kör i tio minuter. Degen kommer att vara lite kladdig. Täck med plastfolie och jäs i en halvtimme tills den är dubbelt så stor.
 
-Tryck ur luften ur degen och dela i åtta lika stora bitar. Forma till runda bollar och lägg dom på en plåt med bakplåtspapper, platta till med handflatan så dom blir ca en cm tjocka.
+Tryck ur luften ur degen och dela i åtta lika stora bitar. Forma till runda bollar och lägg dom på en plåt med bakplåtspapper. Platta till med handflatan så dom blir ca. en cm tjocka.
 
 Täck med en bakduk och jäs i en timme. Sätt ugnen på 225 grader.
 
