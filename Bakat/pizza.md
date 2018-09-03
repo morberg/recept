@@ -1,6 +1,6 @@
 # Pizza
 
-## 2 pizzor
+## 2 pizzor i braspannestorlek
 
 ### Deg
 
