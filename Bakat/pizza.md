@@ -1,8 +1,6 @@
-Pizza
-=====
+# Pizza
 
-4 personer
-----------
+## 2 pizzor
 
 ### Deg
 
