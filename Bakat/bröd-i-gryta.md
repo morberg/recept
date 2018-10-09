@@ -20,5 +20,5 @@ uppochner och forma till ett bröd. Lägg i jäskorg med mjölad handduk och ska
 uppåt.
 2.	Sätt in en gjutjärnsgryta med lock på nedre falsen i ugnen. Sätt den på 300
 grader. Låt bröden jäsa en timme medan ugnen blir varm.
-3.	Vänd ner det ena brödet i den varma grytan. Skåra toppen. Baka 25 minuter med lock på. Sänk värmen till 225 grader, ta av locket och baka ytterligare 25 minuter. Låt svalna på galler.
+3.	Vänd ner det ena brödet i den varma grytan. Skåra toppen. Baka 25 minuter med lock på. Sänk värmen till 250 grader, ta av locket och baka ytterligare 25 minuter. Låt svalna på galler.
 4. Sätt ugnen på 300 grader igen med grytan i. Upprepa steg 3 med det andra brödet när ugnen blivit varm.
