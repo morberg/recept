@@ -54,6 +54,7 @@
 
 * [Lasagne](./Pasta/lasagne.md)
 * [Pasta Bolognese på högrev](./Pasta/pasta-bolognese-högrev.md)
+* [Rostad blomkålscarbonara](./Pasta/rostad-blomkålscarbonara.md)
 
 ## Smått
 
