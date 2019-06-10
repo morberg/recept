@@ -1,8 +1,5 @@
-Lasagne
-=======
-
-6 personer
-----------
+# Lasagne
+## 6 personer
 
 Börja med att göra en omgång köttfärssås. Sätt ugnen på 250°.
 
