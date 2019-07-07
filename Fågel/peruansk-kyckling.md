@@ -37,7 +37,7 @@ med hushållspapper och placera på en skärbräda. Klipp av ryggraden med en k�
 
 Massera in kryddblandningen på kycklingen.
 
-Placera kycklingen med skinnet uppåt på den svala halvan av grillen med låren mot kolhalvan. Sätt på ett lock med ventilen öppen över kycklingen. Grilla tills bröstet har nått 45°.
+Placera kycklingen med skinnet uppåt på den svala halvan av grillen med låren mot kolhalvan. Sätt på ett lock med ventilen öppen över kycklingen. Grilla tills bröstet har nått 45°, ca. 25-30 minuter.
 
 Vänd försiktigt på kycklingen och lägg med skinnsidan ner på den varma delen av grillen, brösten mot den svalare delen av grillen. Tryck till med en stekspade. Lägg på locket igen och grilla tills skinnet är krispigt och temperaturen i bröstet har stigit till 63° till 66°, ca. 10 minuter till. Om det verkar som om kycklingen håller på att bränd innan temperaturen är nådd kan du flytta över den till den svalare delen av grillen och lägga på locket igen. Ta bara av locket när du kollar temperaturen, annars riskerar du att bränna kycklingen.
 
