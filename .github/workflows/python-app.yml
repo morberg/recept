@@ -1,4 +1,4 @@
-name: Python application
+name: Update table of contents
 
 on:
   push:
@@ -24,3 +24,6 @@ jobs:
     - name: Update table of contents (index.md)
       run: |
         ./create-index.py > index.md
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Automatic update of index.md
