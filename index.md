@@ -1,12 +1,5 @@
 # Morbergs receptsamling
 
-## .github
-
-
-## .github/workflows
-
-* [name: Update table of contents](./.github/workflows/python-app.yml)
-
 ## Bakat
 
 * [Bröd i gryta](./Bakat/bröd-i-gryta.md)
