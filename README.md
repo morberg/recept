@@ -9,12 +9,10 @@ Checka ut en lokal kopia med:
 Om man i "Settings" för github-projektet slår på GitHub Pages kan recepten automatiskt publiceras.
 Det är påslaget för detta repository  och du hittar det på https://morberg.github.io/recept/ .
 
-Filen `index.md` behöver genereras lokalt för att få en innehållsförteckning.
-Använd `create-index.py` för detta på din lokala maskin och checka sedan in `index.md` till github:
+Filen `index.md` behöver genereras för att få en innehållsförteckning. Detta sker automatiskt med github actions när du checkar in till github.
+
+Vill du generera `index.md` på din lokala maskin använder du `create-index.py` såhär:
 
     ./create-index.py > index.md
-    git commit -a -m 'Uppdatera index'
+    git commit -am 'Uppdatera index'
     git push
-
-## PDF-varianter
-Surfa till rätt recept på github.com (inte github.io). Byt ut `github.com` till `gitprint.com`. Klart.
