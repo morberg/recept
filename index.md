@@ -36,6 +36,7 @@
 * [Kyckling med citronquinoa och fikonsky](./Fågel/kyckling-med-citronquinoa.md)
 * [Peruansk kyckling](./Fågel/peruansk-kyckling.md)
 * [Ramensoppa med kyckling](./Fågel/ramensoppa-med-kyckling.md)
+* [Vietnamesiska kycklingvingar](./Fågel/vietnamesiska-kycklingvingar.md)
 
 ## Gott
 
