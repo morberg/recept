@@ -19,7 +19,7 @@ Blanda i
 * saft från en halv lime
 * 3 msk sriracha (om du vill ha starkare så fläska på mer sriracha)
 
-övriga ingredienser och reducera ner tills du får en sirapsliknande konsistens på din glaze. Ställ sedan undan den.
+och reducera ner tills du får en sirapsliknande konsistens på din glaze. Ställ sedan undan den.
 
 ### Marinad och vingar
 
