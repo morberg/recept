@@ -1,5 +1,12 @@
 # Morbergs receptsamling
 
+## .github
+
+
+## .github/workflows
+
+* [name: Update table of contents](./.github/workflows/python-app.yml)
+
 ## Bakat
 
 * [Bröd i gryta](./Bakat/bröd-i-gryta.md)
@@ -13,6 +20,7 @@
 ## Fisk
 
 * [Anders och Lenas Lax](./Fisk/anders-och-lenas-lax.md)
+* [Bouillabaisse](./Fisk/bouillabaisse.md)
 * [Brantevikssill](./Fisk/brantevikssill.md)
 * [Disas musslor](./Fisk/disas-musslor.md)
 * [Hoki med äggsås](./Fisk/hoki-med-äggsås.md)
