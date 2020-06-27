@@ -34,7 +34,7 @@ och låt puttra 4-5 minuter. Häll i
 
 och låt soppan sjuda under lock i knappt 20 minuter. Passa under tiden på att tärna:
 
-* 300 gram laxfilée
+* 300 gram laxfilé
 * 300 gram torsk
 
 och krydda med lite salt. Sila av
