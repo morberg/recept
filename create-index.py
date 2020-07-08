@@ -21,4 +21,5 @@ for dirName, subdirList, fileList in os.walk(rootDir):
             recipeTitle = f.readline().strip("#").strip()
         print("* [{}]({}/{})".format(recipeTitle, category, recipeLink))
 
+print("")
 print("## [Sous Vide](sous-vide.md)")
