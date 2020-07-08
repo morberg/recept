@@ -49,6 +49,7 @@
 * [Grova öländska kroppkakor](./Kött/kroppkakor.md)
 * [Köttfärspiroger](./Kött/köttfärspiroger.md)
 * [Lammstek med svartrots- och potatisgratäng](./Kött/lammstek-med-svartrotsgratäng.md)
+* [Larb](./Kött/larb.md)
 * [Revbensspjäll med cole slaw](./Kött/revbensspjäll.md)
 * [Salami- och pestofyllda rullader](./Kött/salami-och-pestofyllda-rullader.md)
 * [Strimlad lövbiff i senapssås med parmesan](./Kött/strimlad-lövbiff-i-senapssås.md)
