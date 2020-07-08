@@ -45,6 +45,3 @@ Allt bra om ingen annan kommentar
 * [Douglas Baldwin](http://douglasbaldwin.com/sous-vide.html#Top) 
 * [Modernist cooking at home](http://www.modernistcookingathome.com)
 * [Modernist Cuisine](http://modernistcuisine.com/mc-recipes/)
-
-
-
