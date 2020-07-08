@@ -1,8 +1,5 @@
 # Sous vide
 
-## Testade temperaturer/tider
-Allt bra om ingen annan kommentar
-
 | Råvara            | Temp.     | Tid           | Kommentar                                                                                                  |
 | ----------------- | --------- | ------------- | ---------------------------------------------------------------------------------------------------------- |
 | Entrecôte         | 55°       | 1-4 timmar    |                                                                                                            |
