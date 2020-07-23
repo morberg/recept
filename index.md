@@ -92,4 +92,8 @@
 * [Romanescosås](./Sås/romanescosås.md)
 * [Magisk Tahinisås](./Sås/tahinisås.md)
 
+## Vegetariskt
+
+* [Vegetarisk garam masala](./Vegetariskt/vegetarisk-garam-masala.md)
+
 ## [Sous Vide](sous-vide.md)
