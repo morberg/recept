@@ -44,6 +44,7 @@
 * [Biff Barbacoa](./Kött/barbacoa.md)
 * [Creolsk gryta](./Kött/creolsk-gryta.md)
 * [Falukorv med blomkålspuré och grönsaker](./Kött/falukorv-blomkålspuré.md)
+* [Fläskfilé med krämig polenta](./Kött/fläskfilé-med-krämig-polenta.md)
 * [Grillad fläskkarré med nektarinsallad och klyftpotatis](./Kött/fläskkarré-med-nektarinsallad.md)
 * [Jamie’s Beef and Stout pie](./Kött/jamies-beef-and-stout-pie.md)
 * [Grova öländska kroppkakor](./Kött/kroppkakor.md)
