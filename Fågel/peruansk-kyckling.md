@@ -5,19 +5,15 @@ Tänd grillen eller sätt ugnen på 225°.
 
 Blanda samman nedanstående med en stavmixer:
 
-- 3 jalapeños
+- 2 jalapeños
 - 1 kruka hackad koriander
 - 1 vitlöksklyfta
-- 1 1/2 dl majonnäs
+- 2 1/2 dl majonnäs
 - 1/2 dl creme fraiche
-- 1 pressad lime
-- 1 tsk äppelcidervinäger
+- 1 pressad lime och rivet skal
+- ev. 1 tsk äppelcidervinäger
 
-Droppa i 
-
-- 2 msk olivolja
-
-medan du kör mixern. Smaka sedan av med salt och peppar. Täck över och ställ in i kylen tills det är dags att äta. Såsen kommer att vara ganska lös, men den tjocknar i kylen.
+Smaka av med salt, peppar och ev. vinäger. Täck över och ställ in i kylen tills det är dags att äta. Såsen kommer att vara ganska lös, men den tjocknar i kylen.
 
 Blanda en kryddblandning med:
 
