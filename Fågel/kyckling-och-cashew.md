@@ -3,19 +3,16 @@
 Koka upp
 
 * 3 dl vatten
-* 1 tärning grönsaksbuljong.
+* 1 tärning grönsaksbuljong
 
-Ställ undan och låt svalna. Hacka och strimla:
+Ställ undan och låt svalna. Hacka eller strimla och lägg i en bunke:
 
 * 1 stånd broccoli
 * 1 gul lök
 * 1 röd paprika
 * 1 stor morot
-
-Lägg i en bunke tillsammans med:
-
 * 1 burk bambuskott
-
+  
 Blanda i:
 
 * 1 msk soja
@@ -42,7 +39,7 @@ Rör ut
 
 i den avsvalnade buljongen.
 
-Fräs grönsakerna i olja i 3-4 minuter. Tillsätt buljongen och låt koka i ett par minuter. Lägg i den tärnade tofun.
+Fräs grönsakerna i olja i 3-4 minuter. Tillsätt buljongen och låt koka i ett par minuter. Lägg i den tärnade tofun. Smaka av med fisksås, soja, salt och ev. peppar.
 
 Servera med jasminris och uppskuren kycklingfilé. Toppa med:
 
