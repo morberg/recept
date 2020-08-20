@@ -39,4 +39,4 @@ mdbook build
 mdbook serve --open
 ```
 
-Skriv ut genom att trycka på skrivarikonen uppe till höger.
+Skriv ut genom att trycka på skrivarikonen uppe till höger. Använder typsnitt som bara finns i macOS (Avenir och Hoefler Text).
