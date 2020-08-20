@@ -11,6 +11,7 @@ Ställ undan och låt svalna. Hacka eller strimla och lägg i en bunke:
 * 1 gul lök
 * 1 röd paprika
 * 1 stor morot
+* 1 bit stjälkselleri
 * 1 burk bambuskott
   
 Blanda i:
