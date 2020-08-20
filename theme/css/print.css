@@ -1,4 +1,8 @@
 
+:root {
+    margin-top: 2cm;
+}
+
 #sidebar,
 #menu-bar,
 .nav-chapters,
@@ -14,12 +18,23 @@
 
 #content {
     max-width: none;
-    margin: 0;
-    padding: 0;
+    margin-left: 2cm;
+    margin-right: 1cm;
+    color: black;
 }
 
 .page {
     overflow-y: initial;
+}
+
+html {
+    font-family: "Hoefler Text", serif;
+    color: black;
+    background-color: white;
+}
+
+body {
+    font-size: 1.5rem;
 }
 
 code {
@@ -40,19 +55,22 @@ a, a:visited, a:active, a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    page-break-inside: avoid;
-    page-break-after: avoid;
+    break-inside: avoid;
+    break-after: avoid;
+    font-family: "Avenir", sans-serif;
 }
 
 h1 {
-    page-break-before: always;
+    break-before: page;
+    /* margin-top does not work after a page break. Perhaps there is an answer on
+    https://stackoverflow.com/questions/9519841/why-does-this-css-margin-top-style-not-work#9519933 but I do not have the patience to hunt this down right now. Unfortunately "normal" page breaks will not have a margin at the top of the page. Sigh. */
+    padding-top: 1cm;
 }
 
 h2, h3 { margin-top: 0.5em; }
 h4, h5 { margin-top: 0em; }
 
-
-pre, code {
+p, ul, pre, code {
     page-break-inside: avoid;
     white-space: pre-wrap;
 }
