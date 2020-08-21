@@ -1,23 +1,51 @@
-Chicken à la King
-=================
+# Chicken à la King
 
-4 personer
-----------
+## 4 personer
 
--	1 grillad eller kokt kyckling
--	300 g färska champinjoner
--	1 röd paprika
--	1 grön paprika
--	1 gul lök
--	2–3 msk vetemjöl
--	2 1/2 dl matlagninsgrädde
--	2 dl buljong
--	4–5 stänk tabasco
--	persilja
+Sätt på
 
-Instruktioner:
+* 4 portioner basmatiris
 
-1.	Skiva champinjoner och fräs i olja på medelstark värme. Passa under tiden på att skiva lök och strimla paprika. När svampen har blivit glansig tillsätter du lök och paprika. Låt fräsa med ett tag.
-2.	Strö över mjölet och häll på grädden och buljongen. Låt puttra några minuter. Dra skinnet av kycklingen och skär den i små bitar.
-3.	Smaka av med tabasco, salt och peppar. Tillsätt kycklingköttet och värm försiktigt.
-4.	Strö klippt persilja över och servera med ris och ärter.
+Häll eventuellt i
+
+* 1-2 dl ärtor eller sojabönor
+
+när det är 3-4 minuter kvar på riset.
+
+Skiva
+
+* 250 g färska champinjoner
+
+och fräs i en stekgryta på medelstark värme. Passa under tiden på att skiva och strimla
+
+* 1 gul lök
+* 1 röd paprika
+* 1 grön paprika
+
+Låt grönsakerna fräsa med svampen i några minuter. Strö över
+
+* 2-3 msk vetemjöl
+
+och häll på
+
+* 2 1/2 dl matlagningsgrädde
+* 2 1/2 dl vatten
+* 1 smulad buljongtärning
+
+Låt puttra några minuter. Dra under tiden skinnet av
+
+* 1 färdiggrillad kyckling
+
+och skär den i små bitar.
+
+Smaka av med
+
+* tabasco
+* salt
+* peppar
+
+Tillsätt kycklingköttet och sänk plattan till låg värme. Strö över
+
+* klippt persilja
+
+och servera med ris och ärtor.
