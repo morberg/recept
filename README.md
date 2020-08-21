@@ -19,24 +19,6 @@ Vill du generera `index.md` på din lokala maskin använder du `create-index.py`
 
 ## Utskriftsversion
 
-Med `mdbook` går det att få till en version för utskrift. Installera `mdbook`:
+Installera pdftex och vänner på din maskin med `brew install basiclatex`.
 
-```bash
-brew install mdbook
-```
-
-Skapa en ny katalog, gå dit och initiera en ny bok. Någon .gitignore behövs inte. Ge boken titeln *Morbergs receptsamling*.
-
-```bash
-mdbook init
-cd src
-rm *
-git clone https://github.com/morberg/recept.git .
-./create-SUMMARY.py
-cd ..
-mv src/theme/ .
-mdbook build
-mdbook serve --open
-```
-
-Skriv ut genom att trycka på skrivarikonen uppe till höger. Använder typsnitt som bara finns i macOS (Avenir och Hoefler Text).
+Sen är det bara att köra `make pdf` för att generera `receptsamling.pdf` som passar bra för utskrift.
