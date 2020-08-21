@@ -2,15 +2,13 @@
 
 ## 4 personer
 
-Sätt på
+Koka
 
 * 4 portioner basmatiris
 
-Häll eventuellt i
+När det är 3-4 minuter kvar på riset häll eventuellt i
 
 * 1-2 dl ärtor eller sojabönor
-
-när det är 3-4 minuter kvar på riset.
 
 Skiva
 
@@ -38,11 +36,7 @@ Låt puttra några minuter. Dra under tiden skinnet av
 
 och skär den i små bitar.
 
-Smaka av med
-
-* tabasco
-* salt
-* peppar
+Smaka av med tabasco, salt och peppar.
 
 Tillsätt kycklingköttet och sänk plattan till låg värme. Strö över
 
