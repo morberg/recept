@@ -1,7 +1,5 @@
 # Chicken à la King
 
-## 4 personer
-
 Koka
 
 * 4 portioner basmatiris
