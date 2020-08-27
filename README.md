@@ -19,6 +19,6 @@ Vill du generera `index.md` på din lokala maskin använder du `create-index.py`
 
 ## Utskriftsversion
 
-Installera pdftex och vänner på din maskin med `brew install basiclatex`.
+Installera xelatex och vänner på din maskin med `brew cask install basiclatex`.
 
-Sen är det bara att köra `make pdf` för att generera `receptsamling.pdf` som passar bra för utskrift.
+Sen är det bara att köra `make pdf` för att generera `receptsamling.pdf` och `sous-vide.pdf` som passar bra för utskrift.
