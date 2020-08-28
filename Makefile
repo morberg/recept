@@ -1,6 +1,6 @@
 pdf: receptsamling.pdf sous-vide.pdf
 
-receptsamling.pdf:
+receptsamling.pdf: */*.md
 	pandoc */*.md \
 	--pdf-engine=xelatex --variable documentclass=scrreprt \
 	--toc --toc-depth=1 --variable toc-title="Innehåll" \
