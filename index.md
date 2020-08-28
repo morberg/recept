@@ -60,6 +60,7 @@
 
 * [Kikärtspasta (Pasta Strozzapreti Ceci)](./Pasta/kikärtspasta-pasta-strozzapreti-ceci.md)
 * [Lasagne](./Pasta/lasagne.md)
+* [Orrecchiette med broccolikräm, mandel och quattrocento](./Pasta/orrecchiette-med-broccolikräm.md)
 * [Pasta Bolognese på högrev](./Pasta/pasta-bolognese-högrev.md)
 * [Rostad blomkålscarbonara](./Pasta/rostad-blomkålscarbonara.md)
 
