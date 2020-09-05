@@ -11,4 +11,4 @@ author: Niklas Morberg
 # ---
 
 plugins:
-  - jekyll-sitemap
+  - jekyll-titles-from-headings
