@@ -7,3 +7,8 @@ title: Morbergs receptsamling
 
 # Your name to show in the footer
 author: Niklas Morberg
+
+# ---
+
+plugins:
+  - jekyll-sitemap
