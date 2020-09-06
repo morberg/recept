@@ -62,6 +62,7 @@
 * [Lasagne](./Pasta/lasagne.md)
 * [Orrecchiette med broccolikräm, mandel och quattrocento](./Pasta/orrecchiette-med-broccolikräm.md)
 * [Pasta Bolognese på högrev](./Pasta/pasta-bolognese-högrev.md)
+* [Pastasallad med basilika- och spenatpesto](./Pasta/pastasallad-med-pesto.md)
 * [Rostad blomkålscarbonara](./Pasta/rostad-blomkålscarbonara.md)
 
 ## Smått
