@@ -1,7 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
-
-url: "https://morberg.github.io"
-baseurl: "/recept"
+remote_theme: daattali/beautiful-jekyll
 
 # --- Required options --- #
 
@@ -13,7 +10,6 @@ author: Niklas Morberg
 
 # --- Remove double titles fram pages
 plugins:
-  - jekyll-include-cache
   - jekyll-titles-from-headings
 
 titles_from_headings:
