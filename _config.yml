@@ -11,11 +11,9 @@ author: Niklas Morberg
 # --- Remove double titles fram pages
 plugins:
   - jekyll-include-cache
-  
-#plugins:
-#  - jekyll-titles-from-headings
+  - jekyll-titles-from-headings
 
-#titles_from_headings:
-#  enabled:     true
-#  strip_title: true
-#  collections: true 
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
