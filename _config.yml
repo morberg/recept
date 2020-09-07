@@ -9,7 +9,9 @@ title: Morbergs receptsamling
 author: Niklas Morberg
 
 # --- Remove double titles fram pages
-
+plugins:
+  - jekyll-include-cache
+  
 #plugins:
 #  - jekyll-titles-from-headings
 
