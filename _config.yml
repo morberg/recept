@@ -1,5 +1,8 @@
 remote_theme: mmistakes/minimal-mistakes
 
+url: "https://morberg.github.io"
+baseurl: "/recept"
+
 # --- Required options --- #
 
 # Name of website
