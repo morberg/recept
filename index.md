@@ -97,6 +97,7 @@
 
 ## Vegetariskt
 
+* [Fetaostbollar med quinoasallad och tsatsiki](./Vegetariskt/fetabollar-med-quinoa.md)
 * [Vegetarisk garam masala](./Vegetariskt/vegetarisk-garam-masala.md)
 
 ## [Sous Vide](sous-vide.md)
