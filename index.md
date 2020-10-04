@@ -16,6 +16,7 @@
 * [Bouillabaisse](./Fisk/bouillabaisse.md)
 * [Brantevikssill](./Fisk/brantevikssill.md)
 * [Disas musslor](./Fisk/disas-musslor.md)
+* [Fiskburgare med cole slaw](./Fisk/fiskburgare.md)
 * [Hoki med äggsås](./Fisk/hoki-med-äggsås.md)
 * [Inkokt lax med romsås och timjanmorötter](./Fisk/inkokt-lax.md)
 * [Laxsallad med lime och jordnötter](./Fisk/laxsallad-med-lime-och-jordnötter.md)
