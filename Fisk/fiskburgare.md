@@ -2,7 +2,7 @@
 
 ## 4 portioner
 
-Sätt på ugnen på 225°.
+Sätt på ugnen på 225° eller vad det nu står på din påse pommes.
 
 Gör en srirachamajonnäs på
 
