@@ -8,7 +8,7 @@ Gör en srirachamajonnäs på
 
 - 1 ägg
 - 1 msk sriracha
-- 1 tsk senap
+- 1 tsk fransk senap
 - 1 msk soja
 - 1 tsk äppelcidervinäger
 - 3 dl olja
