@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
-# Create a SUMMARY.md file to be used by mdbook
+# Create a receptsamling.md file to be used by pandoc
 import os
 
 rootDir = "."
-with open("SUMMARY.md", "w") as f:
-    f.write("# Morbergs receptsamling\n")
+with open("receptsamling.md", "w") as f:
+    f.write(
+        """---
+author: Niklas Morberg
+title: Morbergs receptsamling
+---
+"""
+    )
 
     for dirName, subdirList, fileList in os.walk(rootDir):
         subdirList.sort()
@@ -20,7 +26,7 @@ with open("SUMMARY.md", "w") as f:
             recipeLink = fname
             with open(dirName + "/" + fname, "r") as read_file:
                 recipeTitle = read_file.readline().strip("#").strip()
-            f.write("* [{}]({}/{})\n".format(recipeTitle, category, recipeLink))
-
-    f.write("# Sous Vide\n")
-    f.write("- [Sous Vide](./sous-vide.md)")
+            f.write("``` {.include shift-heading-level-by=1}\n")
+            f.write("{}/{}\n".format(dirName, recipeLink))
+            f.write("```\n")
+            f.write("\\clearpage\n")

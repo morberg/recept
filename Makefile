@@ -1,9 +1,10 @@
 pdf: receptsamling.pdf sous-vide.pdf
 
-receptsamling.pdf: */*.md
-	pandoc */*.md \
+receptsamling.pdf: receptsamling.md create-receptsamling.py
+	pandoc receptsamling.md \
+	--lua-filter=include-files.lua \
 	--pdf-engine=xelatex --variable documentclass=scrreprt \
-	--toc --toc-depth=1 --variable toc-title="Innehåll" \
+	--toc --toc-depth=2 --variable toc-title="Innehåll" \
 	--variable mainfont="Hoefler Text" --variable sansfont="Avenir" \
 	--variable papersize=a4paper \
 	--variable classoption=twocolumn \
@@ -15,6 +16,9 @@ sous-vide.pdf: sous-vide.md
 	--variable mainfont="Hoefler Text" --variable sansfont="Avenir" \
 	--variable papersize=a4paper \
 	-o sous-vide.pdf
+
+receptsamling.md: */*.md
+	python create-receptsamling.py
 
 .PHONY: clean
 clean:
