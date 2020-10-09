@@ -8,6 +8,12 @@ with open("receptsamling.md", "w") as f:
         """---
 author: Niklas Morberg
 title: Morbergs receptsamling
+documentclass: scrreprt
+mainfont: 'Hoefler Text'
+sansfont: 'Avenir'
+papersize: a4paper
+classoption: twocolumn
+toc-title: Innehåll
 ---
 """
     )

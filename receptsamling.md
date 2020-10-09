@@ -1,6 +1,12 @@
 ---
 author: Niklas Morberg
 title: Morbergs receptsamling
+documentclass: scrreprt
+toc-title: Innehåll
+mainfont: 'Hoefler Text'
+sansfont: 'Avenir'
+papersize: a4paper
+classoption: twocolumn
 ---
 
 # Bakat

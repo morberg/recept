@@ -1,3 +1,10 @@
+---
+documentclass: scrreprt
+mainfont: 'Hoefler Text'
+sansfont: 'Avenir'
+papersize: a4paper
+---
+
 # Sous vide
 
 | Råvara                   | Temp.     | Tid           | Kommentar                                                                                                  |
