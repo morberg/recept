@@ -2,11 +2,11 @@
 author: Niklas Morberg
 title: Morbergs receptsamling
 documentclass: scrreprt
-toc-title: Innehåll
 mainfont: 'Hoefler Text'
 sansfont: 'Avenir'
 papersize: a4paper
 classoption: twocolumn
+toc-title: Innehåll
 ---
 
 # Bakat
@@ -61,10 +61,6 @@ classoption: twocolumn
 ```
 \clearpage
 ``` {.include shift-heading-level-by=1}
-./Fisk/hoki-med-äggsås.md
-```
-\clearpage
-``` {.include shift-heading-level-by=1}
 ./Fisk/inkokt-lax.md
 ```
 \clearpage
@@ -78,6 +74,10 @@ classoption: twocolumn
 \clearpage
 ``` {.include shift-heading-level-by=1}
 ./Fisk/sushi.md
+```
+\clearpage
+``` {.include shift-heading-level-by=1}
+./Fisk/torskrygg-blomkålspuré.md
 ```
 \clearpage
 
