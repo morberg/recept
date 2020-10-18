@@ -9,6 +9,7 @@
 * [Hamburgerbröd](./Bakat/hamburgerbröd.md)
 * [Kolakakor](./Bakat/kolakakor.md)
 * [Pizza](./Bakat/pizza.md)
+* [Världens bästa bröd](./Bakat/världens-bästa-bröd.md)
 
 ## Fisk
 
