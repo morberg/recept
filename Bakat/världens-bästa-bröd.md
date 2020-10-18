@@ -7,7 +7,7 @@
 * 625 g vetemjöl
 * 1 dl solrosfrön
 
-Blanda ihop jäst och vatten. Tillsätt sal, honung och mjöl och rör om med en slev. Blanda ned pinjenötter, pumpakärnor, rivna morötter, russin eller kryddor i degen allt efter önskemål. Degen ska vara mycket mjuk och lös.
+Blanda ihop jäst och vatten. Tillsätt salt, honung och mjöl och rör om med en slev. Blanda ned pinjenötter, pumpakärnor, rivna morötter, russin eller kryddor i degen allt efter önskemål. Degen ska vara mycket mjuk och lös.
 
 Låt degen jäsa i rumstemperatur över natten i minst 12 timmar.
 
