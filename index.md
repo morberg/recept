@@ -9,6 +9,8 @@
 * [Hamburgerbröd](./Bakat/hamburgerbröd.md)
 * [Kolakakor](./Bakat/kolakakor.md)
 * [Pizza](./Bakat/pizza.md)
+* [Tekakor med rivna morötter](./Bakat/tekakor-med-rivna-morötter.md)
+* [Världens bästa bröd](./Bakat/världens-bästa-bröd.md)
 
 ## Fisk
 
@@ -17,11 +19,11 @@
 * [Brantevikssill](./Fisk/brantevikssill.md)
 * [Disas musslor](./Fisk/disas-musslor.md)
 * [Fiskburgare med cole slaw](./Fisk/fiskburgare.md)
-* [Hoki med äggsås](./Fisk/hoki-med-äggsås.md)
 * [Inkokt lax med romsås och timjanmorötter](./Fisk/inkokt-lax.md)
 * [Laxsallad med lime och jordnötter](./Fisk/laxsallad-med-lime-och-jordnötter.md)
 * [Rödspätta Grenoble](./Fisk/rödspätta-grenoble.md)
 * [Sushi](./Fisk/sushi.md)
+* [Torskrygg med blomkålspuré och brynt smör](./Fisk/torskrygg-blomkålspuré.md)
 
 ## Fågel
 
