@@ -23,10 +23,9 @@ Strö solrosfrön över torskryggen och servera med blomkålspuré, citronklyfto
 blomkål.
 
 ## Inköpslista
-* Blomkål
-* Citron
-* Dill
-* Machésallad
-* Potatis
-* Solrosfrön
-* Torskrygg
+* 1 blomkålshuvud
+* 1 citron
+* 1 påse machésallad
+* 1 kg fin potatis
+* 1 dl solrosfrön
+* 600 g torskrygg
