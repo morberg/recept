@@ -52,7 +52,6 @@
 * [Grillad fläskkarré med nektarinsallad och klyftpotatis](./Kött/fläskkarré-med-nektarinsallad.md)
 * [Jamie’s Beef and Stout pie](./Kött/jamies-beef-and-stout-pie.md)
 * [Grova öländska kroppkakor](./Kött/kroppkakor.md)
-* [Köttfärspiroger](./Kött/köttfärspiroger.md)
 * [Lammstek med svartrots- och potatisgratäng](./Kött/lammstek-med-svartrotsgratäng.md)
 * [Larb](./Kött/larb.md)
 * [Revbensspjäll med cole slaw](./Kött/revbensspjäll.md)
@@ -101,6 +100,7 @@
 ## Vegetariskt
 
 * [Fetaostbollar med quinoasallad och tsatsiki](./Vegetariskt/fetabollar-med-quinoa.md)
+* [Piroger med fetaost och spenat](./Vegetariskt/piroger.md)
 * [Vegetarisk garam masala](./Vegetariskt/vegetarisk-garam-masala.md)
 
 ## [Sous Vide](sous-vide.md)
