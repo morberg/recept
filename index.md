@@ -84,6 +84,7 @@
 
 ## Soppa
 
+* [Fisksoppa med saffran](./Soppa/fisksoppa-med-saffran.md)
 * [Jordärtskockssoppa med parmachips](./Soppa/jordärtskockssoppa-med-parmachips.md)
 * [Köttfärssoppa](./Soppa/köttfärssoppa.md)
 * [Morotssoppa](./Soppa/morotssoppa.md)
