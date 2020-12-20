@@ -101,6 +101,7 @@
 
 * [Fetaostbollar med quinoasallad och tsatsiki](./Vegetariskt/fetabollar-med-quinoa.md)
 * [Piroger med fetaost och spenat](./Vegetariskt/piroger.md)
+* [Vegetarisk ramensoppa](./Vegetariskt/ramensoppa.md)
 * [Vegetarisk garam masala](./Vegetariskt/vegetarisk-garam-masala.md)
 
 ## [Sous Vide](sous-vide.md)
