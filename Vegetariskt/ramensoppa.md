@@ -3,7 +3,7 @@
 
 ## Soppa
 - 4 klyfta(or) vitlök
-- 62,5 gram salladslök, ca ett halvt knippe
+- ett halvt knippe salladslök
 - 200 gram shiitakesvamp
 - 1,5 msk vitvinsvinäger
 - 1 msk honung
