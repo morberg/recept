@@ -1,3 +1,5 @@
 .DS_Store
 _config.yml
 *.pdf
+# genereras av create-receptsamling.py
+receptsamling.md
