@@ -28,7 +28,7 @@ Ta ca 2/3 av fräset och lägg i en mixerkanna. Tillsätt:
 
 * 1/2 dl olivolja
 
-och mixa till en slät sås. Späd med lite pastavatten om det blir för tjockt.
+och mixa till en slät sås. Späd med 1-2 dl pastavatten till lagom konsistens.
 
 Smaka av med salt och peppar.
 
