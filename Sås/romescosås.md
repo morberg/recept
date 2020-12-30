@@ -1,8 +1,5 @@
-Romanescosås
-============
-
-4–6 personer
-------------
+# Romescosås
+## 4–6 personer
 
 -	1 skiva formfranska
 -	3 inlagda paprikor
