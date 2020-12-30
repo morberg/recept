@@ -95,7 +95,7 @@
 * [Cajundressing](./Sås/cajundressing.md)
 * [Currysås](./Sås/currysås.md)
 * [Pepparrotsdip](./Sås/pepparrotsdip.md)
-* [Romanescosås](./Sås/romanescosås.md)
+* [Romescosås](./Sås/romescosås.md)
 * [Magisk Tahinisås](./Sås/tahinisås.md)
 
 ## Vegetariskt
