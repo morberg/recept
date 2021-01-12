@@ -3,13 +3,11 @@
 ## 4 personer
 
 ## Ugnsbakad lax
-
 - 600 g laxfilé
 - salt
 - 1/2 tsk svartpeppar
 
 ## Citronsås
-
 - 1 citron
 - 1 msk smör
 - 1/2 msk vetemjöl
