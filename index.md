@@ -17,6 +17,7 @@
 * [Anders och Lenas Lax](./Fisk/anders-och-lenas-lax.md)
 * [Bouillabaisse](./Fisk/bouillabaisse.md)
 * [Brantevikssill](./Fisk/brantevikssill.md)
+* [Citrontagliatelle med ugnsbakad lax](./Fisk/citronpasta-med-ugnsbakad-lax.md)
 * [Disas musslor](./Fisk/disas-musslor.md)
 * [Fiskburgare med cole slaw](./Fisk/fiskburgare.md)
 * [Inkokt lax med romsås och timjanmorötter](./Fisk/inkokt-lax.md)
