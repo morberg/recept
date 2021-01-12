@@ -20,6 +20,7 @@
 * [Citrontagliatelle med ugnsbakad lax](./Fisk/citronpasta-med-ugnsbakad-lax.md)
 * [Disas musslor](./Fisk/disas-musslor.md)
 * [Fiskburgare med cole slaw](./Fisk/fiskburgare.md)
+* [Fiskpinnetacos](./Fisk/fiskpinnetacos.md)
 * [Inkokt lax med romsås och timjanmorötter](./Fisk/inkokt-lax.md)
 * [Laxsallad med lime och jordnötter](./Fisk/laxsallad-med-lime-och-jordnötter.md)
 * [Rödspätta Grenoble](./Fisk/rödspätta-grenoble.md)
