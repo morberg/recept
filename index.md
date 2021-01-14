@@ -15,7 +15,7 @@
 ## Fisk
 
 * [Anders och Lenas Lax](./Fisk/anders-och-lenas-lax.md)
-* [Asiatiska fiskbiffar](./Fisk/asiatiska-fiskbiffar.md)
+* [Andreas asiatiska fiskbiffar](./Fisk/asiatiska-fiskbiffar.md)
 * [Bouillabaisse](./Fisk/bouillabaisse.md)
 * [Brantevikssill](./Fisk/brantevikssill.md)
 * [Citrontagliatelle med ugnsbakad lax](./Fisk/citronpasta-med-ugnsbakad-lax.md)
