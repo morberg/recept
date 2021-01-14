@@ -1,5 +1,4 @@
-Bröd i gryta
-============
+# Bröd i gryta
 
 -	660 g kallt vatten
 -	5 g jäst (som en kikärta) eller 100 g surdeg
