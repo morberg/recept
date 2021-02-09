@@ -4,11 +4,11 @@
 
 ### Deg
 
--	3 dl 37°-gradigt vatten
+-	400 g 37°-gradigt vatten
 -	25 g jäst
 -	2 msk olja
 -	1 tsk salt
--	ca 500 g vetemjöl + lite extra mer till utbakning
+-	ca 650 g vetemjöl + lite extra till utbakning
 
 Häll vattnet i en degbunke. Lös upp jästen, tillsätt olja och salt. Blanda i mjölet i omgångar. Ta upp degen på bakbordet och knåda den smidig under några minuter. Låt jäsa under bakduk på dragfri plats under 30 minuter eller ett dygn i kylen.
 
@@ -27,9 +27,10 @@ Fräs löken mjuk i oljan. Tillsätt tomaterna, saltet, kryddorna och vitlöken.
 
 ### Topping
 
--	200 g riven ost
--	svarta oliver, skivad pepperonikorv, skinka, rödlök, ruccola, skivade champinjoner
+-	2 paket mozzarella
+-	svarta oliver, skivad pepperonikorv, rödlök, kronärtskocka, paprika, parmaskinka, ruccola
 
-Kavla ut pizzadegen till en rektangel och lägg i en braspanna. Bred ut tomatsåsen och lite av den rivna osten. Lägg på fyllningen och avsluta med att strö på resten av osten.
+Kavla ut pizzadegen till en rektangel och lägg i en braspanna. Bred ut tomatsåsen. Skiva mozarellan och lägg ut på
+pizzan. Avsluta med topping. Lägg på parmaskinka, oliver och ruccola efter gräddningen.
 
-Grädda pizzorna på nedre falsen i ugnen under 7–10 minuter.
+Grädda pizzorna i mitten av ugnen under 7–10 minuter.
