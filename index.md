@@ -82,6 +82,7 @@
 * [Köttfärspaj](./Smått/köttfärspaj.md)
 * [Ost- och skinkpaj](./Smått/ost-och-skinkpaj.md)
 * [Pannkakor](./Smått/pannkakor.md)
+* [Ris](./Smått/ris.md)
 * [Drakamöllans terrin på svamp och äpple](./Smått/terrin-på-svamp-och-äpple.md)
 * [Zuccinipaj med pesto](./Smått/zuccinipaj-med-pesto.md)
 
