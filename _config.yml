@@ -1,4 +1,5 @@
-remote_theme: aspirethemes/type
+#remote_theme: aspirethemes/type
+remote_theme: pmarsceill/just-the-docs
 
 # --- Required options --- #
 
@@ -8,11 +9,5 @@ title: Morbergs receptsamling
 # Your name to show in the footer
 author: Niklas Morberg
 
-# --- Remove double titles fram pages
-plugins:
-  - jekyll-titles-from-headings
-
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true 
+# No point in deep linking within a recipe page
+heading_anchors: false
