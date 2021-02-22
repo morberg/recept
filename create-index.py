@@ -4,6 +4,8 @@ from __future__ import annotations
 import os
 from typing import List, NamedTuple
 
+import typer
+
 
 class Directory(NamedTuple):
     name: str
@@ -50,6 +52,15 @@ def print_categories():
         print()
 
 
-print("# Morbergs receptsamling\n")
-print_categories()
-print("## [Sous Vide](sous-vide.md)")
+app = typer.Typer()
+
+
+@app.command()
+def print_index():
+    print("# Morbergs receptsamling\n")
+    print_categories()
+    print("## [Sous Vide](sous-vide.md)")
+
+
+if __name__ == "__main__":
+    app()
