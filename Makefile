@@ -15,6 +15,9 @@ sous-vide.pdf: sous-vide.md
 receptsamling.md: */*.md create-index.py
 	python create-index.py write-pandoc-index
 
+index.md: */*.md create-index.py
+	python create-index.py print-index > index.md
+
 .PHONY: clean
 clean:
 	rm -f sous-vide.pdf
