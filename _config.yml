@@ -8,3 +8,6 @@ title: Morbergs receptsamling
 
 # Your name to show in the footer
 author: Niklas Morberg
+
+# No point in deep linking within a recipe page
+heading_anchors: false
