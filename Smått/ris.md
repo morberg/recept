@@ -1,5 +1,6 @@
 # Ris
 
+## Ska flyttas till en tabellsida tillsammans med sous vide
 Jennie Walldén, årets mästerkock i TV4 2013, tredje året i tv-programmets historia. Sen dess har hon synts i tv och
 skrivit kokböcker, den senaste kom i höstas och heter Wok, ris, nudlar. Hon driver också restaurangen Namu i Malmö.
 
