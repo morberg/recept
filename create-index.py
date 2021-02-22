@@ -6,6 +6,18 @@ from typing import List, NamedTuple
 
 import typer
 
+PANDOC_FRONTMATTER = """---
+author: Niklas Morberg
+title: Morbergs receptsamling
+documentclass: scrreprt
+mainfont: 'Hoefler Text'
+sansfont: 'Avenir'
+papersize: a4paper
+classoption: twocolumn
+toc-title: Innehåll
+---
+"""
+
 
 class Directory(NamedTuple):
     name: str
@@ -29,14 +41,14 @@ def get_dirs() -> List[Directory]:
 
     Directories containing '.git' and current dir will be excluded.
     """
-    file_list = [
+    dirs = [
         Directory(dir_name, files)
         for dir_name, _, files in os.walk(".")
         if ".git" not in dir_name  # exclude *.git* directories
         if dir_name != "."  # exclude root dir
     ]
-    file_list.sort()
-    return file_list
+    dirs.sort()
+    return dirs
 
 
 def print_categories():
@@ -46,9 +58,9 @@ def print_categories():
         category = dir.name.strip("./")
         print(f"## {category}\n")
         for file in sorted(dir.files):
-            file_name = dir.name + "/" + file
-            title = get_title(file_name)
-            print(f"* [{title}]({file_name})")
+            file_path = dir.name + "/" + file
+            title = get_title(file_path)
+            print(f"* [{title}]({file_path})")
         print()
 
 
@@ -60,6 +72,25 @@ def print_index():
     print("# Morbergs receptsamling\n")
     print_categories()
     print("## [Sous Vide](sous-vide.md)")
+
+
+@app.command()
+def write_pandoc_index(output: str = "receptsamling.md"):
+    with open(output, "w") as f:
+        f.write(PANDOC_FRONTMATTER)
+        dirs = get_dirs()
+        for dir in dirs:
+            category = dir.name.strip("./")
+            f.write(f"\n# {category}\n")
+            for file in sorted(dir.files):
+                file_path = dir.name + "/" + file
+                f.write(
+                    f"""``` {{.include shift-heading-level-by=1}}
+{file_path}
+```
+\clearpage
+"""
+                )
 
 
 if __name__ == "__main__":

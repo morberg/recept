@@ -12,8 +12,8 @@ sous-vide.pdf: sous-vide.md
 	--pdf-engine=xelatex \
 	-o sous-vide.pdf
 
-receptsamling.md: */*.md create-receptsamling.py
-	python create-receptsamling.py
+receptsamling.md: */*.md create-index.py
+	python create-index.py write-pandoc-index
 
 .PHONY: clean
 clean:
