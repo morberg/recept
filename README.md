@@ -1,6 +1,9 @@
 # Recept
 Enkel receptsamling i markdown-format. Varje katalog är en egen kategori. Varje fil i en katalog är ett recept.
 
+Katalogen `Referens` är en specialkatalog som innehåller markdown-filer med tabeller. Pandoc kan inte generera tabeller
+och hanteras därför separat.
+
 Checka ut en lokal kopia med:
 
     git clone https://github.com/morberg/recept.git
@@ -13,7 +16,7 @@ Filen `index.md` behöver genereras för att få en innehållsförteckning. Dett
 
 Vill du generera `index.md` på din lokala maskin använder du `create-index.py` såhär:
 
-    ./create-index.py > index.md
+    make index.md
     git commit -am 'Uppdatera index'
     git push
 
@@ -21,4 +24,4 @@ Vill du generera `index.md` på din lokala maskin använder du `create-index.py`
 
 Installera xelatex och vänner på din maskin med `brew cask install basiclatex`.
 
-Sen är det bara att köra `make pdf` för att generera `receptsamling.pdf` och `sous-vide.pdf` som passar bra för utskrift.
+Sen är det bara att köra `make pdf` för att generera `receptsamling.pdf` och `referens.pdf` som passar bra för utskrift.
