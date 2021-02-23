@@ -13,7 +13,7 @@ sous-vide.pdf: sous-vide.md
 	-o sous-vide.pdf
 
 receptsamling.md: */*.md create-index.py
-	python create-index.py write-pandoc-index
+	python create-index.py print-pandoc-index > receptsamling.md
 
 index.md: */*.md create-index.py
 	python create-index.py print-index > index.md

@@ -15,8 +15,10 @@ sansfont: 'Avenir'
 papersize: a4paper
 classoption: twocolumn
 toc-title: Innehåll
----
-"""
+---"""
+PANDOC_PRE_FILE_PATH = "``` {.include shift-heading-level-by=1}"
+PANDOC_POST_FILE_PATH = """```
+\clearpage"""
 
 
 class Directory(NamedTuple):
@@ -69,28 +71,30 @@ app = typer.Typer()
 
 @app.command()
 def print_index():
+    """Generate table of contents markdown file.
+
+    Suitable for a start page with links to all recipes."""
     print("# Morbergs receptsamling\n")
     print_categories()
     print("## [Sous Vide](sous-vide.md)")
 
 
 @app.command()
-def write_pandoc_index(output: str = "receptsamling.md"):
-    with open(output, "w") as f:
-        f.write(PANDOC_FRONTMATTER)
-        dirs = get_dirs()
-        for dir in dirs:
-            category = dir.name.strip("./")
-            f.write(f"\n# {category}\n")
-            for file in sorted(dir.files):
-                file_path = dir.name + "/" + file
-                f.write(
-                    f"""``` {{.include shift-heading-level-by=1}}
-{file_path}
-```
-\clearpage
-"""
-                )
+def print_pandoc_index():
+    """Generate pandoc markdown file
+
+    Use as starting point for pandoc to generate a PDF.
+    """
+    print(PANDOC_FRONTMATTER)
+    dirs = get_dirs()
+    for dir in dirs:
+        category = dir.name.strip("./")
+        print(f"# {category}")
+        for file in sorted(dir.files):
+            file_path = dir.name + "/" + file
+            print(PANDOC_PRE_FILE_PATH)
+            print(file_path)
+            print(PANDOC_POST_FILE_PATH)
 
 
 if __name__ == "__main__":
