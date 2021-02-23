@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import os
-from typing import List, NamedTuple, no_type_check_decorator
+from typing import List, NamedTuple
 
 import typer
 
@@ -19,7 +19,7 @@ toc-title: Innehåll
 ---"""
 PANDOC_REFERENCE_FRONTMATTER = """---
 author: Niklas Morberg
-title: Morbergs receptsamling
+title: Referens
 documentclass: scrreprt
 mainfont: 'Hoefler Text'
 sansfont: 'Avenir'
@@ -125,7 +125,7 @@ def print_pandoc_index():
     with tables not possible to render in twocolumn layout.
     """
     dirs = get_dirs()
-    two_column_dirs = [dir for dir in dirs if dir.name != "Referens"]
+    two_column_dirs = [dir for dir in dirs if dir.name != "./Referens"]
     print(PANDOC_FRONTMATTER)
     print_pandoc_categories(two_column_dirs)
 

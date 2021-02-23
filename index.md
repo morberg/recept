@@ -70,6 +70,11 @@
 * [Pastasallad med basilika- och spenatpesto](./Pasta/pastasallad-med-pesto.md)
 * [Rostad blomkålscarbonara](./Pasta/rostad-blomkålscarbonara.md)
 
+## Referens
+
+* [Ris](./Referens/ris.md)
+* [Sous vide](./Referens/sous-vide.md)
+
 ## Smått
 
 * [Amerikanska pannkakor](./Smått/amerikanska-pannkakor.md)
@@ -82,7 +87,6 @@
 * [Köttfärspaj](./Smått/köttfärspaj.md)
 * [Ost- och skinkpaj](./Smått/ost-och-skinkpaj.md)
 * [Pannkakor](./Smått/pannkakor.md)
-* [Ris](./Smått/ris.md)
 * [Drakamöllans terrin på svamp och äpple](./Smått/terrin-på-svamp-och-äpple.md)
 * [Zuccinipaj med pesto](./Smått/zuccinipaj-med-pesto.md)
 
