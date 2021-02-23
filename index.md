@@ -70,11 +70,6 @@
 * [Pastasallad med basilika- och spenatpesto](./Pasta/pastasallad-med-pesto.md)
 * [Rostad blomkålscarbonara](./Pasta/rostad-blomkålscarbonara.md)
 
-## Referens
-
-* [Ris](./Referens/ris.md)
-* [Sous vide](./Referens/sous-vide.md)
-
 ## Smått
 
 * [Amerikanska pannkakor](./Smått/amerikanska-pannkakor.md)
@@ -113,4 +108,8 @@
 * [Vegetarisk ramensoppa](./Vegetariskt/ramensoppa.md)
 * [Vegetarisk garam masala](./Vegetariskt/vegetarisk-garam-masala.md)
 
-## [Sous Vide](sous-vide.md)
+## Referens
+
+* [Ris](./Referens/ris.md)
+* [Sous vide](./Referens/sous-vide.md)
+
