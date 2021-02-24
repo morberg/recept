@@ -7,7 +7,7 @@ from typing import List, NamedTuple
 
 import typer
 
-PANDOC_FRONTMATTER = """---
+PANDOC_FRONTMATTER = r"""---
 author: Niklas Morberg
 title: Morbergs receptsamling
 documentclass: scrreprt
@@ -15,6 +15,13 @@ mainfont: 'Hoefler Text'
 sansfont: 'Avenir'
 papersize: a4paper
 toc-title: Innehåll
+header-includes:
+    - \usepackage{multicol}
+    - \newcommand{\hideFromPandoc}[1]{#1}
+    - \hideFromPandoc{
+        \let\Begin\begin
+        \let\End\end
+      }
 ---"""
 PANDOC_REFERENCE_FRONTMATTER = """---
 author: Niklas Morberg

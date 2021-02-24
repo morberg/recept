@@ -1,5 +1,7 @@
 # Andreas asiatiska fiskbiffar
 
+\Begin{multicols}{2}
+
 ## Fiskbiffar
 
 - 600 g torskfilé
@@ -35,9 +37,11 @@
 - 1 msk fisksås
 - 2 msk rapsolja
 
+\End{multicols}
+
 **Fiskbiffar**: Skär fisken i mindre bitar. Skölj och grovhacka purjolök och skala och grovhacka ingefära och vitlök. Skölj och
 grovhacka chili. Lägg alltsammans i en matberedare och tillsätt koriander. Riv limeskal och pressa i saften. Tillsätt
-fisksås, ägg, 1 rågad tsk salt samt peppar och mixa samman till en slät smet.
+fisksås, ägg, salt och peppar samt mixa till en slät smet.
 
 Forma smeten med vattensköljda händer till 8 biffar. Hetta upp olja i en stekpanna och stek biffarna på medelhög värme
 ca 3 min på båda sidor tills de får en fin gyllenbrun stekyta. Sänk sedan värmen ordentligt och låt de bli klara i
