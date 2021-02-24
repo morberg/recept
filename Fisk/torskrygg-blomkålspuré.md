@@ -1,5 +1,21 @@
 # Torskrygg med blomkålspuré och brynt smör
 
+* 600 g torskrygg
+
+## Rostad potatis
+* 1 kg fin potatis
+* 1/2 blomkålshuvud
+* torkad timjan
+
+## Blomkålspuré
+* 1/2 blomkålshuvud
+* 50 g smör
+* rivet skal av en citron
+
+## Tillbehör
+* 1 påse machésallad
+* 1 dl solrosfrön
+
 Sätt ugnen på 225°.
 
 Halvera **1 kg potatis** och skär **1 blomkål** i buketter. Lägg potatisen och hälften av blomkålen i en braspanna och
@@ -21,11 +37,3 @@ Stek fisken i smör några minuter per sida, eller tills den är klar.
 
 Strö solrosfrön över torskryggen och servera med blomkålspuré, citronklyftor, **1 ask machésallad**, potatis och
 blomkål.
-
-## Inköpslista
-* 1 blomkålshuvud
-* 1 citron
-* 1 påse machésallad
-* 1 kg fin potatis
-* 1 dl solrosfrön
-* 600 g torskrygg

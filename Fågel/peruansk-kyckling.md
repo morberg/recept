@@ -1,10 +1,8 @@
 # Peruansk kyckling
 ## 4 personer
 
-Tänd grillen eller sätt ugnen på 225°.
-
-Blanda samman nedanstående med en stavmixer:
-
+::: columns
+## Sås
 - 2 jalapeños
 - 1 kruka hackad koriander
 - 1 vitlöksklyfta
@@ -13,10 +11,7 @@ Blanda samman nedanstående med en stavmixer:
 - 1 pressad lime och rivet skal
 - ev. 1 tsk äppelcidervinäger
 
-Smaka av med salt, peppar och ev. vinäger. Täck över och ställ in i kylen tills det är dags att äta. Såsen kommer att vara ganska lös, men den tjocknar i kylen.
-
-Blanda en kryddblandning med:
-
+## Kryddblandning
 - 1 msk salt
 - 2 msk spiskummin
 - 2 msk paprika
@@ -25,11 +20,16 @@ Blanda en kryddblandning med:
 - 2 msk äppelcidervinäger
 - 2 msk rapsolja
 
-Torka
-
+## Kyckling
 - 1 kyckling
+:::
 
-med hushållspapper och placera på en skärbräda. Klipp av ryggraden med en kökssax. Vänd kycklingen och pressa hårt på bröstet för att platta ut den. Tryck in ett grillspett horisontellt genom kycklingen, först genom ena låret, sedan båda brösthalvorna och till slut genom sista låret. Vik in vingarna bakom ryggen.
+Tänd grillen eller sätt ugnen på 225°.
+
+Blanda samman ingredienserna till såses med en stavmixer. Smaka av med salt, peppar och ev. vinäger. Täck över och ställ
+in i kylen tills det är dags att äta. Såsen kommer att vara ganska lös, men den tjocknar i kylen.
+
+Torka av kycklingen med hushållspapper och placera på en skärbräda. Klipp av ryggraden med en kökssax. Vänd kycklingen och pressa hårt på bröstet för att platta ut den. Tryck in ett grillspett horisontellt genom kycklingen, först genom ena låret, sedan båda brösthalvorna och till slut genom sista låret. Vik in vingarna bakom ryggen.
 
 Massera in kryddblandningen på kycklingen.
 

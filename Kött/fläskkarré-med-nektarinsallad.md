@@ -1,33 +1,16 @@
 # Grillad fläskkarré med nektarinsallad och klyftpotatis
 ## 4 personer
 
-Sätt ugnen på 225 grader. Klyfta
-
+::: columns
+### Potatis
 * 800 gram potatis
-
-och lägg i en långpanna med bakplåtspapper. Ringla över lite olivolja och rosmarin. Tillaga i övre delen av ugnen 45 min eller tills potatisen är klar.
-
-Om du vill grilla, tänd grillen.
-
 ### Nektarinsallad
-Tärna
 
-* 3 nektariner
-* 2 tomater
-
-Skiva
-
-* 1 knippe vårlök
-
-Tillsätt finrivet skal och pressad saft av
-
-* 1/2 lime
-
-och finriv
-
-* 1 bit ingefära (ca. 1 msk)
-
-Ingefäran kan vara stark, tillsätt inte allt på en gång. Blanda väl, smaka av och tillsätt ev. mer ingefära.
+* 3 nektariner, tärnade
+* 2 tomater, tärnade
+* 1 knippe vårlök, skivad
+* 1/2 lime, finrivet skal och saft
+* 1 msk finriven ingefära
 
 ### Marinad
 * 2 msk olja
@@ -37,15 +20,21 @@ Ingefäran kan vara stark, tillsätt inte allt på en gång. Blanda väl, smaka 
 * 2 msk japansk soja
 * 1 tsk sriracha
 
-Blanda ingredienserna till marinaden i en bunke.
+### Fläskkarré
+* 600 g fläskkarrè
+:::
 
-Skär
+Om du vill grilla, tänd grillen.
 
-* 600 g fläskkarré
+Sätt ugnen på 225 grader. Klyfta potatisen och lägg i en långpanna med bakplåtspapper. Ringla över lite olivolja och
+rosmarin. Tillaga i övre delen av ugnen 45 min eller tills potatisen är klar.
 
-i 4 skivor och stek eller grilla 3-4 min per sida eller tills den är genomstekt.
- 
-Strimla den nygrillade fläskkarrén och vänd ner i marinaden. Låt stå i några minuter.
+Blanda ihop nektarinsalladen. Ingefäran kan vara stark, tillsätt inte allt på en gång. Blanda väl, smaka av och tillsätt ev. mer ingefära.
+
+Blanda ingredienserna till marinaden i en stor bunke.
+
+Skär fläskkarrén  i 4 skivor och stek eller grilla 3-4 min per sida eller tills den är genomstekt. Låt vila några
+minuter. Strimla den nygrillade fläskkarrén och vänd ner i marinaden. Låt stå i några minuter.
 
 Salta potatisen när den är färdig och blanda runt.
 

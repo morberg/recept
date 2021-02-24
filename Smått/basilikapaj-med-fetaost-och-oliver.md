@@ -1,7 +1,7 @@
-Basilikapaj med fetaost och oliver
-==================================
+# Basilikapaj med fetaost och oliver
 
-### Pajdeg
+::: columns
+## Pajdeg
 
 -	4 dl vetemjöl
 -	150 g smör
@@ -9,11 +9,6 @@ Basilikapaj med fetaost och oliver
 -	1 dl färsk riven parmesanost
 -	1/2 dl vatten
 
-Pajdeg:
-
-1.	Sätt ugnen på 225°.
-2.	Blanda mjöl, smör, basilikablad och parmesanost i en matberedare. Tillsätt vattnet och kör snabbt ihop till en deg. Låt degen vila kallt tills ugnen blivit varm.
-3.	Tryck ut degen i en låg vid pajform, ca 28 cm i diameter och nagga. Förgrädda pajskalet i ca 10 minuter.
 
 ### Fyllning
 
@@ -22,8 +17,6 @@ Pajdeg:
 -	150 g fetaost
 -	1 burk svarta oliver
 
-Skölj och skiva tomaterna. Hacka basilikan. Lägg tomatskivorna i pajskalet. Strö över basilikan och oliverna. Smula över fetaosten.
-
 ### Äggstanning
 
 -	4 ägg
@@ -31,5 +24,17 @@ Skölj och skiva tomaterna. Hacka basilikan. Lägg tomatskivorna i pajskalet. St
 -	1 tsk salt
 -	2 krm svartpeppar
 -	1–2 vitlöksklyftor
+
+:::
+
+Sätt ugnen på 225°.
+
+Blanda mjöl, smör, basilikablad och parmesanost i en matberedare. Tillsätt vattnet och kör snabbt ihop till en
+**pajdeg.** Låt degen vila kallt tills ugnen blivit varm.
+
+Tryck ut degen i en låg vid pajform, ca 28 cm i diameter och nagga. Förgrädda pajskalet i ca 10 minuter.
+
+Skölj och skiva tomaterna till **fyllningen.** Hacka basilikan. Lägg tomatskivorna i pajskalet. Strö över basilikan och
+oliverna. Smula över fetaosten.
 
 Vispa ihop ägg, mjölk, salt, peppar och pressad vitlök. Häll äggstanningen över fyllningen. Grädda i 200° ca 45 minuter.

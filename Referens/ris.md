@@ -1,24 +1,18 @@
 # Ris
 
-Ristips från Jennie Walldén.
+[Ristips](https://sverigesradio.se/avsnitt/1639219?fbclid=IwAR3dpzqoD02zZmbTExMZITsXTxoSBKa4AkDnj9wc9fHeaHBARvq7R-k2BYE)
+från Jennie Walldén via Meny i P1.
 
 1. Tvätta riset
 2. Använd mindre vatten
 3. Salta inte
 
-> Man tvättar inte för att det är smutsigt utan för att tvätta bort risstärkelse, säger hon.
+Japonicaris (som i Sverige kallas sushiris), jasminris och basmatiris ska alla tvättas noga för att bli av med
+stärkelsen. Lägg den uppmätta mängden ris i en kastrull, häll på vatten och rör runt med handen ett par minuter. Vattnet
+kommer att bli grumligt vitt av stärkelse. Sila av vattnet och upprepa med nytt vatten. Låt sedan riset rinna av
+ordentligt i en sil.
 
-Japonicaris (som i Sverige kallas sushiris), jasminris och basmatiris ska alla tvättas noga. Lägg den uppmätta mängden
-ris i en kastrull, häll på vatten och rör runt med handen ett par minuter. Vattnet kommer att bli grumligt vitt av
-stärkelse. Sila av vattnet och upprepa med nytt vatten. Låt sedan riset rinna av ordentligt i en sil.
-
-> Det är viktigt att det rinner av, säger Jennie. Annars stämmer inte vattenmängden när man ska koka.
-
-Den mängd vatten som brukar stå på förpackningarna är oftast fel.
-
-> Det är alldeles för mycket vatten.
-
-Räkna med 0,75 dl ris per person.
+Räkna med 0,75 dl ris per person om du kokar till flera personer, annars 1 dl till en person.
 
 | Sort     | Personer | Ris    | Vatten |
 | -------- | -------- | ------ | ------ |
@@ -32,9 +26,6 @@ Räkna med 0,75 dl ris per person.
 |          | 2        | 1,5 dl | 2,3 dl |
 |          | 4        | 3 dl   | 4,5 dl |
 
-Mät upp ris och vatten med samma mått.
-
-> Och salta inte i vattnet, säger Jennie. I varje fall inte om man gör asiatiska rätter. Riset ska vara så neutralt som möjligt.
 
 Sätt på kall platta och koka upp med lock på tills man hör bubblor. Sänk till låg värme och låt sjuda i 15 minuter.
 Stäng av plattan och låt stå och svälla (fortfarande under lock) i minst fem minuter till. Avsluta med att fluffa upp
@@ -51,6 +42,3 @@ riset innan servering.
 **Sticky rice** förekommer i norra Thailand.
 
 **Grötris** är ett neutralt ris som kan fungera som ersättare för risottoris eller japonicaris.
-
-Info från ett avsnitt av [Meny i
-P1](https://sverigesradio.se/avsnitt/1639219?fbclid=IwAR3dpzqoD02zZmbTExMZITsXTxoSBKa4AkDnj9wc9fHeaHBARvq7R-k2BYE).

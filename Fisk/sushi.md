@@ -1,9 +1,8 @@
-Sushi
-=====
+# Sushi
 
-4 personer
-----------
+## 4 personer
 
+::: columns
 ### Nigiri- och maki-sushi
 
 -	Pinfärsk fisk, t ex lax, tonfisk, eller smörfisk. Be din fiskhandlare om hjälp, han vet också hur mycket som behövs.
@@ -21,24 +20,24 @@ Sushi
 -	2 tsk salt
 -	3 msk strösocker
 
-Blanda samman ingredienserna. Sushi-zu kan också köpas färdig
-
 ### Till servering
 
 -	japansk soja
 -	wasabi
 -	inlagd ingefära
 
-Gör så här:
+:::
 
-1.	Tvätta riset noggrant tills sköljvattnet inte längre är grumligt. Låt det tvättade riset ligga på tork och svälla en timme.
+Blanda samman ingredienserna till sushi-zu. Sushi-zu kan också köpas färdig
 
-2.	Ris kokas lättast i en gryta med tättslutande lock. Låt riset koka upp på medelstark värme och sätt därefter på locket ordentligt. Koka på stark värme i två minuter, därefter på medelstark värme i fem minuter och till sist på svag värme i 15 minuter så att all vätska sugs upp av riset.
+Tvätta riset noggrant tills sköljvattnet inte längre är grumligt. Låt det tvättade riset ligga på tork och svälla en timme.
 
-3.	När riset är klart tar du av locket och täcker grytan med en kökshandduk. Låt svalna i 10–15 minuter.
+Ris kokas lättast i en gryta med tättslutande lock. Låt riset koka upp på medelstark värme och sätt därefter på locket ordentligt. Koka på stark värme i två minuter, därefter på medelstark värme i fem minuter och till sist på svag värme i 15 minuter så att all vätska sugs upp av riset.
 
-4.	Häll riset i en hangiri eller en vanlig bunke som inte är gjord av metall. Sprid ut riset i ett jämnt lager med hjälp av en shamoji eller en stor träslev.
+När riset är klart tar du av locket och täcker grytan med en kökshandduk. Låt svalna i 10–15 minuter.
 
-5.	Plöj upprepade gånger genom riset med shamojin, från vänster till höger, uppifrån och ner. På så sätt separeras riskornen. Under tiden häller du i sushi-zu. Samtidigt som du gör detta måste riset fläktas, så att det svalnar fortare och delar sig lättare. Dessutom får riset då en fin glans. Om du inte har tre händer måste du ha en medhjälpare som fläktar riset med en uchiwa eller med en något mer oromantisk men lika effektiv pappskiva. Det tar ungefär 10 minuter att få riset ordentligt blandat och avsvalnat till rumstemperatur.
+Häll riset i en hangiri eller en vanlig bunke som inte är gjord av metall. Sprid ut riset i ett jämnt lager med hjälp av en shamoji eller en stor träslev.
 
-6.	Forma till Nigiri-sushi och Maki-sushi och servera. öl och det japanska risvinet sake passar bra att dricka till.
+Plöj upprepade gånger genom riset med shamojin, från vänster till höger, uppifrån och ner. På så sätt separeras riskornen. Under tiden häller du i sushi-zu. Samtidigt som du gör detta måste riset fläktas, så att det svalnar fortare och delar sig lättare. Dessutom får riset då en fin glans. Om du inte har tre händer måste du ha en medhjälpare som fläktar riset med en uchiwa eller med en något mer oromantisk men lika effektiv pappskiva. Det tar ungefär 10 minuter att få riset ordentligt blandat och avsvalnat till rumstemperatur.
+
+Forma till Nigiri-sushi och Maki-sushi och servera. öl och det japanska risvinet sake passar bra att dricka till.

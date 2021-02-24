@@ -2,6 +2,7 @@
 
 ## 4 personer
 
+::: columns
 ## Ugnsbakad lax
 - 600 g laxfilé
 - salt
@@ -16,12 +17,12 @@
 - 100 g färskost
 - 1 tärning grönsaksbuljong
 
-
 ## Till servering
 - 400 g tagliatelle
 - 300 g morötter
 - 2 tomat
 
+:::
 ## Gör så här
 
 Värm ugnen till 200°C (varmluft) eller 225°C (vanlig).
