@@ -15,13 +15,6 @@ mainfont: 'Hoefler Text'
 sansfont: 'Avenir'
 papersize: a4paper
 toc-title: Innehåll
-header-includes:
-    - \usepackage{multicol}
-    - \newcommand{\hideFromPandoc}[1]{#1}
-    - \hideFromPandoc{
-        \let\Begin\begin
-        \let\End\end
-      }
 ---"""
 PANDOC_REFERENCE_FRONTMATTER = """---
 author: Niklas Morberg

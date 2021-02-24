@@ -3,6 +3,7 @@ pdf: receptsamling.pdf referens.pdf
 receptsamling.pdf: receptsamling.md
 	pandoc receptsamling.md \
 	--lua-filter=include-files.lua \
+	--lua-filter=columns.lua \
 	--pdf-engine=xelatex \
 	--toc --toc-depth=2 \
 	-o receptsamling.pdf
