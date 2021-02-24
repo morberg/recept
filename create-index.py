@@ -14,7 +14,6 @@ documentclass: scrreprt
 mainfont: 'Hoefler Text'
 sansfont: 'Avenir'
 papersize: a4paper
-classoption: twocolumn
 toc-title: Innehåll
 ---"""
 PANDOC_REFERENCE_FRONTMATTER = """---

@@ -1,8 +1,6 @@
-Disas musslor
-=============
+# Disas musslor
 
-4 personer
-----------
+## 4 personer
 
 -	2 kg blåmusslor (2 nät)
 -	3 dl vispgrädde
@@ -14,8 +12,6 @@ Disas musslor
 -	5 tomater
 -	1 näve färsk bladpersilja
 -	2 msk hackad färsk rosmarin
-
-Instruktioner:
 
 1.	Tillaga pommesen enligt instruktionerna på påsen.
 
