@@ -7,7 +7,7 @@ from typing import List, NamedTuple
 
 import typer
 
-PANDOC_FRONTMATTER = r"""---
+PANDOC_FRONTMATTER = """---
 author: Niklas Morberg
 title: Morbergs receptsamling
 documentclass: scrreprt
@@ -15,18 +15,10 @@ mainfont: 'Hoefler Text'
 sansfont: 'Avenir'
 papersize: a4paper
 toc-title: Innehåll
----"""
-PANDOC_REFERENCE_FRONTMATTER = """---
-author: Niklas Morberg
-title: Referens
-documentclass: scrreprt
-mainfont: 'Hoefler Text'
-sansfont: 'Avenir'
-papersize: a4paper
-toc-title: Referens
+links-as-notes: true
 ---"""
 PANDOC_PRE_FILE_PATH = "``` {.include shift-heading-level-by=1}"
-PANDOC_POST_FILE_PATH = """```
+PANDOC_POST_FILE_PATH = r"""```
 \clearpage"""
 
 
@@ -119,29 +111,10 @@ def print_pandoc_index():
     """Generate pandoc markdown file
 
     Use as starting point for pandoc to generate a PDF.
-
-    Directory 'Referens' will be excluded. This dir contains pages
-    with tables not possible to render in twocolumn layout.
     """
     dirs = get_dirs()
-    two_column_dirs = [dir for dir in dirs if dir.name != "./Referens"]
     print(PANDOC_FRONTMATTER)
-    print_pandoc_categories(two_column_dirs)
-
-
-@app.command()
-def print_pandoc_reference():
-    """Generate pandoc markdown file for Referens directory only.
-
-    Use as starting point for pandoc to generate a PDF.
-
-    'Referens' contains pages with tables not possible to render in
-    twocolumn layout.
-    """
-    dirs = get_dirs()
-    reference_dir = [dir for dir in dirs if dir.name == "./Referens"]
-    print(PANDOC_REFERENCE_FRONTMATTER)
-    print_pandoc_categories(reference_dir)
+    print_pandoc_categories(dirs)
 
 
 # %%

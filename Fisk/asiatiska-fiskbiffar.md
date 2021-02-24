@@ -1,7 +1,6 @@
 # Andreas asiatiska fiskbiffar
 
 ::: columns
-
 ## Fiskbiffar
 
 - 600 g torskfilé

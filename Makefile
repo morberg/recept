@@ -1,4 +1,6 @@
-pdf: receptsamling.pdf referens.pdf
+pdf: receptsamling.pdf
+
+html: receptsamling.html
 
 receptsamling.pdf: receptsamling.md
 	pandoc receptsamling.md \
@@ -8,11 +10,13 @@ receptsamling.pdf: receptsamling.md
 	--toc --toc-depth=2 \
 	-o receptsamling.pdf
 
-referens.pdf: referens.md
-	pandoc referens.md \
+receptsamling.html: receptsamling.md
+	pandoc receptsamling.md \
 	--lua-filter=include-files.lua \
-	--pdf-engine=xelatex \
-	-o referens.pdf
+	--lua-filter=columns.lua \
+	--toc --toc-depth=2 \
+	--standalone \
+	-o receptsamling.html
 
 index.md: */*.md create-index.py
 	python create-index.py print-index > index.md
@@ -20,11 +24,10 @@ index.md: */*.md create-index.py
 receptsamling.md: */*.md create-index.py
 	python create-index.py print-pandoc-index > receptsamling.md
 
-referens.md: Referens/*.md create-index.py
-	python create-index.py print-pandoc-reference > referens.md
-
 
 .PHONY: clean
 clean:
-	rm -f referens.pdf
 	rm -f receptsamling.pdf
+	rm -f receptsamling.md
+	rm -f receptsamling.html
+	rm -f index.md

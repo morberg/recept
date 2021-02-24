@@ -6,6 +6,7 @@ mainfont: 'Hoefler Text'
 sansfont: 'Avenir'
 papersize: a4paper
 toc-title: Referens
+links-as-notes: true
 ---
 # Referens
 ``` {.include shift-heading-level-by=1}
