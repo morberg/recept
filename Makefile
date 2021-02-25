@@ -1,7 +1,8 @@
 pdf: receptsamling.pdf
 
 jekyll: source/*/*.md index.md
-	cp -r source/ docs/
+	python tools/create-jekyll-files.py
+	cp source/_config.yml docs/
 
 receptsamling.pdf: receptsamling.md
 	pandoc receptsamling.md \
