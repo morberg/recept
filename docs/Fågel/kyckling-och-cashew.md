@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kyckling (eller tofu) med cashewnötter
+parent: Fågel
+---
 # Kyckling (eller tofu) med cashewnötter
 
 Koka upp

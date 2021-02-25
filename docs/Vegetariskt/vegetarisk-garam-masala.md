@@ -1,3 +1,8 @@
+---
+layout: default
+title: Vegetarisk garam masala
+parent: Vegetariskt
+---
 # Vegetarisk garam masala
 
 ## 4 portioner

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fläskpannkaka
+parent: Smått
+---
 Fläskpannkaka
 =============
 

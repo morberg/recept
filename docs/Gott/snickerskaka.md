@@ -1,3 +1,8 @@
+---
+layout: default
+title: Snickerskaka
+parent: Gott
+---
 # Snickerskaka
 
 Krossa

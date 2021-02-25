@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+import glob
 from typing import List, NamedTuple
 
 import typer
@@ -77,12 +78,9 @@ def print_categories(dirs: List[Directory]):
 
 
 def print_pandoc_categories(dirs: List[Directory]):
-    """Generate pandoc markdown file
+    """Generate pandoc markdown file.
 
-    Use as starting point for pandoc to generate a PDF.
-
-    Directory 'Referens' will be excluded. This dir contains pages
-    with tables not possible to render in twocolumn layout.
+    Used as starting point for pandoc to generate a PDF.
     """
     for dir in dirs:
         category = dir.name.removeprefix("source/")
@@ -92,6 +90,64 @@ def print_pandoc_categories(dirs: List[Directory]):
             print(PANDOC_PRE_FILE_PATH)
             print(file_path)
             print(PANDOC_POST_FILE_PATH)
+
+
+def append_skip_colons(in_file: str, out_file: str):
+    """Append in_file to out_file. Skip lines starting with ':::'"""
+    with open(in_file, "r") as input, open(out_file, "a") as output:
+        for line in input:
+            if not line.startswith(":::"):
+                output.write(line)
+
+
+def create_folders(dirs: List[Directory]):
+    """Creates subdirectories in 'docs' mirroring 'source'"""
+    dir_names = {dir.name.replace("source/", "docs/") for dir in dirs}
+    for dir_name in dir_names:
+        try:
+            os.mkdir(dir_name)
+        except FileExistsError:
+            pass
+
+
+def jekyll_file_header(input_file: str) -> str:
+    """Returns a YAML header based on input_file.
+
+    Uses format from the Jekyll theme Just the Docs.
+    ---
+    layout: default
+    title: Bröd i gryta
+    parent: Bakat
+    ---
+    """
+    title = get_title(input_file)
+    # 'source/Fågel/kyckling.md -> Fågel
+    parent = input_file.split("/")[1]
+    output = f"""---
+layout: default
+title: {title}
+parent: {parent}
+---
+"""
+    return output
+
+
+def create_file(filename: str, content: str):
+    """Creates filename with content."""
+    with open(filename, "w") as f:
+        f.write(content)
+
+
+def create_jekyll_files(input_dirs: List[Directory]):
+    """Create Jekyll files in 'docs' directory"""
+    for input_dir in input_dirs:
+        for file in input_dir.files:
+            output_dir = input_dir.name.replace("source/", "docs/")
+            output_file = output_dir + "/" + file
+            input_file = input_dir.name + "/" + file
+            header = jekyll_file_header(input_file)
+            create_file(output_file, header)
+            append_skip_colons(input_file, output_file)
 
 
 app = typer.Typer()
@@ -117,6 +173,17 @@ def print_pandoc_index():
     print(PANDOC_FRONTMATTER)
     print_pandoc_categories(dirs)
 
+
+@app.command()
+def create_docs():
+    """Creates docs/ with markdown files suitable for Jekyll."""
+    dirs = get_dirs()
+    create_folders(dirs)
+    create_jekyll_files(dirs)
+
+
+# %%
+dirs = get_dirs()
 
 # %%
 if __name__ == "__main__":

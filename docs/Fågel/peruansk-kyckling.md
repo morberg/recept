@@ -1,3 +1,8 @@
+---
+layout: default
+title: Peruansk kyckling
+parent: Fågel
+---
 # Peruansk kyckling
 ## 4 personer
 

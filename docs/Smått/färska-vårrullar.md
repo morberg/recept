@@ -1,3 +1,8 @@
+---
+layout: default
+title: Färska vårrullar med dipsås
+parent: Smått
+---
 # Färska vårrullar med dipsås
 ## 4 personer
 

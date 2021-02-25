@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kyckling med citronquinoa och fikonsky
+parent: Fågel
+---
 Kyckling med citronquinoa och fikonsky
 ======================================
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fisksoppa med saffran
+parent: Soppa
+---
 # Fisksoppa med saffran
 ## 4 portioner
 

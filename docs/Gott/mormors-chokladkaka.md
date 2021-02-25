@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mormors chokladkaka
+parent: Gott
+---
 Mormors chokladkaka
 ===================
 

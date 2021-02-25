@@ -1,3 +1,8 @@
+---
+layout: default
+title: Johannas grekiska kyckling
+parent: Fågel
+---
 Johannas grekiska kyckling
 ==========================
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Currysås
+parent: Sås
+---
 Currysås
 ========
 

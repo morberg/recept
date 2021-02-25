@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pannkakor
+parent: Smått
+---
 Pannkakor
 =========
 

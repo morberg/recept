@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cong you bing
+parent: Smått
+---
 Cong you bing
 =============
 

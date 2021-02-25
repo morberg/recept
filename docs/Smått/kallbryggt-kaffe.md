@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kallbryggt kaffe
+parent: Smått
+---
 # Kallbryggt kaffe
 
 ## 1 liter

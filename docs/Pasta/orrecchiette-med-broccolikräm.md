@@ -1,3 +1,8 @@
+---
+layout: default
+title: Orrecchiette med broccolikräm, mandel och quattrocento
+parent: Pasta
+---
 # Orrecchiette med broccolikräm, mandel och quattrocento
 
 Krångliga ord. Orrecchiette är en sorts pasta som ser ut som en liten mössa och quattrocento en ost som påminner om

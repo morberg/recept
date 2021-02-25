@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inbakade räkor med sesamsås
+parent: Smått
+---
 Inbakade räkor med sesamsås
 ===========================
 

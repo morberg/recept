@@ -1,3 +1,8 @@
+---
+layout: default
+title: Salami- och pestofyllda rullader
+parent: Kött
+---
 Salami- och pestofyllda rullader
 ================================
 

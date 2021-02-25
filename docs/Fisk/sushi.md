@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sushi
+parent: Fisk
+---
 # Sushi
 
 ## 4 personer

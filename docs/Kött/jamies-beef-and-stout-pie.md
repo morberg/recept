@@ -1,3 +1,8 @@
+---
+layout: default
+title: Jamie’s Beef and Stout pie
+parent: Kött
+---
 # Jamie’s Beef and Stout pie
 
 ## 4 personer

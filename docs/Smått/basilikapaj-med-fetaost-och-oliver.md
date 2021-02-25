@@ -1,3 +1,8 @@
+---
+layout: default
+title: Basilikapaj med fetaost och oliver
+parent: Smått
+---
 # Basilikapaj med fetaost och oliver
 
 ## Pajdeg

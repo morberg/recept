@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bouillabaisse
+parent: Fisk
+---
 # Bouillabaisse
 ## 4 portioner
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tekakor med rivna morötter
+parent: Bakat
+---
 # Tekakor med rivna morötter
 ## Ca 20 st
 

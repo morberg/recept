@@ -1,3 +1,8 @@
+---
+layout: default
+title: Amerikanska pannkakor
+parent: Smått
+---
 Amerikanska pannkakor
 =====================
 

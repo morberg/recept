@@ -1,3 +1,8 @@
+---
+layout: default
+title: Vegetarisk ramensoppa
+parent: Vegetariskt
+---
 # Vegetarisk ramensoppa
 ## 4 portioner
 

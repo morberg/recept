@@ -1,3 +1,8 @@
+---
+layout: default
+title: Revbensspjäll med cole slaw
+parent: Kött
+---
 Revbensspjäll med cole slaw
 ===========================
 

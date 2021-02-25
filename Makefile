@@ -1,7 +1,7 @@
 pdf: receptsamling.pdf
 
 jekyll: source/*/*.md index.md
-	python tools/create-jekyll-files.py
+	python tools/create-index.py create-docs
 	cp source/_config.yml docs/
 
 receptsamling.pdf: receptsamling.md
@@ -13,6 +13,7 @@ receptsamling.pdf: receptsamling.md
 	-o pdf/receptsamling.pdf
 
 index.md: source/*/*.md tools/create-index.py
+	mkdir docs
 	python tools/create-index.py print-index > docs/index.md
 
 receptsamling.md: source/*/*.md tools/create-index.py
@@ -23,5 +24,4 @@ receptsamling.md: source/*/*.md tools/create-index.py
 clean:
 	rm -f pdf/receptsamling.pdf
 	rm -f receptsamling.md
-	rm -f receptsamling.html
-	rm -f index.md
+	rm -rf docs

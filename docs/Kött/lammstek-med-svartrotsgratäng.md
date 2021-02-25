@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lammstek med svartrots- och potatisgratäng
+parent: Kött
+---
 Lammstek med svartrots- och potatisgratäng
 ==========================================
 

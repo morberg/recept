@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kolakakor
+parent: Bakat
+---
 # Kolakakor
 
 ## 20 stycken

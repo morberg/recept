@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chocolate Chip Cookies
+parent: Bakat
+---
 Chocolate Chip Cookies
 ======================
 

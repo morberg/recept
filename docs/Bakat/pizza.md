@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pizza
+parent: Bakat
+---
 # Pizza
 
 ## 2 pizzor i braspannestorlek

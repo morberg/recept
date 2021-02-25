@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fetaostbollar med quinoasallad och tsatsiki
+parent: Vegetariskt
+---
 # Fetaostbollar med quinoasallad och tsatsiki
 
 ## 4 portioner

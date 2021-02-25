@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kikärtspasta (Pasta Strozzapreti Ceci)
+parent: Pasta
+---
 # Kikärtspasta (Pasta Strozzapreti Ceci)
 
 ## 4 portioner

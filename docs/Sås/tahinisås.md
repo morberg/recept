@@ -1,3 +1,8 @@
+---
+layout: default
+title: Magisk Tahinisås
+parent: Sås
+---
 Magisk Tahinisås
 ================
 
