@@ -99,7 +99,7 @@ def append_skip_colons(in_file: str, out_file: str):
                 output.write(line)
 
 
-def create_index_file(dir_name: str):
+def create_index_file(dir_name: str, sort_order: int):
     """Create index.md in dir_name with YAML header
 
     Example:
@@ -117,7 +117,7 @@ def create_index_file(dir_name: str):
 layout: default
 title: {title}
 has_children: true
-nav_order: 2
+nav_order: {sort_order + 2}
 ---
 
 # {title}
@@ -132,13 +132,13 @@ def create_folders(dirs: List[Directory]):
 
     Also creates an index.md in each subdirectory.
     """
-    dir_names = {dir.name.replace("source/", "docs/") for dir in dirs}
-    for dir_name in dir_names:
+    dir_names = [dir.name.replace("source/", "docs/") for dir in dirs]
+    for sort_order, dir_name in enumerate(dir_names):
         try:
             os.mkdir(dir_name)
         except FileExistsError:
             pass
-        create_index_file(dir_name)
+        create_index_file(dir_name, sort_order)
 
 
 def jekyll_file_header(input_file: str) -> str:
