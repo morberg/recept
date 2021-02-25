@@ -109,6 +109,8 @@ def create_index_file(dir_name: str):
     has_children: true
     nav_order: 2
     ---
+
+    # Bakat
     """
     title = dir_name.removeprefix("docs/")
     header = f"""---
@@ -117,6 +119,8 @@ title: {title}
 has_children: true
 nav_order: 2
 ---
+
+# {title}
 """
     filename = dir_name + "/index.md"
     with open(filename, "w") as f:
