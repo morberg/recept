@@ -1,7 +1,6 @@
 # Inkokt lax med romsås och timjanmorötter
 ## 4 personer
 
-::: columns
 -	900 g potatis
 -	600 g laxfilé i hel bit
 -	1 citron
@@ -25,7 +24,6 @@
 ### Romsås
 -	3 dl gräddfil
 -	75 g röd stenbitsrom
-:::
 
 Skala och koka potatisen. Plocka dillen och lägg stjälkar för sig och kvistar
 för sig. Hacka kvistarna och ställ undan. Skär laxfileén i fyra delar,

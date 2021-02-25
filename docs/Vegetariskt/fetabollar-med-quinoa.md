@@ -2,7 +2,6 @@
 
 ## 4 portioner
 
-::: columns
 ### Quinoasallad
 * 4 portioner svart eller vit quinoa
 * 2 avokado
@@ -26,7 +25,6 @@
 * 1 msk olivolja
 * 1 dl pankoströbröd
 
-:::
 
 Koka 4 portioner quinoa enligt anvisningarna på paketet.
 

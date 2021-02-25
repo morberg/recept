@@ -2,7 +2,6 @@
 
 ## 4 portioner
 
-::: columns
 ## Srirachamajonnäs
 
 - 1 ägg
@@ -33,7 +32,6 @@
 - 1 rödlök, skivad
 - 4 hamburgerbröd
 - 4 salladsblad
-::: 
 
 Sätt på ugnen på 225° eller vad det nu står på din påse pommes.
 

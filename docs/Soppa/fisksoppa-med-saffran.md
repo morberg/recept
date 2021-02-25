@@ -1,7 +1,6 @@
 # Fisksoppa med saffran
 ## 4 portioner
 
-::: columns
 - 400 g torskfilé, sej eller hoki
 - 300 g laxfilé
 - 1/2 purjolök
@@ -20,7 +19,6 @@
 - 300 g räkor med skal
 - 1 burk musslor (à 150 g)
 - 1 1/2 tsk tomatpuré
-:::
 
 Tina fisken om den är fryst. Skölj och strimla purjon. Skala och hacka löken.
 

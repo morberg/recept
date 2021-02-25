@@ -2,7 +2,6 @@
 
 ## 4 portioner
 
-::: columns
 * 1 paket fiskpinnar, 30 stycken
 * 1 paket mellanstora mjuka tortillabröd
 * 1 burk inlagda jalapenos
@@ -27,7 +26,6 @@
 * 1/2 tsk salt
 * 3 dl olja
 
-:::
 
 Lägg mangon i kylen dagen innan så att den tinar i lugn och ro.
 

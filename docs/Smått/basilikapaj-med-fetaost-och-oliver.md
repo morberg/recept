@@ -1,6 +1,5 @@
 # Basilikapaj med fetaost och oliver
 
-::: columns
 ## Pajdeg
 
 -	4 dl vetemjöl
@@ -25,7 +24,6 @@
 -	2 krm svartpeppar
 -	1–2 vitlöksklyftor
 
-:::
 
 Sätt ugnen på 225°.
 

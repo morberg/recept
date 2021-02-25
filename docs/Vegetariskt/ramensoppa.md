@@ -1,7 +1,6 @@
 # Vegetarisk ramensoppa
 ## 4 portioner
 
-::: columns
 ## Soppa
 - 4 klyfta(or) vitlök
 - ett halvt knippe salladslök
@@ -32,7 +31,6 @@
 - 0,75 dl maizena
 - 0,5 tsk chiliflakes
 - 0,5 tsk salt
-:::
 
 Skala och riv vitlök och ingefära samt finhacka chilipeppar till **soppan.** Fräs i lite rapsolja i en stor kastrull ca 30 sek.
 

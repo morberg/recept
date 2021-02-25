@@ -1,7 +1,6 @@
 # Vietnamesiska kycklingvingar
 ## 3-4 personer
 
-::: columns
 ### Glaze
 
 * 1 msk neutral olja
@@ -32,7 +31,6 @@
 * Jasminris eller Vietnamesisk nudelsallad (det hittar du genom googling)
 * 1 kruka hackad koriander vid sidan av
 * Ev. en [koriandersalsachutneysås](https://feeders.se/2018/03/08/koriandersalsachutneysas/) (dvs. koriander, lime, olja och salt)
-:::
 
 **Glaze**: stek vitlök och ingefära på medeltemperatur tills vitlöken börjar brynas litegrann. Blanda i övriga ingredienser och
 reducera ner tills du får en sirapsliknande konsistens på din glaze. Ställ sedan undan den.

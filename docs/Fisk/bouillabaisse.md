@@ -1,7 +1,6 @@
 # Bouillabaisse
 ## 4 portioner
 
-::: columns
 ## Soppa
 * 1 gul lök
 * 3 klyftor vitlök
@@ -25,7 +24,6 @@
 ## Smaksättning
 * 1 msk färsk timjan
 * 1/2 pressad citron
-:::
 
 Hetta upp olja och smör i en kastrull. Fräs lök, vitlök, purjolök, fänkål, potatis och morötter tillsammans med saffran
 och chiliflakes under omrörning i 2-3 minuter. Tillsätt tomatpurén och fräs 30 sekunder till. Häll i vinet och låt

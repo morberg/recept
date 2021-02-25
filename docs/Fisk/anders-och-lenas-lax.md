@@ -2,7 +2,6 @@
 ## 4 personer
 
 
-::: columns
 
 ### Potatissallad
 - 750 g färskpotatis
@@ -25,7 +24,6 @@
 - 4 portionsbitar lax á 170 g
 - limeklyftor till servering
 
-::: 
 
 Börja med att sätta ugnen på 250 grader. Fortsätt sedan med potatissalladen.
 

@@ -2,7 +2,6 @@
 
 ## 4 personer
 
-::: columns
 ### Nigiri- och maki-sushi
 
 -	Pinfärsk fisk, t ex lax, tonfisk, eller smörfisk. Be din fiskhandlare om hjälp, han vet också hur mycket som behövs.
@@ -26,7 +25,6 @@
 -	wasabi
 -	inlagd ingefära
 
-:::
 
 Blanda samman ingredienserna till sushi-zu. Sushi-zu kan också köpas färdig
 

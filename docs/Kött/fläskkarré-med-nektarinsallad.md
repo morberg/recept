@@ -1,7 +1,6 @@
 # Grillad fläskkarré med nektarinsallad och klyftpotatis
 ## 4 personer
 
-::: columns
 ### Potatis
 * 800 gram potatis
 ### Nektarinsallad
@@ -22,7 +21,6 @@
 
 ### Fläskkarré
 * 600 g fläskkarrè
-:::
 
 Om du vill grilla, tänd grillen.
 

@@ -1,7 +1,6 @@
 # Peruansk kyckling
 ## 4 personer
 
-::: columns
 ## Sås
 - 2 jalapeños
 - 1 kruka hackad koriander
@@ -22,7 +21,6 @@
 
 ## Kyckling
 - 1 kyckling
-:::
 
 Tänd grillen eller sätt ugnen på 225°.
 
