@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import os
-import glob
 from typing import List, NamedTuple
 
 import typer
