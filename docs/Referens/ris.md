@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ris
+parent: Referens
+---
 # Ris
 
 [Ristips](https://sverigesradio.se/avsnitt/1639219?fbclid=IwAR3dpzqoD02zZmbTExMZITsXTxoSBKa4AkDnj9wc9fHeaHBARvq7R-k2BYE)

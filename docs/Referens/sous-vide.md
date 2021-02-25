@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sous vide
+parent: Referens
+---
 # Sous vide
 
 | Råvara                   | Temp.     | Tid           | Kommentar                                                                                                  |
