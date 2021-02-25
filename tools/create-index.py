@@ -107,6 +107,7 @@ def create_index_file(dir_name: str):
     layout: default
     title: Bakat
     has_children: true
+    nav_order: 2
     ---
     """
     title = dir_name.removeprefix("docs/")
@@ -114,6 +115,7 @@ def create_index_file(dir_name: str):
 layout: default
 title: {title}
 has_children: true
+nav_order: 2
 ---
 """
     filename = dir_name + "/index.md"
@@ -186,6 +188,14 @@ def print_index():
     """Generate table of contents markdown file.
 
     Suitable for a start page with links to all recipes."""
+
+    header = """---
+layout: default
+title: Morbergs receptsamling
+nav_order: 1
+---
+"""
+    print(header)
     print("# Morbergs receptsamling\n")
     dirs = get_dirs()
     print_categories(dirs)
@@ -207,12 +217,8 @@ def create_docs():
     """Creates docs/ with markdown files suitable for Jekyll."""
     dirs = get_dirs()
     create_folders(dirs)
-    create_index_files(dirs)
     create_jekyll_files(dirs)
 
-
-# %%
-dirs = get_dirs()
 
 # %%
 if __name__ == "__main__":
