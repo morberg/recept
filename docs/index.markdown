@@ -30,7 +30,7 @@
 
 ## Fågel
 
-* [Chicken à la King](Fågel/chicken-a-la-king.md)
+* [Chicken à la King](Fågel/chicken-a-la-king.md)
 * [Johannas grekiska kyckling](Fågel/johannas-kyckling.md)
 * [Kyckling med citronquinoa och fikonsky](Fågel/kyckling-med-citronquinoa.md)
 * [Kyckling (eller tofu) med cashewnötter](Fågel/kyckling-och-cashew.md)
@@ -50,7 +50,7 @@
 
 * [Biff Barbacoa](Kött/barbacoa.md)
 * [Creolsk gryta](Kött/creolsk-gryta.md)
-* [Falukorv med blomkålspuré och grönsaker](Kött/falukorv-blomkålspuré.md)
+* [Falukorv med blomkålspuré och grönsaker](Kött/falukorv-blomkålspuré.md)
 * [Fläskfilé med krämig polenta](Kött/fläskfilé-med-krämig-polenta.md)
 * [Grillad fläskkarré med nektarinsallad och klyftpotatis](Kött/fläskkarré-med-nektarinsallad.md)
 * [Jamie’s Beef and Stout pie](Kött/jamies-beef-and-stout-pie.md)
