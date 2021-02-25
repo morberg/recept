@@ -13,7 +13,7 @@ receptsamling.pdf: receptsamling.md
 	-o pdf/receptsamling.pdf
 
 index.md: source/*/*.md tools/create-index.py
-	mkdir docs
+	mkdir -p docs
 	python tools/create-index.py print-index > docs/index.md
 
 receptsamling.md: source/*/*.md tools/create-index.py
