@@ -23,7 +23,6 @@
 - 2 tomat
 
 :::
-## Gör så här
 
 Värm ugnen till 200°C (varmluft) eller 225°C (vanlig).
 
