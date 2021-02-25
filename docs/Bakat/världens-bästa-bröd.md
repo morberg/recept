@@ -1,3 +1,8 @@
+---
+layout: default
+title: Världens bästa bröd
+parent: Bakat
+---
 # Världens bästa bröd
 
 * 6 dl vatten

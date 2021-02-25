@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chicken à la King
+parent: Fågel
+---
 # Chicken à la King
 
 ## Sås

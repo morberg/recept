@@ -1,3 +1,8 @@
+---
+layout: default
+title: Zuccinipaj med pesto
+parent: Smått
+---
 Zuccinipaj med pesto
 ====================
 

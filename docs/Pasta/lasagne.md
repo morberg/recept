@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lasagne
+parent: Pasta
+---
 # Lasagne
 ## 6 personer
 

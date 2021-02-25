@@ -1,3 +1,8 @@
+---
+layout: default
+title: Focaccia
+parent: Bakat
+---
 Focaccia
 ========
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Brantevikssill
+parent: Fisk
+---
 Brantevikssill
 ==============
 

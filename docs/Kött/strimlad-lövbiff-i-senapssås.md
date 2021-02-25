@@ -1,3 +1,8 @@
+---
+layout: default
+title: Strimlad lövbiff i senapssås med parmesan
+parent: Kött
+---
 Strimlad lövbiff i senapssås med parmesan
 =========================================
 

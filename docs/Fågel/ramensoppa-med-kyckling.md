@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ramensoppa med kyckling
+parent: Fågel
+---
 # Ramensoppa med kyckling
 ## 4 personer
 

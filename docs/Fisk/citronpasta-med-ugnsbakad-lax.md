@@ -1,3 +1,8 @@
+---
+layout: default
+title: Citrontagliatelle med ugnsbakad lax
+parent: Fisk
+---
 # Citrontagliatelle med ugnsbakad lax
 
 ## 4 personer

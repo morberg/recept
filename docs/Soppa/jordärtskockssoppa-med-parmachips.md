@@ -1,3 +1,8 @@
+---
+layout: default
+title: Jordärtskockssoppa med parmachips
+parent: Soppa
+---
 Jordärtskockssoppa med parmachips
 =================================
 

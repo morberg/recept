@@ -1,3 +1,8 @@
+---
+layout: default
+title: Grova öländska kroppkakor
+parent: Kött
+---
 Grova öländska kroppkakor
 =========================
 

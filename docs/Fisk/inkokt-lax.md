@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inkokt lax med romsås och timjanmorötter
+parent: Fisk
+---
 # Inkokt lax med romsås och timjanmorötter
 ## 4 personer
 

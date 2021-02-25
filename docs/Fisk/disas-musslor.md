@@ -1,3 +1,8 @@
+---
+layout: default
+title: Disas musslor
+parent: Fisk
+---
 # Disas musslor
 
 ## 4 personer

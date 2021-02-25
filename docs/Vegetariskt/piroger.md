@@ -1,3 +1,8 @@
+---
+layout: default
+title: Piroger med fetaost och spenat
+parent: Vegetariskt
+---
 # Piroger med fetaost och spenat
 
 ## Fyllning

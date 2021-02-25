@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ost- och skinkpaj
+parent: Smått
+---
 Ost- och skinkpaj
 =================
 

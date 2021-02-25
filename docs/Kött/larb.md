@@ -1,3 +1,8 @@
+---
+layout: default
+title: Larb
+parent: Kött
+---
 # Larb
 ## 4 personer
 

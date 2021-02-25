@@ -1,3 +1,8 @@
+---
+layout: default
+title: Falukorv med blomkålspuré och grönsaker
+parent: Kött
+---
 Falukorv med blomkålspuré och grönsaker
 =======================================
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Vietnamesiska kycklingvingar
+parent: Fågel
+---
 # Vietnamesiska kycklingvingar
 ## 3-4 personer
 

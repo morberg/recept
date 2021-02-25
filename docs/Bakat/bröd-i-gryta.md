@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bröd i gryta
+parent: Bakat
+---
 # Bröd i gryta
 
 -	660 g kallt vatten

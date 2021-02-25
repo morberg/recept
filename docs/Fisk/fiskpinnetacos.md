@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fiskpinnetacos
+parent: Fisk
+---
 # Fiskpinnetacos
 
 ## 4 portioner

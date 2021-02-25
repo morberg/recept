@@ -1,3 +1,9 @@
+---
+layout: default
+title: Morbergs receptsamling
+nav_order: 1
+---
+
 # Morbergs receptsamling
 
 ## Bakat

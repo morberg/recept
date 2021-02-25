@@ -1,3 +1,8 @@
+---
+layout: default
+title: Andreas asiatiska fiskbiffar
+parent: Fisk
+---
 # Andreas asiatiska fiskbiffar
 
 ## Fiskbiffar

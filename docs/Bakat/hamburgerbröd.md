@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hamburgerbröd
+parent: Bakat
+---
 # Hamburgerbröd
 
 ## 8 stycken

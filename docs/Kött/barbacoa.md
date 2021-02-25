@@ -1,3 +1,8 @@
+---
+layout: default
+title: Biff Barbacoa
+parent: Kött
+---
 Biff Barbacoa
 =============
 

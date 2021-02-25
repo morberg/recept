@@ -1,3 +1,8 @@
+---
+layout: default
+title: Creolsk gryta
+parent: Kött
+---
 Creolsk gryta
 =============
 

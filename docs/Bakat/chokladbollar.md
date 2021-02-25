@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chokladbollar
+parent: Bakat
+---
 Chokladbollar
 =============
 

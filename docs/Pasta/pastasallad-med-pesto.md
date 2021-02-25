@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pastasallad med basilika- och spenatpesto
+parent: Pasta
+---
 # Pastasallad med basilika- och spenatpesto
 
 ## 4-5 portioner

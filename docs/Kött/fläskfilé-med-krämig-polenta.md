@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fläskfilé med krämig polenta
+parent: Kött
+---
 # Fläskfilé med krämig polenta
 
 ## 4 portioner

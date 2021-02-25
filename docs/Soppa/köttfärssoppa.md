@@ -1,3 +1,8 @@
+---
+layout: default
+title: Köttfärssoppa
+parent: Soppa
+---
 Köttfärssoppa
 =============
 

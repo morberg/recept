@@ -1,3 +1,8 @@
+---
+layout: default
+title: Torskrygg med blomkålspuré och brynt smör
+parent: Fisk
+---
 # Torskrygg med blomkålspuré och brynt smör
 
 * 600 g torskrygg

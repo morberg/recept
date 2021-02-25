@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rostad blomkålscarbonara
+parent: Pasta
+---
 # Rostad blomkålscarbonara
 ## 4 portioner
 

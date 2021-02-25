@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rödspätta Grenoble
+parent: Fisk
+---
 Rödspätta Grenoble
 ==================
 

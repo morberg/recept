@@ -77,12 +77,9 @@ def print_categories(dirs: List[Directory]):
 
 
 def print_pandoc_categories(dirs: List[Directory]):
-    """Generate pandoc markdown file
+    """Generate pandoc markdown file.
 
-    Use as starting point for pandoc to generate a PDF.
-
-    Directory 'Referens' will be excluded. This dir contains pages
-    with tables not possible to render in twocolumn layout.
+    Used as starting point for pandoc to generate a PDF.
     """
     for dir in dirs:
         category = dir.name.removeprefix("source/")
@@ -94,6 +91,99 @@ def print_pandoc_categories(dirs: List[Directory]):
             print(PANDOC_POST_FILE_PATH)
 
 
+def append_skip_colons(in_file: str, out_file: str):
+    """Append in_file to out_file. Skip lines starting with ':::'"""
+    with open(in_file, "r") as input, open(out_file, "a") as output:
+        for line in input:
+            if not line.startswith(":::"):
+                output.write(line)
+
+
+def create_index_file(dir_name: str):
+    """Create index.md in dir_name with YAML header
+
+    Example:
+    ---
+    layout: default
+    title: Bakat
+    has_children: true
+    nav_order: 2
+    ---
+
+    # Bakat
+    """
+    title = dir_name.removeprefix("docs/")
+    header = f"""---
+layout: default
+title: {title}
+has_children: true
+nav_order: 2
+---
+
+# {title}
+"""
+    filename = dir_name + "/index.md"
+    with open(filename, "w") as f:
+        f.write(header)
+
+
+def create_folders(dirs: List[Directory]):
+    """Creates subdirectories in 'docs' mirroring 'source'
+
+    Also creates an index.md in each subdirectory.
+    """
+    dir_names = {dir.name.replace("source/", "docs/") for dir in dirs}
+    for dir_name in dir_names:
+        try:
+            os.mkdir(dir_name)
+        except FileExistsError:
+            pass
+        create_index_file(dir_name)
+
+
+def jekyll_file_header(input_file: str) -> str:
+    """Returns a YAML header based on input_file.
+
+    Uses format from the Jekyll theme Just the Docs.
+
+    Example:
+
+    ---
+    layout: default
+    title: Bröd i gryta
+    parent: Bakat
+    ---
+    """
+    title = get_title(input_file)
+    # 'source/Fågel/kyckling.md -> Fågel
+    parent = input_file.split("/")[1]
+    output = f"""---
+layout: default
+title: {title}
+parent: {parent}
+---
+"""
+    return output
+
+
+def create_file(filename: str, content: str):
+    """Creates filename with content."""
+    with open(filename, "w") as f:
+        f.write(content)
+
+
+def create_jekyll_files(input_dirs: List[Directory]):
+    """Create Jekyll files in 'docs' directory"""
+    for input_dir in input_dirs:
+        for file in input_dir.files:
+            output_dir = input_dir.name.replace("source/", "docs/")
+            output_file = output_dir + "/" + file
+            input_file = input_dir.name + "/" + file
+            header = jekyll_file_header(input_file)
+            create_file(output_file, header)
+            append_skip_colons(input_file, output_file)
+
+
 app = typer.Typer()
 
 
@@ -102,6 +192,14 @@ def print_index():
     """Generate table of contents markdown file.
 
     Suitable for a start page with links to all recipes."""
+
+    header = """---
+layout: default
+title: Morbergs receptsamling
+nav_order: 1
+---
+"""
+    print(header)
     print("# Morbergs receptsamling\n")
     dirs = get_dirs()
     print_categories(dirs)
@@ -116,6 +214,14 @@ def print_pandoc_index():
     dirs = get_dirs()
     print(PANDOC_FRONTMATTER)
     print_pandoc_categories(dirs)
+
+
+@app.command()
+def create_docs():
+    """Creates docs/ with markdown files suitable for Jekyll."""
+    dirs = get_dirs()
+    create_folders(dirs)
+    create_jekyll_files(dirs)
 
 
 # %%

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pasta Bolognese på högrev
+parent: Pasta
+---
 # Pasta Bolognese på högrev
 ## 4 personer
 * 2 gula lökar

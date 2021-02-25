@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chokladmousse
+parent: Gott
+---
 Chokladmousse
 =============
 

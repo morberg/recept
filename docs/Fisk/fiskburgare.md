@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fiskburgare med cole slaw
+parent: Fisk
+---
 # Fiskburgare med cole slaw
 
 ## 4 portioner

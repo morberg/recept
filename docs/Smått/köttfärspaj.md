@@ -1,3 +1,8 @@
+---
+layout: default
+title: Köttfärspaj
+parent: Smått
+---
 Köttfärspaj
 ===========
 

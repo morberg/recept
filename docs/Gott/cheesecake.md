@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cheesecake
+parent: Gott
+---
 Cheesecake
 ==========
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Yvonnes snabba äpplekaka
+parent: Gott
+---
 Yvonnes snabba äpplekaka
 ========================
 

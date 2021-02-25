@@ -1,3 +1,8 @@
+---
+layout: default
+title: Anders och Lenas Lax
+parent: Fisk
+---
 # Anders och Lenas Lax
 ## 4 personer
 
