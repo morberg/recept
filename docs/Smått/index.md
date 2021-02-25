@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Bakat
+title: Smått
 has_children: true
 ---

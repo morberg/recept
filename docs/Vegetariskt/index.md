@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Bakat
+title: Vegetariskt
 has_children: true
 ---

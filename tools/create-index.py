@@ -100,20 +100,49 @@ def append_skip_colons(in_file: str, out_file: str):
                 output.write(line)
 
 
+def create_index_file(dir_name: str):
+    """Create index.md in dir_name with YAML header
+
+    Example:
+    ---
+    layout: default
+    title: Bakat
+    has_children: true
+    ---
+    """
+    title = dir_name.removeprefix("docs/")
+    header = f"""---
+layout: default
+title: {title}
+has_children: true
+---
+"""
+    filename = dir_name + "/index.md"
+    with open(filename, "w") as f:
+        f.write(header)
+
+
 def create_folders(dirs: List[Directory]):
-    """Creates subdirectories in 'docs' mirroring 'source'"""
+    """Creates subdirectories in 'docs' mirroring 'source'
+
+    Also creates an index.md in each subdirectory.
+    """
     dir_names = {dir.name.replace("source/", "docs/") for dir in dirs}
     for dir_name in dir_names:
         try:
             os.mkdir(dir_name)
         except FileExistsError:
             pass
+        create_index_file(dir_name)
 
 
 def jekyll_file_header(input_file: str) -> str:
     """Returns a YAML header based on input_file.
 
     Uses format from the Jekyll theme Just the Docs.
+
+    Example:
+
     ---
     layout: default
     title: Bröd i gryta
@@ -179,6 +208,7 @@ def create_docs():
     """Creates docs/ with markdown files suitable for Jekyll."""
     dirs = get_dirs()
     create_folders(dirs)
+    create_index_files(dirs)
     create_jekyll_files(dirs)
 
 

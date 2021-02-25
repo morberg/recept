@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Bakat
+title: Fågel
 has_children: true
 ---

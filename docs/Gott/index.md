@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Bakat
+title: Gott
 has_children: true
 ---

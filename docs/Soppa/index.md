@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Bakat
+title: Soppa
 has_children: true
 ---

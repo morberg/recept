@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Bakat
+title: Sås
 has_children: true
 ---
