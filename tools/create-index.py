@@ -40,7 +40,7 @@ def get_title(file_name: str) -> str:
 
 def get_dirs() -> List[Directory]:
     """Returns a sorted list of tuples with directories and
-    their file names from current directory.
+    their file names from source/ directory.
 
     Directories containing '.git' and current dir will be excluded.
 
@@ -49,16 +49,16 @@ def get_dirs() -> List[Directory]:
     """
     dirs = [
         Directory(dir_name, files)
-        for dir_name, _, files in os.walk(".")
+        for dir_name, _, files in os.walk("source/")
         if ".git" not in dir_name  # exclude *.git* directories
-        if dir_name != "."  # exclude root dir
-        if dir_name != "./Referens"
+        if dir_name != "source/"  # exclude root dir
+        if dir_name != "source/Referens"
     ]
     dirs.sort()
     referens = [
         Directory(dir_name, files)
-        for dir_name, _, files in os.walk(".")
-        if dir_name == "./Referens"
+        for dir_name, _, files in os.walk("source/")
+        if dir_name == "source/Referens"
     ]
     return dirs + referens
 
@@ -66,12 +66,13 @@ def get_dirs() -> List[Directory]:
 def print_categories(dirs: List[Directory]):
     """Prints categories, recipe titles and links in markdown format."""
     for dir in dirs:
-        category = dir.name.strip("./")
+        category = dir.name.removeprefix("source/")
         print(f"## {category}\n")
         for file in sorted(dir.files):
             file_path = dir.name + "/" + file
             title = get_title(file_path)
-            print(f"* [{title}]({file_path})")
+            url = file_path.removeprefix("source/")
+            print(f"* [{title}]({url})")
         print()
 
 
@@ -84,7 +85,7 @@ def print_pandoc_categories(dirs: List[Directory]):
     with tables not possible to render in twocolumn layout.
     """
     for dir in dirs:
-        category = dir.name.strip("./")
+        category = dir.name.removeprefix("source/")
         print(f"# {category}")
         for file in sorted(dir.files):
             file_path = dir.name + "/" + file
@@ -108,7 +109,7 @@ def print_index():
 
 @app.command()
 def print_pandoc_index():
-    """Generate pandoc markdown file
+    """Generate pandoc markdown file from source/ dir.
 
     Use as starting point for pandoc to generate a PDF.
     """
