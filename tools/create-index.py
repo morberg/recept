@@ -66,12 +66,13 @@ def get_dirs() -> List[Directory]:
 def print_categories(dirs: List[Directory]):
     """Prints categories, recipe titles and links in markdown format."""
     for dir in dirs:
-        category = dir.name.strip("./")
+        category = dir.name.removeprefix("source/")
         print(f"## {category}\n")
         for file in sorted(dir.files):
             file_path = dir.name + "/" + file
             title = get_title(file_path)
-            print(f"* [{title}]({file_path})")
+            url = file_path.removeprefix("source/")
+            print(f"* [{title}]({url})")
         print()
 
 

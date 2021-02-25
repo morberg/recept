@@ -1,6 +1,7 @@
 pdf: receptsamling.pdf
 
-html: receptsamling.html
+jekyll: source/*/*.md jekyll/index.md
+	cp -r source/ jekyll/
 
 receptsamling.pdf: receptsamling.md
 	pandoc receptsamling.md \
@@ -10,16 +11,8 @@ receptsamling.pdf: receptsamling.md
 	--toc --toc-depth=2 \
 	-o pdf/receptsamling.pdf
 
-receptsamling.html: receptsamling.md
-	pandoc receptsamling.md \
-	--lua-filter=include-files.lua \
-	--lua-filter=columns.lua \
-	--toc --toc-depth=2 \
-	--standalone \
-	-o receptsamling.html
-
-index.md: */*.md create-index.py
-	python create-index.py print-index > index.md
+jekyll/index.md: source/*/*.md tools/create-index.py
+	python tools/create-index.py print-index > jekyll/index.md
 
 receptsamling.md: source/*/*.md tools/create-index.py
 	python tools/create-index.py print-pandoc-index > receptsamling.md
