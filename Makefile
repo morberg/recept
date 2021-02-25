@@ -1,6 +1,6 @@
 pdf: receptsamling.pdf
 
-jekyll: source/*/*.md docs/index.md
+jekyll: source/*/*.md index.md
 	cp -r source/ docs/
 
 receptsamling.pdf: receptsamling.md
@@ -11,7 +11,7 @@ receptsamling.pdf: receptsamling.md
 	--toc --toc-depth=2 \
 	-o pdf/receptsamling.pdf
 
-docs/index.md: source/*/*.md tools/create-index.py
+index.md: source/*/*.md tools/create-index.py
 	python tools/create-index.py print-index > docs/index.md
 
 receptsamling.md: source/*/*.md tools/create-index.py
