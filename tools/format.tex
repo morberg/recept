@@ -1,0 +1,8 @@
+% Original heading was alternating chapter and recipe between even/odd pages
+% Change headings in scrbook class to just include the chapter
+\pagestyle{myheadings}
+\renewcommand{\chaptermark}[1]%
+% Small caps would have been nice, but I can't get that to work with
+% a system font. If I ever figure it out, this is the command to use instead
+% {\markboth{\textsc{\lowercase{#1}}}{\textsc{\lowercase{#1}}}}
+{\markboth{\textit{#1}}{\textit{#1}}}
