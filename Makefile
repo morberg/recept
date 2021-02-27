@@ -8,9 +8,20 @@ receptsamling.pdf: receptsamling.md
 	pandoc receptsamling.md \
 	--lua-filter=tools/include-files.lua \
 	--lua-filter=tools/columns.lua \
+	--include-before-body=tools/format.tex \
 	--pdf-engine=xelatex \
 	--toc --toc-depth=2 \
 	-o pdf/receptsamling.pdf
+
+receptsamling.tex: receptsamling.md
+	pandoc receptsamling.md \
+	--lua-filter=tools/include-files.lua \
+	--lua-filter=tools/columns.lua \
+	--pdf-engine=xelatex \
+	--standalone \
+	--toc --toc-depth=2 \
+	-o pdf/receptsamling.tex
+
 
 index.md: source/*/*.md tools/create-index.py
 	mkdir -p docs

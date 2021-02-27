@@ -7,10 +7,10 @@ from typing import List, NamedTuple
 
 import typer
 
-PANDOC_FRONTMATTER = """---
+PANDOC_FRONTMATTER = r"""---
 author: Niklas Morberg
 title: Morbergs receptsamling
-documentclass: scrreprt
+documentclass: scrbook
 mainfont: 'Hoefler Text'
 sansfont: 'Avenir'
 papersize: a4paper
