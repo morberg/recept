@@ -72,6 +72,7 @@ nav_order: 1
 * [Kikärtspasta (Pasta Strozzapreti Ceci)](Pasta/kikärtspasta-pasta-strozzapreti-ceci.md)
 * [Lasagne](Pasta/lasagne.md)
 * [Orrecchiette med broccolikräm, mandel och quattrocento](Pasta/orrecchiette-med-broccolikräm.md)
+* [Pappardelle med harissa, svarta oliver och kapris](Pasta/papardelle-harissa.md)
 * [Pasta Bolognese på högrev](Pasta/pasta-bolognese-högrev.md)
 * [Pastasallad med basilika- och spenatpesto](Pasta/pastasallad-med-pesto.md)
 * [Rostad blomkålscarbonara](Pasta/rostad-blomkålscarbonara.md)
