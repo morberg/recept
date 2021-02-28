@@ -4,7 +4,7 @@ jekyll: source/*/*.md index.md
 	python tools/create-index.py create-docs
 	cp source/_config.yml docs/
 
-receptsamling.pdf: receptsamling.md
+receptsamling.pdf: receptsamling.md tools/format.tex
 	pandoc receptsamling.md \
 	--lua-filter=tools/include-files.lua \
 	--lua-filter=tools/columns.lua \
@@ -17,6 +17,7 @@ receptsamling.tex: receptsamling.md
 	pandoc receptsamling.md \
 	--lua-filter=tools/include-files.lua \
 	--lua-filter=tools/columns.lua \
+	--include-before-body=tools/format.tex \
 	--pdf-engine=xelatex \
 	--standalone \
 	--toc --toc-depth=2 \
