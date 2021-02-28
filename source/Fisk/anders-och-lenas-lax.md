@@ -2,8 +2,9 @@
 
 ## 4 personer
 
-::: {.columns}
-### Potatissallad
+:::::: {.columns}
+::: column
+## Potatissallad
 
 -   750 g färskpotatis
 -   200 g sparris
@@ -14,7 +15,7 @@
 -   saften från en lime
 -   2 msk äppelcidervinäger
 
-### Nötblandning
+## Nötblandning
 
 -   50 g cashewnötter, grovt hackade
 -   1--2 vitlöksklyftor, rivna
@@ -22,11 +23,13 @@
 -   2 msk sweet chili
 -   rivet skal från en lime
 
-### Lax
+## Lax
 
 -   4 portionsbitar lax á 170 g
 -   limeklyftor till servering
+
 :::
+::: column
 
 Börja med att sätta ugnen på 250 grader. Fortsätt sedan med
 potatissalladen.
@@ -43,3 +46,5 @@ en ugnsfast form och bred på nötblandningen.
 
 Ställ in laxen högt upp i ugnen under 2--3 minuter så att det får lite
 färg. Servera tillsammans med potatissalladen och limeklyftor.
+:::
+::::::

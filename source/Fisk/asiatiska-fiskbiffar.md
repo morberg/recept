@@ -1,6 +1,7 @@
 # Andreas asiatiska fiskbiffar
 
-::: {.columns}
+:::::: {.columns}
+::: column
 ## Fiskbiffar
 
 -   600 g torskfilé
@@ -36,7 +37,7 @@
 -   1 msk fisksås
 -   2 msk rapsolja
 :::
-
+::: column
 **Fiskbiffar**: Skär fisken i mindre bitar. Skölj och grovhacka purjolök
 och skala och grovhacka ingefära och vitlök. Skölj och grovhacka chili.
 Lägg alltsammans i en matberedare och tillsätt koriander. Riv limeskal
@@ -60,3 +61,5 @@ fisksås och olja i en skål. Tillsätt dressingen till nudelsalladen och
 blanda om väl. Smaka av med lite salt.
 
 Servera fiskbiffarna med risnudelsallad.
+:::
+::::::
