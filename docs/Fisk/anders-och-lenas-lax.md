@@ -7,7 +7,7 @@ parent: Fisk
 
 ## 4 personer
 
-### Potatissallad
+## Potatissallad
 
 -   750 g färskpotatis
 -   200 g sparris
@@ -18,7 +18,7 @@ parent: Fisk
 -   saften från en lime
 -   2 msk äppelcidervinäger
 
-### Nötblandning
+## Nötblandning
 
 -   50 g cashewnötter, grovt hackade
 -   1--2 vitlöksklyftor, rivna
@@ -26,10 +26,11 @@ parent: Fisk
 -   2 msk sweet chili
 -   rivet skal från en lime
 
-### Lax
+## Lax
 
 -   4 portionsbitar lax á 170 g
 -   limeklyftor till servering
+
 
 Börja med att sätta ugnen på 250 grader. Fortsätt sedan med
 potatissalladen.
