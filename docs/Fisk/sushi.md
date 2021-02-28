@@ -31,7 +31,6 @@ parent: Fisk
 -   japansk soja
 -   wasabi
 -   inlagd ingefära
-
 Blanda samman ingredienserna till sushi-zu. Sushi-zu kan också köpas
 färdig
 
