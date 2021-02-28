@@ -1,8 +1,10 @@
 pdf: receptsamling.pdf
 
-jekyll: source/*/*.md index.md
+jekyll: source/*/*.md source/* index.md
 	python tools/create-index.py create-docs
 	cp source/_config.yml docs/
+	cp source/*.png docs/
+	cp source/favicon.ico docs/
 
 receptsamling.pdf: receptsamling.md tools/format.tex
 	pandoc receptsamling.md \
