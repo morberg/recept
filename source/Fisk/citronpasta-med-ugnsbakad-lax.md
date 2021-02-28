@@ -2,7 +2,8 @@
 
 ## 4 personer
 
-::: {.columns}
+:::::: {.columns}
+::: column
 ## Ugnsbakad lax
 
 -   600 g laxfilé
@@ -25,7 +26,7 @@
 -   300 g morötter
 -   2 tomat
 :::
-
+::: column
 Värm ugnen till 200°C (varmluft) eller 225°C (vanlig).
 
 Dela laxfilé i portionsbitar och krydda med salt och nymald svartpeppar.
@@ -48,3 +49,5 @@ allt i skålar.
 
 Blanda nykokt pasta med citronsåsen och servera med ugnsbakad lax,
 grönsaker och citronklyftor.
+:::
+::::::

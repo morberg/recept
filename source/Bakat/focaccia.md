@@ -1,6 +1,6 @@
 # Focaccia
 
-## 1 stort bröd
+::: columns
 
 -   500 g vetemjöl special
 -   500 g durumvete
@@ -9,14 +9,14 @@
 -   30 g salt
 -   ca 6 dl vatten
 
-### Örtolja
+## Örtolja
 
 -   färsk rosmarin
 -   salt
 -   5 vitlöksklyftor
 -   1 dl olivolja
 
-Instruktioner:
+:::
 
 1.  Smula ner jästen och häll på lite fingervarmt vatten. Häll i sockret
     och låt stå en stund. Blanda till örtoljan under tiden. Blanda i
