@@ -3,6 +3,9 @@
 ## 4 personer
 
 ::: {.columns}
+
+-   1 kyckling
+
 ## Sås
 
 -   2 jalapeños
@@ -23,9 +26,6 @@
 -   2 msk äppelcidervinäger
 -   2 msk rapsolja
 
-## Kyckling
-
--   1 kyckling
 :::
 
 Tänd grillen eller sätt ugnen på 225°.

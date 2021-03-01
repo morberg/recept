@@ -3,6 +3,7 @@
 ## 4 personer
 
 :::::: {.columns}
+::: column
 ### Nigiri- och maki-sushi
 
 -   Pinfärsk fisk, t ex lax, tonfisk, eller smörfisk. Be din
@@ -13,10 +14,11 @@
 -   wasabi
 -   3 1/2 dl japanskt ris
 -   7 dl vatten
-
+:::
+::: column
 ### Sushi-zu (sushivinäger)
 
--   5 msk risvinäger (ersätt med fördel 1 msk av vinägern med 1 msk
+-   5 msk risvinäger (ersätt gärna 1 msk av vinägern med 1 msk
     limesaft)
 -   1 msk mirinvin
 -   2 tsk salt
@@ -27,6 +29,9 @@
 -   japansk soja
 -   wasabi
 -   inlagd ingefära
+:::
+::::::
+
 Blanda samman ingredienserna till sushi-zu. Sushi-zu kan också köpas
 färdig
 
@@ -57,4 +62,3 @@ och avsvalnat till rumstemperatur.
 
 Forma till Nigiri-sushi och Maki-sushi och servera. öl och det japanska
 risvinet sake passar bra att dricka till.
-::::::
