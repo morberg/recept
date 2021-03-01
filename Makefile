@@ -1,4 +1,12 @@
+PANDOC_FLAGS = --lua-filter=tools/include-files.lua \
+	--lua-filter=tools/columns.lua \
+	--include-before-body=tools/format.tex \
+	--pdf-engine=xelatex \
+	--toc --toc-depth=2 \
+
 pdf: receptsamling.pdf
+
+tex: receptsamling.tex
 
 jekyll: source/*/*.md source/* index.md
 	python tools/create-index.py create-docs
@@ -8,21 +16,12 @@ jekyll: source/*/*.md source/* index.md
 
 receptsamling.pdf: pdf/receptsamling.md tools/format.tex
 	pandoc pdf/receptsamling.md \
-	--lua-filter=tools/include-files.lua \
-	--lua-filter=tools/columns.lua \
-	--include-before-body=tools/format.tex \
-	--pdf-engine=xelatex \
-	--toc --toc-depth=2 \
+	$(PANDOC_FLAGS) \
 	-o pdf/receptsamling.pdf
 
 receptsamling.tex: pdf/receptsamling.md tools/format.tex
 	pandoc pdf/receptsamling.md \
-	--lua-filter=tools/include-files.lua \
-	--lua-filter=tools/columns.lua \
-	--include-before-body=tools/format.tex \
-	--pdf-engine=xelatex \
-	--standalone \
-	--toc --toc-depth=2 \
+	$(PANDOC_FLAGS) \
 	-o pdf/receptsamling.tex
 
 
