@@ -2,7 +2,7 @@ PANDOC_FLAGS = --lua-filter=tools/include-files.lua \
 	--lua-filter=tools/columns.lua \
 	--include-before-body=tools/format.tex \
 	--pdf-engine=xelatex \
-	--toc --toc-depth=2 \
+	--toc --toc-depth=2
 
 pdf: receptsamling.pdf
 
