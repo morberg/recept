@@ -782,6 +782,7 @@ local function format_columns_latex(elem)
   latex_begin = latex_begin ..
     "\\begin{multicols}{" .. number_columns .. "}\n"
   latex_end = "\\end{multicols}\n" .. latex_end
+  latex_end = "\\vspace*{\\fill}\n" .. latex_end
 
   elem.content:insert(1, pandoc.RawBlock('latex', latex_begin))
   elem.content:insert(pandoc.RawBlock('latex', latex_end))
@@ -795,7 +796,7 @@ local function format_columns_latex(elem)
     Div = function(el)
 
       if el.classes:includes("columnbreak") then
-        return pandoc.RawBlock('latex', "\\columnbreak\n")
+        return pandoc.RawBlock('latex', "\\vspace*{\\fill}\n\\columnbreak\n")
       end
 
       if el.classes:includes("column-span-to-be-processed") then
