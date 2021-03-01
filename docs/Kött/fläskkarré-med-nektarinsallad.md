@@ -7,21 +7,19 @@ parent: Kött
 
 ## 4 personer
 
-### Potatis
+## Potatis
 
--   800 gram potatis \#\#\# Nektarinsallad
+-   800 gram potatis
+
+## Nektarinsallad
 
 -   3 nektariner, tärnade
-
 -   2 tomater, tärnade
-
 -   1 knippe vårlök, skivad
-
 -   1/2 lime, finrivet skal och saft
-
 -   1 msk finriven ingefära
 
-### Marinad
+## Marinad
 
 -   2 msk olja
 -   2 msk röd currypasta
@@ -30,7 +28,7 @@ parent: Kött
 -   2 msk japansk soja
 -   1 tsk sriracha
 
-### Fläskkarré
+## Fläskkarré
 
 -   600 g fläskkarrè
 

@@ -7,6 +7,9 @@ parent: Fågel
 
 ## 4 personer
 
+
+-   1 kyckling
+
 ## Sås
 
 -   2 jalapeños
@@ -27,9 +30,6 @@ parent: Fågel
 -   2 msk äppelcidervinäger
 -   2 msk rapsolja
 
-## Kyckling
-
--   1 kyckling
 
 Tänd grillen eller sätt ugnen på 225°.
 

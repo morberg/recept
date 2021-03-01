@@ -48,9 +48,9 @@ börjar brynas litegrann. Blanda i övriga ingredienser och reducera ner
 tills du får en sirapsliknande konsistens på din glaze. Ställ sedan
 undan den.
 
-Marinera vingarna i marinaden under minst en timma. Du kan behöva röra
-om kring dem emellanåt. Ta upp vingarna och torka av dem litegrann,
-kasta marinaden. Badda sedan in vingarna med kikärtsmjölet.
+Blanda till **marinad** och marinera **vingarna** under minst en timme. Du kan behöva röra
+om emellanåt. Ta upp vingarna och torka av dem litegrann, kasta marinaden. Badda sedan in
+vingarna med kikärtsmjölet.
 
 Tänd grillen och förbered för indirekt grillning. Grilla vingarna över
 glöden på båda sidor. Det kommer se lite torrt ut, men det här blir

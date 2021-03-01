@@ -17,10 +17,9 @@ parent: Fisk
 -   wasabi
 -   3 1/2 dl japanskt ris
 -   7 dl vatten
-
 ### Sushi-zu (sushivinäger)
 
--   5 msk risvinäger (ersätt med fördel 1 msk av vinägern med 1 msk
+-   5 msk risvinäger (ersätt gärna 1 msk av vinägern med 1 msk
     limesaft)
 -   1 msk mirinvin
 -   2 tsk salt
@@ -31,6 +30,7 @@ parent: Fisk
 -   japansk soja
 -   wasabi
 -   inlagd ingefära
+
 Blanda samman ingredienserna till sushi-zu. Sushi-zu kan också köpas
 färdig
 

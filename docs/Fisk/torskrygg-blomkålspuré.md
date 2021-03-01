@@ -5,6 +5,7 @@ parent: Fisk
 ---
 # Torskrygg med blomkålspuré och brynt smör
 
+
 -   600 g torskrygg
 
 ## Rostad potatis
@@ -23,6 +24,7 @@ parent: Fisk
 
 -   1 påse machésallad
 -   1 dl solrosfrön
+
 
 Sätt ugnen på 225°.
 
@@ -48,3 +50,4 @@ Stek fisken i smör några minuter per sida, eller tills den är klar.
 
 Strö solrosfrön över torskryggen och servera med blomkålspuré,
 citronklyftor, **1 ask machésallad**, potatis och blomkål.
+
