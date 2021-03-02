@@ -28,6 +28,8 @@ parent: Fisk
 -   400 g tagliatelle
 -   300 g morötter
 -   2 tomat
+
+
 Värm ugnen till 200°C (varmluft) eller 225°C (vanlig).
 
 Dela laxfilé i portionsbitar och krydda med salt och nymald svartpeppar.
