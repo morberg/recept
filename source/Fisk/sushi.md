@@ -13,6 +13,7 @@
 -   wasabi
 -   3 1/2 dl japanskt ris
 -   7 dl vatten
+
 ### Sushi-zu (sushivinäger)
 
 -   5 msk risvinäger (ersätt gärna 1 msk av vinägern med 1 msk
