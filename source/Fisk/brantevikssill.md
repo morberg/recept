@@ -1,7 +1,6 @@
 # Brantevikssill
 
-:::::: columns
-::: column
+::: columns
 -   1 kg sillfilé
 
 ## Lag
@@ -20,8 +19,8 @@
 -   2 msk hel vitpeppar
 -   2 lagerblad
 -   1 stor knippa dill
+
 :::
-::: column
 
 Dra skinnet av sillfiléerna; varje filé blir då två mindre filéer. Lägg dessa i lagen och låt stå ett dygn i kylen.
 
@@ -30,6 +29,3 @@ Blanda samman allt (utom fisken som fortfarande rinner av) med sockret.
 
 Varva sill och inläggning i en hög glasburk. Börja och sluta med ett lager av blandningen. Ingen vätska ska tillsättas,
 det kommer själv att vattna sig.
-
-:::
-::::::

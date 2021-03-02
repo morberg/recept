@@ -2,8 +2,7 @@
 
 ## 4 personer
 
-:::::: {.columns}
-::: column
+::: columns
 ## Potatissallad
 
 -   750 g färskpotatis
@@ -29,8 +28,6 @@
 -   limeklyftor till servering
 
 :::
-::: column
-
 Börja med att sätta ugnen på 250 grader. Fortsätt sedan med
 potatissalladen.
 
@@ -46,5 +43,3 @@ en ugnsfast form och bred på nötblandningen.
 
 Ställ in laxen högt upp i ugnen under 2--3 minuter så att det får lite
 färg. Servera tillsammans med potatissalladen och limeklyftor.
-:::
-::::::
