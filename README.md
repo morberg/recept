@@ -14,19 +14,6 @@ konstig. Ett sätt att råda bot på det är att visa ingredienslistan i två ko
 avsnittet med `:::`. Formatet är [pandoc
 markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).
 
-Vill du ha alla ingredienser till vänster och instruktioner till höger kan du skriva:
-
-```
-:::::: columns
-::: column
-Ingredienser
-:::
-::: column
-Instruktioner
-:::
-::::::
-```
-
 ## Webbversion
 Om man i "Settings" för github-projektet slår på GitHub Pages kan recepten under katalogen
 `docs` automatiskt publiceras. Det är påslaget för detta repository och du hittar

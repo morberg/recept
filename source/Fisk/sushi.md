@@ -2,8 +2,7 @@
 
 ## 4 personer
 
-:::::: {.columns}
-::: column
+::: columns
 ### Nigiri- och maki-sushi
 
 -   Pinfärsk fisk, t ex lax, tonfisk, eller smörfisk. Be din
@@ -14,8 +13,6 @@
 -   wasabi
 -   3 1/2 dl japanskt ris
 -   7 dl vatten
-:::
-::: column
 ### Sushi-zu (sushivinäger)
 
 -   5 msk risvinäger (ersätt gärna 1 msk av vinägern med 1 msk
@@ -30,7 +27,6 @@
 -   wasabi
 -   inlagd ingefära
 :::
-::::::
 
 Blanda samman ingredienserna till sushi-zu. Sushi-zu kan också köpas
 färdig

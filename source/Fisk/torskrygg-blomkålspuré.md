@@ -1,7 +1,6 @@
 # Torskrygg med blomkålspuré och brynt smör
 
-:::::: columns
-::: column
+::: columns
 
 -   600 g torskrygg
 
@@ -23,7 +22,6 @@
 -   1 dl solrosfrön
 
 ::: 
-::: column
 
 Sätt ugnen på 225°.
 
@@ -49,6 +47,3 @@ Stek fisken i smör några minuter per sida, eller tills den är klar.
 
 Strö solrosfrön över torskryggen och servera med blomkålspuré,
 citronklyftor, **1 ask machésallad**, potatis och blomkål.
-
-:::
-::::::
