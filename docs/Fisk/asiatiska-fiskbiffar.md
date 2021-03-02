@@ -39,6 +39,8 @@ parent: Fisk
 -   1 msk flytande honung
 -   1 msk fisksås
 -   2 msk rapsolja
+
+
 **Fiskbiffar**: Skär fisken i mindre bitar. Skölj och grovhacka purjolök
 och skala och grovhacka ingefära och vitlök. Skölj och grovhacka chili.
 Lägg alltsammans i en matberedare och tillsätt koriander. Riv limeskal

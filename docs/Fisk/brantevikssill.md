@@ -24,6 +24,7 @@ parent: Fisk
 -   2 lagerblad
 -   1 stor knippa dill
 
+
 Dra skinnet av sillfiléerna; varje filé blir då två mindre filéer. Lägg dessa i lagen och låt stå ett dygn i kylen.
 
 Ta upp filéerna och låt dem rinna av. Hacka löken och dillen. Riv skalet på citronen. Krossa kryddorna i en mortel.
@@ -31,4 +32,3 @@ Blanda samman allt (utom fisken som fortfarande rinner av) med sockret.
 
 Varva sill och inläggning i en hög glasburk. Börja och sluta med ett lager av blandningen. Ingen vätska ska tillsättas,
 det kommer själv att vattna sig.
-
