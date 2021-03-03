@@ -24,6 +24,7 @@ parent: Fågel
 -   1-2 dl ärtor eller sojabönor
 -   persilja
 
+
 Koka 4 portioner basmatiris.
 
 Skiva champinjonerna och fräs i en stekgryta på medelstark värme. Passa

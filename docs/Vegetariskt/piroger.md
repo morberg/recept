@@ -15,14 +15,6 @@ parent: Vegetariskt
 -   svartpeppar
 -   150 g fetaost
 
-Sätt ugnen på 225°.
-
-Hacka löken till fyllningen. Fräs den i lite olja i en stekpanna i några
-minuter. Tillsätt babyspenaten och fräs i ett par minuter till, tills
-spenaten har "vissnat". Strimla de soltorkade tomaterna och låt dem
-fräsa med i någon minut. Krydda med salt och peppar och ställ åt sidan
-så länge så att blandningen svalnar. Tillsätt då smulad fetaost.
-
 ## Deg
 
 -   10 dl vetemjöl
@@ -32,6 +24,15 @@ så länge så att blandningen svalnar. Tillsätt då smulad fetaost.
 -   3,5 dl vatten (kokande)
 -   1 ägg (+ lite vatten, till pensling)
 -   1 msk sesamfrön (att toppa med)
+
+
+Sätt ugnen på 225°.
+
+Hacka löken till fyllningen. Fräs den i lite olja i en stekpanna i några
+minuter. Tillsätt babyspenaten och fräs i ett par minuter till, tills
+spenaten har "vissnat". Strimla de soltorkade tomaterna och låt dem
+fräsa med i någon minut. Krydda med salt och peppar och ställ åt sidan
+så länge så att blandningen svalnar. Tillsätt då smulad fetaost.
 
 Blanda ihop vetemjöl, bakpulver och salt i en bunke. Lägg i skivor av
 smöret och häll över det kokande vattnet. Rör ihop till en smidig deg.

@@ -5,6 +5,8 @@ parent: Pasta
 ---
 # Pappardelle med harissa, svarta oliver och kapris
 
+
+- 500 g pappardelle
 -   1 stor lök i tunna klyftor
 -   2-4 msk harissa (gärna med rosenvatten)
 -   400 g halverade körsbärstomater

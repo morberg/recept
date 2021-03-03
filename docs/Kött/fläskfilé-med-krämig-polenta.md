@@ -7,56 +7,37 @@ parent: Kött
 
 ## 4 portioner
 
-### Polenta
 
-Koka upp:
+## Polenta
 
 -   7 1/2 dl vatten
 -   1 tärning grönsaksbuljong
-
-vispa i
-
 -   1 1/2 dl polenta
+-   50 g riven parmesanost
+- 2 msk smör
 
-och låt småkoka utan lock i ca. 6 minuter. Rör om då och då.
 
-Riv under tiden
+## Svampfräs
 
--   50 g parmesanost
+-   250 g champinjoner
+-   1/2 kruka basilika, hackad
+-   1/2 msk soja
+-   2 tomater, tärnade
+
+## Fläskfilé
+
+-   500 g fläskfilé
+
+
+Koka upp vatten och buljongtärning. Vispa i polentan och låt småkoka utan lock i ca. 6 minuter. Rör om då och då.
 
 Blanda i parmesanost och 2 msk smör när polentan kokat färdigt. Smaka av
 med salt och peppar. Ställ åt sidan och varmhåll.
 
-### Svampfräs
+Fräs champinjoner i olja i en stekpanna tills vätskan kokat bort. Blanda i basilika och
+soja i svampen. Smaka av med salt och peppar.
 
-Fräs
-
--   250 g champinjoner
-
-i olja i en stekpanna tills vätskan kokat bort. Hacka
-
--   1/2 kruka basilika
-
-och blanda i svampen tillsammans med
-
--   1/2 msk soja
-
-Smaka av med salt och peppar.
-
-Skär
-
--   2 tomater
-
-i tärningar.
-
-### Fläskfilé
-
-Skär
-
--   500 g fläskfilé
-
-i skivor. Stek i 2 msk smör i en stekpanna, ca. 3 minuter på varje sida.
+Skär fläskfilén i skivor. Stek i 2 msk smör i en stekpanna, ca. 3 minuter på varje sida.
 Krydda med salt och peppar.
 
-Vänd till sist ner tomaterna i svampfräset. Servera polentan med svamp
-och fläskfilé.
+Vänd till sist ner tomaterna i svampfräset. Servera polentan med svamp och fläskfilé.

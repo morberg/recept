@@ -7,7 +7,7 @@ parent: Kött
 
 ## 4 personer
 
-### Paj
+## Paj
 
 -   2 selleristjälkar
 -   2 morötter
@@ -17,11 +17,12 @@ parent: Kött
 -   400 g krossade tomater
 -   2-3 lagerblad
 
-### Potatismos
+## Potatismos
 
 -   1,2-1,5 kilo potatis
 -   smör
 -   mjölk
+
 
 Skär ner grönsakerna till **pajen** grovt och fräs med rikligt med
 olivolja i en tjockbottnad gryta i ca. 10 minuter.

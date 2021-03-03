@@ -22,6 +22,7 @@ parent: Kött
 -   1 kruka koriander
 -   1 romansalladshuvud
 
+
 Lägg 3 msk jasminris i en torr, kall kastrull eller stekpanna. Rosta det
 gyllenbrunt på svag värme. Skaka pannan så att allt blandas och får färg
 runt om. När du tror att det är klart, låt det steka ännu lite längre.
@@ -43,5 +44,5 @@ kan den blandas i färsen nu, annars får du servera den separat.
 Plocka salladsbladen och servera färsen i salladsbladen tillsammans det
 kokta jasminriset.
 
-Det går att byta ut fläsfärsen mot tärnad halloumi eller anamma-färs för
+Det går att byta ut fläskfärsen mot tärnad halloumi eller anamma-färs för
 ett vegetariskt alternativ.

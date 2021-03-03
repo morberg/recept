@@ -14,10 +14,11 @@ parent: Vegetariskt
 -   2 dl grädde
 -   200 g bladspenat
 
-### Tillbehör
+## Tillbehör
 
 -   naanbröd
 -   mango chutney
+
 
 Koka 4 portioner basmatiris. Skölj kikärtorna och låt rinna av.
 

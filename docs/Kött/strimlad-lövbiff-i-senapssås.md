@@ -7,6 +7,7 @@ parent: Kött
 
 ## 4 personer
 
+
 -   600 g lövbiff
 -   1 gul lök
 -   2 msk vitvinsvinäger
