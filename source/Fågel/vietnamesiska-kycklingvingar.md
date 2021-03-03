@@ -3,7 +3,7 @@
 ## 3-4 personer
 
 ::: {.columns}
-### Glaze
+## Glaze
 
 -   1 msk neutral olja
 -   2 pressade vitlöksklyftor
@@ -14,7 +14,7 @@
 -   saft från en halv lime
 -   3 msk sriracha (om du vill ha starkare så fläska på mer sriracha)
 
-### Marinad
+## Marinad
 
 -   2 dl vatten
 -   2 msk farinsocker
@@ -24,13 +24,13 @@
 -   saft från en halv lime
 -   2 pressade vitlöksklyftor
 
-### Vingar
+## Vingar
 
 -   1 kg kycklingvingar (funkar också utmärkt med kycklingben)
 -   1-2 dl kikärtsmjöl (rismjöl eller potatismjöl funkar också)
 -   1 dl hackade jordnötter
 
-### Tillbehör
+## Tillbehör
 
 -   Jasminris eller Vietnamesisk nudelsallad (det hittar du genom
     googling)

@@ -11,7 +11,7 @@ Pressa den kokta potatisen. Riv den råa potatisen och krama ur all
 vätska genom en handduk. Blanda de två potatisvarianterna med salt och
 mjöl.
 
-### Fyllning
+## Fyllning
 
 -   200 g fläsk
 -   1 lök

@@ -3,7 +3,7 @@
 ## 4 portioner
 
 ::: {.columns}
-### Quinoasallad
+## Quinoasallad
 
 -   4 portioner svart eller vit quinoa
 -   2 avokado
@@ -11,13 +11,13 @@
 -   1 rödlök
 -   75 g ruccola
 
-### Tzatziki
+## Tzatziki
 
 -   1/2 gurka
 -   3 dl turkyoghurt
 -   1 riven vitlöksklyfta
 
-### Fetaostbollar
+## Fetaostbollar
 
 -   300 g fetaost
 -   1 ägg

@@ -7,7 +7,7 @@
 -   4 kycklingbröstfiléer
 -   2 vitlöksklyftor
 
-### Citronquinoa
+## Citronquinoa
 
 -   2 dl quinoa (alt bulgur/couscous)
 -   150 g shiitakesvamp
@@ -17,7 +17,7 @@
 -   1 ask/påse spenat (80 g, gärna baby-)
 -   6 plommontomater
 
-### Fikonsky
+## Fikonsky
 
 -   1 schalottenlök
 -   1/2 dl balsamvinäger
