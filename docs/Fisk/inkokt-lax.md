@@ -12,7 +12,7 @@ parent: Fisk
 -   1 citron
 -   1 kruka dill
 
-### Lag
+## Lag
 
 -   2 liter vatten
 -   3 msk salt
@@ -21,7 +21,7 @@ parent: Fisk
 -   1 gul lök
 -   3 msk vitvinsvinäger (tillsätts senare)
 
-### Timjanmorötter
+## Timjanmorötter
 
 -   3 dl vatten
 -   1 tärning grönsaksbuljong
@@ -29,7 +29,7 @@ parent: Fisk
 -   250 g morötter
 -   150 g sockerärtor
 
-### Romsås
+## Romsås
 
 -   3 dl gräddfil
 -   75 g röd stenbitsrom

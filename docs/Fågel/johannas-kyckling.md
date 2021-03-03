@@ -11,7 +11,7 @@ parent: Fågel
 -   4 kycklingfiléer
 -   2 vitlöksklyftor
 
-### Sås
+## Sås
 
 -   2 dl hönsbuljong
 -   50 g fetaost
@@ -20,7 +20,7 @@ parent: Fågel
 -   1 msk vetemjöl
 -   2 dl turkisk yoghurt
 
-### Garnering
+## Garnering
 
 -   15-20 svarta oliver
 -   färsk oregano eller persilja

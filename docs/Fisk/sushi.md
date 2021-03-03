@@ -7,7 +7,7 @@ parent: Fisk
 
 ## 4 personer
 
-### Nigiri- och maki-sushi
+## Nigiri- och maki-sushi
 
 -   Pinfärsk fisk, t ex lax, tonfisk, eller smörfisk. Be din
     fiskhandlare om hjälp, han vet också hur mycket som behövs.
@@ -18,7 +18,7 @@ parent: Fisk
 -   3 1/2 dl japanskt ris
 -   7 dl vatten
 
-### Sushi-zu (sushivinäger)
+## Sushi-zu (sushivinäger)
 
 -   5 msk risvinäger (ersätt gärna 1 msk av vinägern med 1 msk
     limesaft)
@@ -26,7 +26,7 @@ parent: Fisk
 -   2 tsk salt
 -   3 msk strösocker
 
-### Till servering
+## Till servering
 
 -   japansk soja
 -   wasabi

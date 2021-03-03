@@ -7,7 +7,7 @@ parent: Kött
 
 ## 4 portioner
 
-### Gratäng smaksatt med getost
+## Gratäng smaksatt med getost
 
 -   500 g potatis, exempelvis Bintje eller King Edward
 -   500 g svartrötter
@@ -22,7 +22,7 @@ Rör i getosten. Smaka av med salt och nymalen vitpeppar.
 Lägg över potatis och svartrötter i en ugnsfast form. Baka gratängen i
 ugnen i 45--60 minuter till den får en gyllenbrun yta.
 
-### Lammstek
+## Lammstek
 
 -   1 lammstek på ca 1 kg
 
@@ -31,7 +31,7 @@ Stek den färdig i 160° varm ugn i 45--50 minuter. Lammsteken ska vara
 rosa i mitten, ca 58° på stektermometern. Ta ut ur ugnen och låt den ta
 igen sig en liten stund.
 
-### Rödvinssky med soltorkade tomater
+## Rödvinssky med soltorkade tomater
 
 -   2 finhackade schalottenlökar
 -   2 msk finskurna soltorkade tomater
