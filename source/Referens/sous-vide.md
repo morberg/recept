@@ -1,7 +1,7 @@
 # Sous vide
 
 | Råvara                                                                                                                          | Temp.     | Tid           | Kommentar                                                                                                  |
-|---------------------------------------------------------------------------------------------------------------------------------|-----------|---------------|------------------------------------------------------------------------------------------------------------|
+| ---- | ---- | ---- | ---------- |
 | Entrecôte                                                                                                                       | 55°       | 1-4 timmar    |                                                                                                            |
 | [Fläsk](http://www.seriouseats.com/2016/04/food-lab-complete-guide-to-sous-vide-pork-chops.html#time)                           | 60°       | 1-4 timmar    | Filé, ytterfilé och kotlett                                                                                |
 | Fransyska                                                                                                                       | 58°       | 24 timmar     | Grillad hel. Bra konsistens, men lite för färdig                                                           |

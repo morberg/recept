@@ -1,6 +1,7 @@
 # Vegetarisk garam masala
 
 ## 4 portioner
+::: columns
 
 -   250 g kikärtor
 -   200 g halloumi
@@ -9,10 +10,12 @@
 -   2 dl grädde
 -   200 g bladspenat
 
-### Tillbehör
+## Tillbehör
 
 -   naanbröd
 -   mango chutney
+
+:::
 
 Koka 4 portioner basmatiris. Skölj kikärtorna och låt rinna av.
 

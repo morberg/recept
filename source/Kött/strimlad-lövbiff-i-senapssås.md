@@ -2,6 +2,8 @@
 
 ## 4 personer
 
+::: columns
+
 -   600 g lövbiff
 -   1 gul lök
 -   2 msk vitvinsvinäger
@@ -12,6 +14,7 @@
 -   2 dl grädde
 -   2 vitlöksklyftor
 -   parmesanost
+:::
 
 Skala och hacka löken fint. Fräs den sakta guldgul i en klick smör i en
 kastrull. Tillsätt vinägern och låt den nästan koka in. Häll på vin,

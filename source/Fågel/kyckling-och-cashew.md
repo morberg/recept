@@ -1,44 +1,47 @@
 # Kyckling (eller tofu) med cashewnötter
 
-Koka upp
+## 4 portioner
 
--   3 dl vatten
--   1 tärning grönsaksbuljong
+::: columns
 
-Ställ undan och låt svalna. Hacka eller strimla och lägg i en bunke:
+- 3 dl vatten
+- 1 tärning grönsaksbuljong
+- 1 tsk potatismjöl
 
--   1 stånd broccoli
--   1 gul lök
--   1 röd paprika
--   1 stor morot
--   1 bit stjälkselleri
--   1 burk bambuskott
+## Grönsaker
 
-Blanda i:
+- 1 stånd broccoli, i buketter
+- 1 gul lök, i tunna klyftor
+- 1 röd paprika, i strimlor
+- 1 stor morot, i slantar
+- 1 bit stjälkselleri, skivad
+- 1 burk bambuskott
+- 1 msk soja
+- 1 riven klyfta vitlök
+- 1 msk riven färsk ingefära
 
--   1 msk soja
--   1 riven klyfta vitlök
--   1 msk riven färsk ingefära
-
-Sätt på
-
--   4 portioner jasminris
-
-Stek
+## Protein
 
 -   2 kycklingfiléer
-
-och låt vila.
-
-Tärna:
-
 -   125 gram tofu
 
-Rör ut
+## Topping
 
--   1 tsk potatismjöl
+-   30-40 cashewnötter
 
-i den avsvalnade buljongen.
+:::
+
+Koka 4 portioner jasminris.
+
+Koka upp 3 dl vatten med en buljongtärning i en liten kastrull. Ställ undan och låt svalna.
+
+Hacka och skiva grönsakerna. Lägg i en bunke och blanda i soja, vitlök och ingefära.
+
+Stek kycklingen och låt vila.
+
+Tärna tofun.
+
+Rör ut 1 tsk potatismjöl i den avsvalnade buljongen
 
 Fräs grönsakerna i olja i 3-4 minuter. Tillsätt buljongen och låt koka i
 ett par minuter. Lägg i den tärnade tofun. Smaka av med fisksås, soja,
@@ -46,4 +49,3 @@ salt och ev. peppar.
 
 Servera med jasminris och uppskuren kycklingfilé. Toppa med:
 
--   30-40 cashewnötter
