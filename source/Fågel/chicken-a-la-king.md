@@ -1,5 +1,6 @@
 # Chicken à la King
 
+::: columns
 ## Sås
 
 -   250 g färska champinjoner
@@ -18,6 +19,8 @@
 
 -   1-2 dl ärtor eller sojabönor
 -   persilja
+
+:::
 
 Koka 4 portioner basmatiris.
 

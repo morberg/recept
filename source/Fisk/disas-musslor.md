@@ -2,6 +2,8 @@
 
 ## 4 personer
 
+::: columns
+
 -   2 kg blåmusslor (2 nät)
 -   3 dl vispgrädde
 -   2 dl vitt vin eller vatten
@@ -12,6 +14,8 @@
 -   5 tomater
 -   1 näve färsk bladpersilja
 -   2 msk hackad färsk rosmarin
+
+:::
 
 Tillaga pommesen enligt instruktionerna på påsen.
 

@@ -2,16 +2,12 @@
 
 ## 4 portioner
 
-### Parmachips
+::: columns
+## Parmachips
 
 -   4 skivor parmaskinka
 
-Gör gärna parmachipsen i förväg. Om de går sönder kan du bryta dem i
-bitar och dekorera soppan med dessa - det blir nästan enklare att äta.
-Lägg 4 skivor parmaskinka på en bakplåtspapperklädd plåt och torka i
-ugnen, 150°, i ca 25 minuter. Låt svalna på papper.
-
-### Soppa
+## Soppa
 
 -   500 g jordärtskockor
 -   3 potatisar
@@ -22,22 +18,29 @@ ugnen, 150°, i ca 25 minuter. Låt svalna på papper.
 -   2 hönsbuljongtärningar
 -   3 dl vispgrädde
 
-Instruktioner:
-
-1.  Skala jordärtskockorna och potatisen. Skär i bitar. Finhacka
-    vitlöken.
-2.  Fräs ingredienserna med smör i en tjockbottnad kastrull.
-3.  Häll över vinet och låt det koka ihop i en minut. Tillsätt vatten
-    och lägg i buljong- tärningarna. Rör om. Låt detta koka i 15 minuter
-    tills allt är mjukt.
-4.  Mixa soppan i en matberedare eller med en mixerstav. Rör i grädden
-    och värm. Smaka av med salt och peppar.
-
-### Garnering
+## Garnering
 
 -   8-10 timjankvistar till garnering, eller välj färsk krydda efter
     säsong och smak
 -   grissini
+
+:::
+
+Gör gärna parmachipsen i förväg. Om de går sönder kan du bryta dem i
+bitar och dekorera soppan med dessa - det blir nästan enklare att äta.
+Lägg 4 skivor parmaskinka på en bakplåtspapperklädd plåt och torka i
+ugnen, 150°, i ca 25 minuter. Låt svalna på papper.
+
+Skala jordärtskockorna och potatisen. Skär i bitar. Finhacka vitlöken.
+
+Fräs ingredienserna med smör i en tjockbottnad kastrull.
+
+Häll över vinet och låt det koka ihop i en minut. Tillsätt vatten
+och lägg i buljongtärningarna. Rör om. Låt koka i 15 minuter
+tills allt är mjukt.
+
+Mixa soppan i en matberedare eller med en mixerstav. Rör i grädden
+och värm. Smaka av med salt och peppar.
 
 Garnera med parmachips, timjan och ett par varv med svartpeppar. Servera
 med grissini.
