@@ -24,4 +24,4 @@ jobs:
         make jekyll
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Automatic update of index.md
+        commit_message: Automatic update of Jekyll docs folder
