@@ -9,7 +9,7 @@ Checka ut en lokal kopia med:
 ## Ingredienslista
 
 Listan med ingredienser har ofta ganska korta rader. Det gör att sidlayouten kan bli lite
-konstig. Ett sätt att råda bot på det är att visa ingredienslistan i två kolumner. Ange
+konstig. Därför visar vi gärna ingredienslistan i två kolumner. Ange
 `::: columns` i din markdown-fil för att påbörja ett avsnitt med två kolumner. Avsluta
 avsnittet med `:::`. Formatet är [pandoc
 markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).
