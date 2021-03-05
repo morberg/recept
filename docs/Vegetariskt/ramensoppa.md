@@ -10,24 +10,23 @@ parent: Vegetariskt
 ## Soppa
 
 -   4 klyfta(or) vitlök
--   ett halvt knippe salladslök
--   200 gram shiitakesvamp
+-   1 röd chili, finhackad
+-   4 tsk ingefära, riven, färsk
+-   2 l vatten
+-   4 tärningar grönsaksbuljong
 -   1,5 msk vitvinsvinäger
 -   1 msk honung
 -   3,5 msk soja, japansk, t.ex. shoyu
+-   200 gram shiitakesvamp
+-   ett halvt knippe salladslök
 -   1,5 msk sesamolja
--   2 l vatten
--   4 tärningar grönsaksbuljong
--   3 tsk chilipeppar, finhackad
--   4 tsk ingefära, riven, färsk
--   0,5 msk rapsolja
+
+## Tillbehör
+
 -   200 gram äggnudlar, t.ex. Samyang Ramen
-
-## Topping
-
 -   2 st ägg
 -   ett halvt knippe salladslök
--   1/2 chilipeppar
+-   1/2 röd chili
 -   100 gram böngroddar, färska
 -   1 st lime
 -   1/2 kruka koriander
@@ -43,17 +42,15 @@ parent: Vegetariskt
 Skala och riv vitlök och ingefära samt finhacka chilipeppar till
 **soppan.** Fräs i lite rapsolja i en stor kastrull ca 30 sek.
 
-Tillsätt vatten, grönsaksbuljong, soja, honung och vinäger och låt sjuda
-i 20 min. Skiva svampen och strimla salladslöken.
+Tillsätt vatten, grönsaksbuljong, soja, honung och vinäger och låt sjuda i 20 min. Skiva
+svampen och strimla salladslöken. Tillsätt svamp, salladslök och sesamolja i buljongen och
+låt sjuda ytterligare 5 min.
 
-Tillsätt svamp, salladslök och sesamolja i buljongen och låt sjuda
-ytterligare 5 min. Koka nudlarna separat enligt anvisning på
-förpackningen. Spola dem sedan kalla.
+Koka nudlarna separat enligt anvisning på förpackningen. Spola dom kalla.
 
-Fortsätt med **toppingen.** Lägg äggen i kallt vatten i en kastrull. Låt
-koka upp och sjud äggen ca 4-5 min. Spola dem i kallt vatten. Skala och
-halvera äggen. Skölj och strimla salladslök och chilipeppar. Skölj
-böngroddarna och skiva limen i klyftor.
+Fortsätt med **toppingen**. Koka upp vatten till äggen, lägg i och koka i 9 minuter. Spola
+dem i kallt vatten. Skala och halvera äggen. Skölj och strimla salladslök och chili.
+Skölj böngroddarna och skiva limen i klyftor.
 
 Blanda maizena, chili och salt i en bunke. Tärna **tofun** och rulla
 runt den i maizenablandningen. Stek tofun krispig i olja på medelhög
