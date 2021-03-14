@@ -50,6 +50,7 @@ nav_order: 1
 * [Chokladmousse](Gott/chokladmousse.md)
 * [Mormors chokladkaka](Gott/mormors-chokladkaka.md)
 * [Snickerskaka](Gott/snickerskaka.md)
+* [Tarte Tatin](Gott/tarte-tatin.md)
 * [Yvonnes snabba äpplekaka](Gott/yvonnes-äpplekaka.md)
 
 ## Kött
