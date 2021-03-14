@@ -1,4 +1,4 @@
-# Pappardelle med harissa, svarta oliver och kapris
+# Pappardelle med harissa och svarta oliver
 
 ::: {.columns}
 

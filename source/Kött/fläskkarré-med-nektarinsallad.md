@@ -1,4 +1,4 @@
-# Grillad fläskkarré med nektarinsallad och klyftpotatis
+# Grillad fläskkarré med nektarinsallad
 
 ## 4 personer
 

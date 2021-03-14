@@ -1,7 +1,4 @@
-# Orrecchiette med broccolikräm, mandel och quattrocento
-
-Krångliga ord. Orrecchiette är en sorts pasta som ser ut som en liten
-mössa och quattrocento en ost som påminner om parmesan. Nu kör vi.
+# Orrecchiette med broccolikräm
 
 ::: columns
 
@@ -29,6 +26,8 @@ mössa och quattrocento en ost som påminner om parmesan. Nu kör vi.
 -   1 krm salt
 
 :::
+Krångliga ord. Orrecchiette är en sorts pasta som ser ut som en liten
+mössa och quattrocento en ost som påminner om parmesan. Nu kör vi.
 
 Koka upp saltat vatten i en stor och en liten kastrull. Häll i pastan i den stora
 kastrullen och koka enligt paketet. Dela broccolin i buketter och slanta stammen. Koka
