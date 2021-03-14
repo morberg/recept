@@ -1,5 +1,4 @@
 .DS_Store
 pdf
+docs
 .venv
-# genereras av create-receptsamling.py
-receptsamling.md
