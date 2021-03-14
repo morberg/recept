@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Pappardelle med harissa, svarta oliver och kapris
+title: Pappardelle med harissa och svarta oliver
 parent: Pasta
 ---
-# Pappardelle med harissa, svarta oliver och kapris
+# Pappardelle med harissa och svarta oliver
 
 
 - 500 g pappardelle

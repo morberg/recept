@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Grillad fläskkarré med nektarinsallad och klyftpotatis
+title: Grillad fläskkarré med nektarinsallad
 parent: Kött
 ---
-# Grillad fläskkarré med nektarinsallad och klyftpotatis
+# Grillad fläskkarré med nektarinsallad
 
 ## 4 personer
 

@@ -32,9 +32,3 @@ parent: Referens
 | [Ägg med soja](http://www.seriouseats.com/recipes/2014/09/singapore-style-soft-cooked-eggs-with-kaya-jam-and-toast-recipe.html) | 60°       | 45 minuter    | Mycket lösa, äts med sked. Koka gärna 1-2 minuter först.                                                   |
 | [Onsenägg](http://www.seriouseats.com/2016/08/how-to-make-onsen-tamago-japanese-poached-egg.html)                               | 75°       | 13 minuter    |                                                                                                            |
 
-## Allmän info
-
--   [Serious Eats](http://www.seriouseats.com/sous_vide_101/)
--   [Douglas Baldwin](http://douglasbaldwin.com/sous-vide.html#Top)
--   [Modernist cooking at home](http://www.modernistcookingathome.com)
--   [Modernist Cuisine](http://modernistcuisine.com/mc-recipes/)
