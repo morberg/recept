@@ -15,7 +15,6 @@ mainfont: 'Hoefler Text'
 sansfont: 'Rockwell'
 papersize: a4
 toc-title: Innehåll
-links-as-notes: true
 ---"""
 PANDOC_PRE_FILE_PATH = "``` {.include shift-heading-level-by=1}"
 PANDOC_POST_FILE_PATH = r"""```
