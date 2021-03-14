@@ -12,8 +12,8 @@ author: Niklas Morberg
 title: Morbergs receptsamling
 documentclass: scrbook
 mainfont: 'Hoefler Text'
-sansfont: 'Avenir'
-papersize: a4paper
+sansfont: 'Rockwell'
+papersize: a4
 toc-title: Innehåll
 links-as-notes: true
 ---"""
