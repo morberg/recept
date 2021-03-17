@@ -13,6 +13,7 @@ title: Morbergs receptsamling
 documentclass: scrbook
 mainfont: 'Hoefler Text'
 sansfont: 'Rockwell'
+lang: sv
 papersize: a4
 toc-title: Innehåll
 ---"""
