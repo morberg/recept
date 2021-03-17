@@ -1,15 +1,32 @@
-% Original heading was alternating chapter and recipe between even/odd pages
-% Change headings in scrbook class to just include the chapter
-\pagestyle{myheadings}
-\renewcommand{\chaptermark}[1]%
-% Small caps would have been nice, but I can't get that to work with
-% a system font. If I ever figure it out, this is the command to use instead
-% {\markboth{\textsc{\lowercase{#1}}}{\textsc{\lowercase{#1}}}}
-{\markboth{\textit{#1}}{\textit{#1}}}
+% Needed to get small caps in Hoefler Text working with xelatex
+\DeclareFontShape{TU}{HoeflerText(0)}{m}{sc}%
+       {<-> "Hoefler\space Text:Letter\space Case=Small\space Caps"}{}
+% Bold small caps
+\DeclareFontShape{TU}{HoeflerText(0)}{b}{sc}%
+       {<-> "Hoefler\space Text\space Black:Letter\space Case=Small\space Caps"}{}
+% Italic small caps
+\DeclareFontShape{TU}{HoeflerText(0)}{m}{scit}%
+       {<-> "Hoefler\space Text\space Italic:Letter\space Case=Small\space Caps"}{}
+% Bold italic small caps
+\DeclareFontShape{TU}{HoeflerText(0)}{b}{scit}%
+       {<-> "Hoefler\space Text\space Black\space Italic:Letter\space Case=Small\space
+       Caps"}{}
+
+% Use small caps instead of bold
+\renewcommand{\textbf}{\textsc}
+
 % Recipe groups are at chapter level
 \addtokomafont{chapter}{\Huge}
+
+% Original heading was alternating chapter and recipe between even/odd pages
+% Change headings in scrbook class to just include the chapter and set it in small caps
+\pagestyle{myheadings}
+\renewcommand{\chaptermark}[1]%
+{\markboth{\textnormal{\textsc{\lowercase{#1}}}}{\textnormal{\textsc{\lowercase{#1}}}}}
+
 % Titles of recipes are at section level
 \addtokomafont{section}{\huge}
 \renewcommand{\subsection}{\minisec}
+
 % Make the two column list of ingredients look much better
 \raggedcolumns
