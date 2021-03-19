@@ -28,7 +28,7 @@
 
 :::
 
-Sätt ugnen på 125 grader.
+Sätt ugnen på 125°.
 
 Ta bort frön och skaft från chilin. Lägg dom i en kastrull och rosta ca.
 2-5 minuter. Häll på kycklingbuljongen och låt sjuda i 5 minuter. Ställ undan.
