@@ -1,6 +1,7 @@
 PANDOC_FLAGS = --lua-filter=tools/include-files.lua \
-	--lua-filter=tools/columns.lua \
 	--lua-filter=tools/xfrac.lua \
+	--lua-filter=tools/columns.lua \
+	--template=tools/recipe-template.tex \
 	--include-before-body=tools/format.tex \
 	--pdf-engine=xelatex \
 	--toc --toc-depth=2

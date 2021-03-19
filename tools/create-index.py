@@ -11,6 +11,8 @@ PANDOC_FRONTMATTER = r"""---
 author: Niklas Morberg
 title: Morbergs receptsamling
 documentclass: scrbook
+classoption:
+- titlepage=firstiscover
 mainfont: 'Hoefler Text'
 sansfont: 'Rockwell'
 lang: sv

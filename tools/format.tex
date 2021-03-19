@@ -1,17 +1,3 @@
-% Needed to get small caps in Hoefler Text working with xelatex
-\DeclareFontShape{TU}{HoeflerText(0)}{m}{sc}%
-       {<-> "Hoefler\space Text:Letter\space Case=Small\space Caps"}{}
-% Bold small caps
-\DeclareFontShape{TU}{HoeflerText(0)}{b}{sc}%
-       {<-> "Hoefler\space Text\space Black:Letter\space Case=Small\space Caps"}{}
-% Italic small caps
-\DeclareFontShape{TU}{HoeflerText(0)}{m}{scit}%
-       {<-> "Hoefler\space Text\space Italic:Letter\space Case=Small\space Caps"}{}
-% Bold italic small caps
-\DeclareFontShape{TU}{HoeflerText(0)}{b}{scit}%
-       {<-> "Hoefler\space Text\space Black\space Italic:Letter\space Case=Small\space
-       Caps"}{}
-
 % Use small caps instead of bold
 \renewcommand{\textbf}{\textsc}
 
