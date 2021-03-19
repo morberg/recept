@@ -16,6 +16,8 @@ sansfont: 'Rockwell'
 lang: sv
 papersize: a4
 toc-title: Innehåll
+header-includes:
+- \usepackage{xfrac}
 ---"""
 PANDOC_PRE_FILE_PATH = "``` {.include shift-heading-level-by=1}"
 PANDOC_POST_FILE_PATH = r"""```
