@@ -9,7 +9,7 @@ parent: Bakat
 
 ## Deg
 
--   400 g 37°-gradigt vatten
+-   400 g 37° vatten
 -   25 g jäst
 -   2 msk olja
 -   1 tsk salt

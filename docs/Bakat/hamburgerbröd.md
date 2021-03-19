@@ -37,7 +37,7 @@ Tryck ur luften ur degen och dela i åtta lika stora bitar. Forma till
 runda bollar och lägg dom på en plåt med bakplåtspapper. Platta till med
 handflatan så dom blir ca. en cm tjocka.
 
-Täck med en bakduk och jäs i en timme. Sätt ugnen på 225 grader.
+Täck med en bakduk och jäs i en timme. Sätt ugnen på 225°.
 
 Vispa upp:
 

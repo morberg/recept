@@ -34,7 +34,7 @@ parent: Kött
 
 Om du vill grilla, tänd grillen.
 
-Sätt ugnen på 225 grader. Klyfta potatisen och lägg i en långpanna med
+Sätt ugnen på 225°. Klyfta potatisen och lägg i en långpanna med
 bakplåtspapper. Ringla över lite olivolja och rosmarin. Tillaga i övre
 delen av ugnen 45 min eller tills potatisen är klar.
 

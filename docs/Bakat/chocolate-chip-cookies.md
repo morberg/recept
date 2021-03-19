@@ -44,7 +44,7 @@ blandats, ca. 15 sekunder till. OBS: kör inte något av momenten för
 länge - det ska gå fort. Lägg över degen i en lufttät behållare minst
 över natten och upp till tre dagar.
 
-Sätt ugnen på 165 grader, varmluft med undervärme. Klutta ut degen på
+Sätt ugnen på 165°, varmluft med undervärme. Klutta ut degen på
 plåt med bakplåtspapper med en glasskopa, ca. tre msk per boll. Det blir
 8 kakor per plåt, två plåtar. Grädda en plåt i taget i 12-13 minuter.
 Låt svalna helt innan du lägger kakorna i en lufttät behållare.

@@ -23,8 +23,7 @@ parent: Bakat
     i diameter, med en kakform eller ett glas.
 
 3.  Lägg degrundlarna på en plåt med bakplåtspapper och nagga dem med en
-    gaffel. Låt bröden jäsa under bakduk i ca 30 min. Sätt ugnen på 250
-    grader.
+    gaffel. Låt bröden jäsa under bakduk i ca 30 min. Sätt ugnen på 250°.
 
 4.  Grädda bröden mitt i ugnen i 8--10 min. Låt dem svalna på ett galler
     under bakduk.

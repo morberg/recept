@@ -31,7 +31,7 @@ parent: Fisk
 -   4 portionsbitar lax á 170 g
 -   limeklyftor till servering
 
-Börja med att sätta ugnen på 250 grader. Fortsätt sedan med
+Börja med att sätta ugnen på 250°. Fortsätt sedan med
 potatissalladen.
 
 Koka potatisen till potatissalladen. Koka sparrisen några minuter och
