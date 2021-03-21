@@ -30,7 +30,7 @@
 
 Tänd grillen eller sätt ugnen på 225°.
 
-Blanda samman ingredienserna till såses med en stavmixer. Smaka av med
+Blanda samman ingredienserna till såsen med en stavmixer. Smaka av med
 salt, peppar och ev. vinäger. Täck över och ställ in i kylen tills det
 är dags att äta. Såsen kommer att vara ganska lös, men den tjocknar i
 kylen.
