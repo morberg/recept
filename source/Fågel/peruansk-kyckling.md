@@ -28,7 +28,7 @@
 
 :::
 
-Tänd grillen eller sätt ugnen på 225°.
+Tänd grillen eller sätt ugnen på 175°.
 
 Blanda samman ingredienserna till såsen med en stavmixer. Smaka av med
 salt, peppar och ev. vinäger. Täck över och ställ in i kylen tills det
