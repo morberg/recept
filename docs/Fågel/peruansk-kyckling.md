@@ -31,33 +31,31 @@ parent: Fågel
 -   2 msk rapsolja
 
 
-Tänd grillen eller sätt ugnen på 175°.
-
-Blanda samman ingredienserna till såsen med en stavmixer. Smaka av med
-salt, peppar och ev. vinäger. Täck över och ställ in i kylen tills det
-är dags att äta. Såsen kommer att vara ganska lös, men den tjocknar i
+Gör gärna såsen tidigare på dagen eller dagen innan. Blanda samman ingredienserna till
+såsen med en stavmixer. Smaka av med salt, peppar och ev. vinäger. Täck över och ställ in
+i kylen tills det är dags att äta. Såsen kommer att vara ganska lös, men den tjocknar i
 kylen.
 
-Torka av kycklingen med hushållspapper och placera på en skärbräda.
-Klipp av ryggraden med en kökssax. Vänd kycklingen och pressa hårt på
-bröstet för att platta ut den. Tryck in ett grillspett horisontellt
-genom kycklingen, först genom ena låret, sedan båda brösthalvorna och
-till slut genom sista låret. Vik in vingarna bakom ryggen.
+Tänd grillen eller sätt ugnen på 175°.
 
-Massera in kryddblandningen på kycklingen.
+Torka av kycklingen med hushållspapper och placera på en skärbräda. Klipp av ryggraden med
+en kökssax. Vänd kycklingen och pressa hårt på bröstet för att platta ut den. Tryck in ett
+grillspett horisontellt genom kycklingen, först genom ena låret, sedan båda brösthalvorna
+och till slut genom sista låret. Vik in vingarna bakom ryggen.
 
-Placera kycklingen med skinnet uppåt på den svala halvan av grillen med
-låren mot kolhalvan. Sätt på ett lock med ventilen öppen över
-kycklingen. Grilla tills bröstet har nått 58°, ca. 35 minuter.
+Massera in kryddblandningen på kycklingen och stek i ugn i ca. 45 minuter eller grilla
+enligt följande instruktioner:
 
-Vänd försiktigt på kycklingen och lägg med skinnsidan ner på den varma
-delen av grillen, brösten mot den svalare delen av grillen. Tryck till
-med en stekspade. Lägg på locket igen och grilla tills skinnet är
-krispigt och temperaturen i bröstet har stigit till 63° till 66°, ca.
-3-4 minuter till. Om det verkar som om kycklingen håller på att bränd
-innan temperaturen är nådd kan du flytta över den till den svalare delen
-av grillen och lägga på locket igen. Ta bara av locket när du kollar
-temperaturen, annars riskerar du att bränna kycklingen.
+Placera kycklingen med skinnet uppåt på den svala halvan av grillen med låren mot
+kolhalvan. Sätt på ett lock med ventilen öppen över kycklingen. Grilla tills bröstet har
+nått 58°, ca. 35 minuter.
 
-Låt kycklingen vila på en skärbräda i 5--10 minuter. Servera med såsen
-och ris.
+Vänd försiktigt på kycklingen och lägg med skinnsidan ner på den varma delen av grillen,
+brösten mot den svalare delen av grillen. Tryck till med en stekspade. Lägg på locket igen
+och grilla tills skinnet är krispigt och temperaturen i bröstet har stigit till 63° till
+66°, ca. 3-4 minuter till. Om det verkar som om kycklingen håller på att bränd innan
+temperaturen är nådd kan du flytta över den till den svalare delen av grillen och lägga på
+locket igen. Ta bara av locket när du kollar temperaturen, annars riskerar du att bränna
+kycklingen.
+
+Låt kycklingen vila ca. 10 minuter. Servera med såsen, ris och lite kokta sojabönor
