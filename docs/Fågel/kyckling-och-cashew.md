@@ -31,7 +31,7 @@ parent: Fågel
 
 ## Topping
 
--   30-40 cashewnötter
+-   30--40 cashewnötter
 
 
 Koka 4 portioner jasminris.
@@ -46,7 +46,7 @@ Tärna tofun.
 
 Rör ut 1 tsk potatismjöl i den avsvalnade buljongen
 
-Fräs grönsakerna i olja i 3-4 minuter. Tillsätt buljongen och låt koka i
+Fräs grönsakerna i olja i 3--4 minuter. Tillsätt buljongen och låt koka i
 ett par minuter. Lägg i den tärnade tofun. Smaka av med fisksås, soja,
 salt och ev. peppar.
 

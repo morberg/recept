@@ -66,7 +66,6 @@ nav_order: 1
 * [Larb](Kött/larb.md)
 * [Revbensspjäll med cole slaw](Kött/revbensspjäll.md)
 * [Salami- och pestofyllda rullader](Kött/salami-och-pestofyllda-rullader.md)
-* [Strimlad lövbiff i senapssås med parmesan](Kött/strimlad-lövbiff-i-senapssås.md)
 
 ## Pasta
 

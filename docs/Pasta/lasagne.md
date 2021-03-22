@@ -5,7 +5,7 @@ parent: Pasta
 ---
 # Lasagne
 
-## 4-5 personer
+## 4--5 personer
 
 
 
@@ -23,7 +23,7 @@ parent: Pasta
 ## Lasagne
 
 -   ca 15 förkokta lasagneplattor (10 x 20 cm)
--   ca 100-150 g riven ost, kan t.ex. vara gratängost, parmesan eller mozzarella - gärna
+-   ca 100--150 g riven ost, kan t.ex. vara gratängost, parmesan eller mozzarella -- gärna
     blandat
 
 

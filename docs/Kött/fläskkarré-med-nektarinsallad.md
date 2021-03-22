@@ -43,7 +43,7 @@ allt på en gång. Blanda väl, smaka av och tillsätt ev. mer ingefära.
 
 Blanda ingredienserna till marinaden i en stor bunke.
 
-Skär fläskkarrén i 4 skivor och stek eller grilla 3-4 min per sida eller
+Skär fläskkarrén i 4 skivor och stek eller grilla 3--4 min per sida eller
 tills den är genomstekt. Låt vila några minuter. Strimla den nygrillade
 fläskkarrén och vänd ner i marinaden. Låt stå i några minuter.
 

@@ -21,5 +21,5 @@ Instruktioner:
     mjölet blandat med bakpulvret, och arbeta snabbt ihop till en deg.
 3.  Rulla ut degen till 3 drygt fingertjocka längder och lägg dem på en
     plåt med bakplåtspapper. Platta till dem något.
-4.  Grädda mitt i ugnen, 10-12 minuter. Skär längderna i sneda bitar
+4.  Grädda mitt i ugnen, 10--12 minuter. Skär längderna i sneda bitar
     medan de är varma.

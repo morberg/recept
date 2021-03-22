@@ -14,7 +14,7 @@ parent: Bakat
 På kvällen:
 
 1.  Blanda ut jäst eller surdeg i vattnet och tillsätt salt.
-2.  Rör ut mjölet i 30 sekunder och låt jäsa i 12-18 timmar.
+2.  Rör ut mjölet i 30 sekunder och låt jäsa i 12--18 timmar.
 
 Morgonen efter:
 

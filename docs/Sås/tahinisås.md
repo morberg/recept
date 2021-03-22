@@ -7,11 +7,11 @@ parent: Sås
 
 -   3/4 tsk hel spiskummin
 -   1/2 tsk hela korianderfrön
--   1/4-1/2 tsk kardemummakärnor
+-   1/4--1/2 tsk kardemummakärnor
 -   1/2 tsk svartpepparkorn
 -   1 klyfta vitlök
 -   1 dl tahini på oskalad sesam, gärna Kung Markatta
--   1-1 1/2 dl vatten
+-   1--1 1/2 dl vatten
 -   1/2 dl pressad citron
 -   1/2 msk ljust muscovadosocker
 -   salt

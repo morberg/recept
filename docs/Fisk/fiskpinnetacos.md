@@ -36,7 +36,7 @@ Lägg mangon i kylen dagen innan så att den tinar i lugn och ro.
 Laga fiskpinnarna på bakplåtspapper i ugn.
 
 Lägg alla ingredienser till majonnäsen i en hög tillbringare. Häll på
-oljan sist. Stick ner en stavmixer i botten och kör igång ca 10-15
+oljan sist. Stick ner en stavmixer i botten och kör igång ca 10--15
 sekunder. Lyft långsamt upp stavmixern genom oljan så att allt går in i
 majonnäsen. Smaka av med soja, sriracha, lime och salt. Kanske lite
 äppelcidervinäger.

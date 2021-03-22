@@ -5,7 +5,7 @@ parent: Kött
 ---
 # Biff Barbacoa
 
-## 6-10 personer
+## 6--10 personer
 
 
 ## Rostade chilifrukter i buljong
@@ -15,7 +15,7 @@ parent: Kött
 
 ## Kött
 
--   1,5 - 2 kg helt nötkött, t.ex. högrev
+-   1 1/2--2 kg helt nötkött, t.ex. högrev
 
 ## Sås
 
@@ -34,7 +34,7 @@ parent: Kött
 Sätt ugnen på 125°.
 
 Ta bort frön och skaft från chilin. Lägg dom i en kastrull och rosta ca.
-2-5 minuter. Häll på kycklingbuljongen och låt sjuda i 5 minuter. Ställ undan.
+2--5 minuter. Häll på kycklingbuljongen och låt sjuda i 5 minuter. Ställ undan.
 
 Skiva 2 cm tjocka skivor av köttet, och stek en skiva i taget i en stekgryta med lite
 olja. Lägg undan köttet på en tallrik så länge.
@@ -51,7 +51,7 @@ Mixa till en slät sås med stavmixer. Tillsätt det skivade köttet och lagerbl
 
 Lägg på ett lock på glänt och ställ in i ugnen. Låt koka i 4 timmar, vänd på köttet då och
 då. Klart när en provsticka enkelt går igenom köttet. Lyft upp köttet. Koka ner vätskan
-till 3-4 dl.
+till 3--4 dl.
 
 Kan serveras omedelbart, men utvecklar ännu mer smak om man lägger kött tillsammans med
 sås i en lufttät förpackning i kylen upp till fem dagar. Dra isär köttet med två gafflar

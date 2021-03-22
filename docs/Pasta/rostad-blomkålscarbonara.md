@@ -9,7 +9,7 @@ parent: Pasta
 -   4 portioner pasta, valfri sort
 -   1 st blomkålshuvud, ca 800 g
 -   1 dl solrosfrön
--   1-1,5 dl lagrad hårdost, riven
+-   1--1,5 dl lagrad hårdost, riven
 -   2 st ägg, lätt uppvispade
 -   1 dl crème fraiche
 -   ruccola eller babyspenat

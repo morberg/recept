@@ -43,7 +43,7 @@ Skiva löken till **lagen** och blanda med övriga ingredienser (utom
 vinäger) och lägg i dillstjälkarna. Koka ca. fem minuter.
 
 Dra kastrullen från plattan och tillsätt vinäger och lägg i fisken. Låt
-koka in i ca 12-17 minuter beroende på tjocklek.
+koka in i ca 12--17 minuter beroende på tjocklek.
 
 Koka upp en liten kastrull med vatten, buljong och timjan. Skär
 **morötterna** i tunna slantar och koka ca. fem minuter. Lägg i

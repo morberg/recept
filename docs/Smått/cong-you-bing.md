@@ -11,7 +11,7 @@ parent: Smått
 -   1/2 tsk salt
 -   2 1/2 dl sjudande vatten
 -   2 msk sesamolja
--   1-2 dl hackad salladslök
+-   1--2 dl hackad salladslök
 -   matfett till stekning
 
 Prova gärna att [grilla
