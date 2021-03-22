@@ -4,7 +4,7 @@
 -   1 isbit
 
 Börja med att bryna smöret: Smält smöret på mellanvärme medan du rör
-tills partiklarna blir gyllenbruna och smöret luktar nötigt - ca. 5 min.
+tills partiklarna blir gyllenbruna och smöret luktar nötigt -- ca. 5 min.
 Ta bort från värmen och fortsätt rör tills smöret är brunt, ca. 15
 sekunder. Häll över i en skål och vispa i en isbit. Ställ in i kylen och
 låt svalna helt medan du rör om då och då. Det tar ca. 20 minuter.
@@ -36,7 +36,7 @@ blandats runt (inte för länge). Häll i mjölblandningen och mixa på låg
 fart tills det knappt har blandats, men lite torrt mjöl återstår, ca. 15
 sekunder till. Tillsätt hackad choklad och mixa på låg fart tills degen
 blandats, ca. 15 sekunder till. OBS: kör inte något av momenten för
-länge - det ska gå fort. Lägg över degen i en lufttät behållare minst
+länge -- det ska gå fort. Lägg över degen i en lufttät behållare minst
 över natten och upp till tre dagar.
 
 Sätt ugnen på 165°, varmluft med undervärme. Klutta ut degen på

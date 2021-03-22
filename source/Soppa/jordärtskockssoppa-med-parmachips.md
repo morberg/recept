@@ -27,7 +27,7 @@
 :::
 
 Gör gärna parmachipsen i förväg. Om de går sönder kan du bryta dem i
-bitar och dekorera soppan med dessa - det blir nästan enklare att äta.
+bitar och dekorera soppan med dessa -- det blir nästan enklare att äta.
 Lägg 4 skivor parmaskinka på en bakplåtspapperklädd plåt och torka i
 ugnen, 150°, i ca 25 minuter. Låt svalna på papper.
 

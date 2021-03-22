@@ -11,7 +11,7 @@
 
 ## Kött
 
--   1,5 - 2 kg helt nötkött, t.ex. högrev
+-   1 1/2--2 kg helt nötkött, t.ex. högrev
 
 ## Sås
 
