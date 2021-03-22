@@ -15,6 +15,7 @@ classoption:
 - titlepage=firstiscover
 mainfont: 'Hoefler Text'
 sansfont: 'Rockwell'
+fontsize: 12pt
 lang: sv
 papersize: a4
 toc-title: Innehåll
