@@ -10,7 +10,10 @@
 
 Gör så här:
 
-1.  Rör samman majonnäs med mjölk så att den blir lite smidigare.
-2.  Skala äpplet och riv ner det i såsen.
-3.  Blanda i lök och curry och rör om ordentligt.
-4.  Smaka av med citronsaft, salt och en nypa socker.
+Rör eventuellt samman majonnäs med lite vatten så att den blir lite smidigare.
+
+Skala äpplet och riv ner det i såsen.
+
+Blanda i lök och curry och rör om ordentligt.
+
+Smaka av med citronsaft, salt och en nypa socker.
