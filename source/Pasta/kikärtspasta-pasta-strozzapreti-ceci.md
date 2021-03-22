@@ -22,7 +22,7 @@ Hacka vitlök, chilipeppar och rosmarin. Fräs i en stekpanna med olivolja. Till
 kikärtorna och fräs ytterligare någon minut. Häll i vinet och koka upp.
 
 Ta ca 2/3 av fräset och lägg i en mixerkanna. Tillsätt olivoljan och mixa till en slät
-sås. Späd med 1-2 dl pastavatten till lagom konsistens. Smaka av med salt och peppar.
+sås. Späd med 1--2 dl pastavatten till lagom konsistens. Smaka av med salt och peppar.
 
 Lägg tillbaka såsen i stekpannan och rör ihop med resterande hela kikärtor.
 

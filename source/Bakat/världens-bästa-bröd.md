@@ -14,7 +14,7 @@ och lös.
 
 Låt degen jäsa i rumstemperatur över natten i minst 12 timmar.
 
-Vänd sedan degen 3-4 gånger med en slev och låt den jäsa vidare i skålen
+Vänd sedan degen 3--4 gånger med en slev och låt den jäsa vidare i skålen
 i ytterligare ett par timmar.
 
 Ställ en gjutjärnsgryta på ett galler i ugnen och sätt ugnen på 250°.

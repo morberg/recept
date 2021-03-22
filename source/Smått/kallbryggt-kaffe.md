@@ -10,7 +10,7 @@ Blanda:
 i en behållare med lock och ställ in i kylen.
 
 1.  Rör om efter 30 minuter när kaffet flutit upp till ytan
-2.  Låt stå i 20-24 timmar
+2.  Låt stå i 20--24 timmar
 3.  Sila genom kaffefilter
 
 Använd för iskaffe.

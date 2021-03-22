@@ -20,7 +20,7 @@
 
 ## Garnering
 
--   8-10 timjankvistar till garnering, eller välj färsk krydda efter
+-   8--10 timjankvistar till garnering, eller välj färsk krydda efter
     säsong och smak
 -   grissini
 

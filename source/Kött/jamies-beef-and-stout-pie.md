@@ -8,14 +8,14 @@
 -   2 selleristjälkar
 -   2 morötter
 -   2 gula lökar
--   500-700 g nötkött (t ex högrev eller fransyska)
+-   500--700 g nötkött (t ex högrev eller fransyska)
 -   50 cl Guinness eller annan stout eller porter
 -   400 g krossade tomater
--   2-3 lagerblad
+-   2--3 lagerblad
 
 ## Potatismos
 
--   1,2-1,5 kilo potatis
+-   1,2--1,5 kilo potatis
 -   smör
 -   mjölk
 

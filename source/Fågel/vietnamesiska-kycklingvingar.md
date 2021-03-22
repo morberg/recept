@@ -1,6 +1,6 @@
 # Vietnamesiska kycklingvingar
 
-## 3-4 personer
+## 3--4 personer
 
 ::: {.columns}
 ## Glaze
@@ -27,7 +27,7 @@
 ## Vingar
 
 -   1 kg kycklingvingar (funkar också utmärkt med kycklingben)
--   1-2 dl kikärtsmjöl (rismjöl eller potatismjöl funkar också)
+-   1--2 dl kikärtsmjöl (rismjöl eller potatismjöl funkar också)
 -   1 dl hackade jordnötter
 
 ## Tillbehör

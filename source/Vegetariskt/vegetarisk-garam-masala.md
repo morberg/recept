@@ -22,7 +22,7 @@ Koka 4 portioner basmatiris. Skölj kikärtorna och låt rinna av.
 Tärna halloumin och stek gyllene. Lägg åt sidan.
 
 Häll kikärtorna i en stekpanna och tillsätt garam masala, vatten, grädde
-och spenat. Koka ihop i 5-10 minuter.
+och spenat. Koka ihop i 5--10 minuter.
 
 Servera grytan med den stekta halloumin tillsammans med ris och mango
 chutney.

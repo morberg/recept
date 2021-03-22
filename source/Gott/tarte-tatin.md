@@ -16,5 +16,5 @@ kanten.
 Kavla ut smördegen till ett lock som passar att lägga över äpplena. Lägg smördegen i
 stekpannan och plocka bort ojämna kanter.
 
-Baka i ugnen i 60 minuter. Ta ut och låt svalna i 20-30 minuter. Vänd över på ett fat och
+Baka i ugnen i 60 minuter. Ta ut och låt svalna i 20--30 minuter. Vänd över på ett fat och
 servera med vaniljsås eller -glass.

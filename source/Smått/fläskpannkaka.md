@@ -1,6 +1,6 @@
 # Fläskpannkaka
 
-## 4-5 personer
+## 4--5 personer
 
 -   6 ägg
 -   6 dl mjölk

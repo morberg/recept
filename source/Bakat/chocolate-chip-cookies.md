@@ -41,5 +41,5 @@ länge - det ska gå fort. Lägg över degen i en lufttät behållare minst
 
 Sätt ugnen på 165°, varmluft med undervärme. Klutta ut degen på
 plåt med bakplåtspapper med en glasskopa, ca. tre msk per boll. Det blir
-8 kakor per plåt, två plåtar. Grädda en plåt i taget i 12-13 minuter.
+8 kakor per plåt, två plåtar. Grädda en plåt i taget i 12--13 minuter.
 Låt svalna helt innan du lägger kakorna i en lufttät behållare.

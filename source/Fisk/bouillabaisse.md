@@ -33,8 +33,8 @@
 
 Hetta upp olja och smör i en kastrull. Fräs lök, vitlök, purjolök,
 fänkål, potatis och morötter tillsammans med saffran och chiliflakes
-under omrörning i 2-3 minuter. Tillsätt tomatpurén och fräs 30 sekunder
-till. Häll i vinet och låt puttra 4-5 minuter. Häll till sist i vatten,
+under omrörning i 2--3 minuter. Tillsätt tomatpurén och fräs 30 sekunder
+till. Häll i vinet och låt puttra 4--5 minuter. Häll till sist i vatten,
 grädde och fond. Låt soppan sjuda under lock i knappt 20 minuter.
 
 Passa under tiden på att tärna lax och torsk. Krydda med lite salt.

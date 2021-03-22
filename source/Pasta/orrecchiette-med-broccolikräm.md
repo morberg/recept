@@ -9,7 +9,7 @@
 -   40 g quattrocento
 -   1/2 förpackning ruccola
 -   1 dl mandel
--   1-2 vitlöksklyftor
+-   1--2 vitlöksklyftor
 -   1/2 dl olivolja
 -   1/2 tsk salt
 -   2 tsk vitvinsvinäger

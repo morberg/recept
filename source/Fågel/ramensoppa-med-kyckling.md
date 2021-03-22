@@ -24,7 +24,7 @@
 
 :::
 
-Tillaga kycklingen på valfritt sätt. Stek i panna, ugn eller sous vide (66° i 1-2
+Tillaga kycklingen på valfritt sätt. Stek i panna, ugn eller sous vide (66° i 1--2
 timmar).
 
 Koka nudlarna enligt förpackningen.

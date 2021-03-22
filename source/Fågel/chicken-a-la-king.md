@@ -17,7 +17,7 @@
 
 ## Tillbehör
 
--   1-2 dl ärtor eller sojabönor
+-   1--2 dl ärtor eller sojabönor
 -   persilja
 
 :::
@@ -26,7 +26,7 @@ Koka 4 portioner basmatiris.
 
 Skiva champinjonerna och fräs i en stekgryta på medelstark värme. Passa
 under tiden på att skiva och strimla lök och paprika. Låt grönsakerna
-fräsa med svampen i några minuter. Strö över 2-3 msk vetemjöl och häll
+fräsa med svampen i några minuter. Strö över 2--3 msk vetemjöl och häll
 på grädde, vatten och en smulad buljongtärning.
 
 Låt puttra några minuter. Dra under tiden skinnet av kycklingen och skär
