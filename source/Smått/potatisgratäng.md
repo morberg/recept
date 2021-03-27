@@ -13,7 +13,7 @@
 
 :::
 
-Sätt ugnen på 200°. Blanda grädde, salt, timjan, vitlök och **knappt hälften** av osten i
+Sätt ugnen på 185°, varmluft. Blanda grädde, salt, timjan, vitlök och **knappt hälften** av osten i
 en stor bunke. Spara resten av osten till senare. Vrid några varv på pepparkvarnen.
 
 Skiva potatisen med mandolin i bunken. Blanda runt, lägg över i en ugnsfast form med en
