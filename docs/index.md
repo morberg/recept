@@ -88,6 +88,7 @@ nav_order: 1
 * [Köttfärspaj](Smått/köttfärspaj.md)
 * [Ost- och skinkpaj](Smått/ost-och-skinkpaj.md)
 * [Pannkakor](Smått/pannkakor.md)
+* [Potatisgratäng](Smått/potatisgratäng.md)
 * [Zuccinipaj med pesto](Smått/zuccinipaj-med-pesto.md)
 
 ## Soppa
