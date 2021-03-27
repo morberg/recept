@@ -1,6 +1,6 @@
 # Potatisgratäng
 
-**4 personer**
+## 4 personer
 
 ::: columns
 - 1 kg potatis
