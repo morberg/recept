@@ -6,12 +6,12 @@
 - 1 kg potatis
 - 5 dl grädde
 - 1 1/2 tsk salt
-- svartpeppar
+- nymald svartpeppar
 - 1 tsk timjan
 - 1 riven vitlöksklyfta
 - 3 dl riven ost
 
-::: columns
+:::
 
 Sätt ugnen på 200°. Blanda grädde, salt, timjan, vitlök och **knappt hälften** av osten i
 en stor bunke. Spara resten av osten till senare. Vrid några varv på pepparkvarnen.
