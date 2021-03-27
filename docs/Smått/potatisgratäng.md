@@ -5,7 +5,7 @@ parent: Smått
 ---
 # Potatisgratäng
 
-**4 personer**
+## 4 personer
 
 - 1 kg potatis
 - 5 dl grädde
