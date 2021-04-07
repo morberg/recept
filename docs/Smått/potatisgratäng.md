@@ -7,7 +7,7 @@ parent: Smått
 
 ## 4 personer
 
-- 1 kg potatis
+- 1 1/2--2 kg potatis
 - 5 dl grädde
 - 1 1/2 tsk salt
 - nymald svartpeppar
