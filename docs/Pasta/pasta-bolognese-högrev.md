@@ -8,7 +8,7 @@ parent: Pasta
 ## 4 personer
 
 
--   500 g pasta (t ex penne, tagliatelle eller spaghetti)
+-   500 g pasta (t ex penne, tagliatelle eller spagetti)
 
 ## Bolognese
 -   2 gula lökar
