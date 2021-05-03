@@ -16,7 +16,7 @@ parent: Fisk
 
 ## Mangosalsa
 
--   225 g frusen mango
+-   450 g frusen mango
 -   1 rödlök
 -   1 röd chili
 -   1/2 pressad lime
