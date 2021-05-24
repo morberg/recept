@@ -20,5 +20,6 @@ ugnen i ca. 30 minuter.
 
 Koka 4 portioner pasta, gärna penne. Hacka basilikan.
 
-Blanda pastan med basilika, tomater och fetaost till en krämig sås. Smaka av med peppar
-och ev. lite salt.
+Häll av pastan (spara någon dl. av kokvattnet). Blanda pastan med basilika, tomater och
+fetaost till en krämig sås under några minuter. Späd med pastavatten om det behövs. Smaka
+av med peppar och ev. lite salt.
