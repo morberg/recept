@@ -66,6 +66,7 @@ nav_order: 1
 * [Larb](Kött/larb.md)
 * [Revbensspjäll med cole slaw](Kött/revbensspjäll.md)
 * [Salami- och pestofyllda rullader](Kött/salami-och-pestofyllda-rullader.md)
+* [Sloppy Joe med guacamole och picklad rödlök](Kött/sloppy-joe.md)
 
 ## Pasta
 
