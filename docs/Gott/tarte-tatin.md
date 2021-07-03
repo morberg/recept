@@ -6,9 +6,9 @@ parent: Gott
 # Tarte Tatin
 
 * 2 dl socker
-* 50 g smör
+* 40 g smör
 * 7 små äpplen
-* 200 g färdig smördeg
+* 150 g färdig smördeg (tre plattor)
 
 Ta ut smördegen och låt tina ca. 20 minuter i rumstemperatur.
 
