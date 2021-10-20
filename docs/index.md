@@ -115,6 +115,7 @@ nav_order: 1
 * [Fetaostbollar med quinoasallad och tsatsiki](Vegetariskt/fetabollar-med-quinoa.md)
 * [Piroger med fetaost och spenat](Vegetariskt/piroger.md)
 * [Vegetarisk ramensoppa](Vegetariskt/ramensoppa.md)
+* [Spansk kikärtsgryta med tomat och ingefära](Vegetariskt/spansk-kikärtsgryta.md)
 * [Vegetarisk garam masala](Vegetariskt/vegetarisk-garam-masala.md)
 
 ## Referens
