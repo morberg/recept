@@ -7,12 +7,12 @@ parent: Gott
 
 ## 4 personer
 
--   6 äpplen
--   100 g smör
--   1 dl farinsocker
--   2 dl havregryn
--   1 dl vetemjöl
--   1 tsk kanel
+-   7 äpplen
+-   150 g smör
+-   1 1/2 dl farinsocker
+-   3 dl havregryn
+-   1 1/2 dl vetemjöl
+-   1 msk kanel
 
 Gör så här:
 
@@ -20,4 +20,4 @@ Gör så här:
     skivor om du känner för det. Det viktigaste är att de är tunna. Lägg
     ut skivorna (eller klyftorna) i en form.
 2.  Smält smöret1 och tillsätt övriga ingredienser. Smula över äpplena.
-3.  Kör på full effekt (750W) i mikrovågsugn i 6--8 minuter.
+3.  Kör på full effekt i mikrovågsugn i 6--8 minuter.
