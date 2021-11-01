@@ -34,7 +34,7 @@ parent: Referens
 | [Ägg med soja][]          | 60°       | 45 minuter     | Mycket lösa, äts med sked. Koka gärna 1--2 minuter först.                                      |
 | [Onsenägg][]              | 75°       | 13 minuter     |                                                                                                |
 
-[Fläsk]: [http://www.seriouseats.com/2016/04/food-lab-complete-guide-to-sous-vide-pork-chops.html#time]
+[Fläsk]: [http://www.seriouseats.com/2016/04/food-lab-complete-guide-to-sous-vide-pork-chops.html]
 [Hamburgare]: [http://www.seriouseats.com/recipes/2010/06/sous-vide-burgers-recipe.html]
 [Kyckling]: [http://www.seriouseats.com/2015/07/the-food-lab-complete-guide-to-sous-vide-chicken-breast.html]
 [Lax]: [http://www.seriouseats.com/recipes/2016/08/sous-vide-salmon-recipe.html]
