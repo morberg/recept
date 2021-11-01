@@ -6,6 +6,8 @@ PANDOC_FLAGS = --lua-filter=tools/include-files.lua \
 	--pdf-engine=xelatex \
 	--toc --toc-depth=2
 
+all: jekyll pdf
+
 pdf: receptsamling.pdf
 
 tex: receptsamling.tex
