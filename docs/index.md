@@ -46,6 +46,7 @@ nav_order: 1
 
 ## Gott
 
+* [Brownies](Gott/brownies.md)
 * [Cheesecake](Gott/cheesecake.md)
 * [Chokladmousse](Gott/chokladmousse.md)
 * [Mormors chokladkaka](Gott/mormors-chokladkaka.md)
