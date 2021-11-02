@@ -37,6 +37,7 @@ nav_order: 1
 ## Fågel
 
 * [Chicken à la King](Fågel/chicken-a-la-king.md)
+* [Flygande Jakob](Fågel/flygande-jakob.md)
 * [Johannas grekiska kyckling](Fågel/johannas-kyckling.md)
 * [Kyckling med citronquinoa och fikonsky](Fågel/kyckling-med-citronquinoa.md)
 * [Kyckling (eller tofu) med cashewnötter](Fågel/kyckling-och-cashew.md)
