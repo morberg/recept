@@ -34,14 +34,14 @@ parent: Referens
 | [Ägg med soja][]          | 60°       | 45 minuter     | Mycket lösa, äts med sked. Koka gärna 1--2 minuter först.                                      |
 | [Onsenägg][]              | 75°       | 13 minuter     |                                                                                                |
 
-[Fläsk]: [http://www.seriouseats.com/2016/04/food-lab-complete-guide-to-sous-vide-pork-chops.html]
-[Hamburgare]: [http://www.seriouseats.com/recipes/2010/06/sous-vide-burgers-recipe.html]
-[Kyckling]: [http://www.seriouseats.com/2015/07/the-food-lab-complete-guide-to-sous-vide-chicken-breast.html]
-[Lax]: [http://www.seriouseats.com/recipes/2016/08/sous-vide-salmon-recipe.html]
-[Morötter]: [http://www.seriouseats.com/recipes/2010/06/sous-vide-glazed-carrots-recipe.html]
-[obb]: [https://www.seriouseats.com/recipes/2016/08/sous-vide-barbecue-smoked-bbq-brisket-texas-recipe.html]
-[obs]: [http://niklash.blogspot.se/2014/12/sous-vide-oxbringa-med-pepparrotssas.html]
-[Oxfilé]: [http://www.seriouseats.com/2015/06/food-lab-complete-guide-to-sous-vide-steak.html]
-[Rostbiff]: [http://niklash.blogspot.se/2014/12/sous-vide-oxbringa-med-pepparrotssas.html]
-[Ägg med soja]: [http://www.seriouseats.com/recipes/2014/09/singapore-style-soft-cooked-eggs-with-kaya-jam-and-toast-recipe.html]
-[Onsenägg]: [http://www.seriouseats.com/2016/08/how-to-make-onsen-tamago-japanese-poached-egg.html]
+[Fläsk]: http://www.seriouseats.com/2016/04/food-lab-complete-guide-to-sous-vide-pork-chops.html
+[Hamburgare]: http://www.seriouseats.com/recipes/2010/06/sous-vide-burgers-recipe.html
+[Kyckling]: http://www.seriouseats.com/2015/07/the-food-lab-complete-guide-to-sous-vide-chicken-breast.html
+[Lax]: http://www.seriouseats.com/recipes/2016/08/sous-vide-salmon-recipe.html
+[Morötter]: http://www.seriouseats.com/recipes/2010/06/sous-vide-glazed-carrots-recipe.html
+[obb]: https://www.seriouseats.com/recipes/2016/08/sous-vide-barbecue-smoked-bbq-brisket-texas-recipe.html
+[obs]: http://niklash.blogspot.se/2014/12/sous-vide-oxbringa-med-pepparrotssas.html
+[Oxfilé]: http://www.seriouseats.com/2015/06/food-lab-complete-guide-to-sous-vide-steak.html
+[Rostbiff]: http://niklash.blogspot.se/2014/12/sous-vide-oxbringa-med-pepparrotssas.html
+[Ägg med soja]: http://www.seriouseats.com/recipes/2014/09/singapore-style-soft-cooked-eggs-with-kaya-jam-and-toast-recipe.html
+[Onsenägg]: http://www.seriouseats.com/2016/08/how-to-make-onsen-tamago-japanese-poached-egg.html
