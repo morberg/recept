@@ -20,9 +20,11 @@ Om man i "Settings" för github-projektet slår på GitHub Pages kan recepten un
 resultatet på https://morberg.github.io/recept/ .
 
 Filen `index.md` behöver genereras för att få en innehållsförteckning. Detta sker
-automatiskt med github actions när du checkar in till github.
+automatiskt med github actions när du checkar in till github. Även katalogen `docs`, som
+innehåller filerna för webbversionen, behöver generas. Det sker också via github actions.
 
-Vill du generera `index.md` på din lokala maskin gör du det med `make index.md`.
+Vill du generera `index.md` på din lokala maskin gör du det med `make index.md`. För
+att generera docs-katalogen lokalt kör du `make jekyll`.
 
 ## Utskriftsversion
 
