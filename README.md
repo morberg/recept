@@ -32,4 +32,5 @@ Installera xelatex och vänner på din maskin med `brew cask install basiclatex`
 också `brew install pandoc`.
 
 Sen är det bara att köra `make pdf` för att generera `receptsamling.pdf` som passar bra
-för utskrift.
+för utskrift. Ibland klagar pandoc på en saknad glyf i typsnitten, kör `make clean` och
+sedan `make pdf` så löser det sig.
