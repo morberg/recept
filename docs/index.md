@@ -14,6 +14,7 @@ nav_order: 1
 * [Focaccia](Bakat/focaccia.md)
 * [Hamburgerbröd](Bakat/hamburgerbröd.md)
 * [Kolakakor](Bakat/kolakakor.md)
+* [Pestosnurror](Bakat/pestosnurror.md)
 * [Pizza](Bakat/pizza.md)
 * [Tekakor med rivna morötter](Bakat/tekakor-med-rivna-morötter.md)
 * [Världens bästa bröd](Bakat/världens-bästa-bröd.md)
@@ -99,6 +100,7 @@ nav_order: 1
 ## Soppa
 
 * [Fisksoppa med saffran](Soppa/fisksoppa-med-saffran.md)
+* [Guilles tomatsoppa](Soppa/guilles-tomatsoppa.md)
 * [Jordärtskockssoppa med parmachips](Soppa/jordärtskockssoppa-med-parmachips.md)
 * [Köttfärssoppa](Soppa/köttfärssoppa.md)
 * [Morotssoppa](Soppa/morotssoppa.md)
