@@ -16,7 +16,7 @@ parent: Soppa
 - 2 burkar krossade tomater à 400 g
 - 1 l vatten
 - 2 tärningar grönsaksbuljong
-- 2 msk mandelsmör (kan uteslutas)
+- ev. 2 msk mandelsmör
 - 2 burkar vita bönor à 400 g (ca. 3 dl kokta), skölda
 
 ## Citronlinser
