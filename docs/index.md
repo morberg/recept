@@ -103,6 +103,7 @@ nav_order: 1
 * [Guilles tomatsoppa](Soppa/guilles-tomatsoppa.md)
 * [Jordärtskockssoppa med parmachips](Soppa/jordärtskockssoppa-med-parmachips.md)
 * [Köttfärssoppa](Soppa/köttfärssoppa.md)
+* [Minestrone med pancetta och ägg](Soppa/minestrone.md)
 * [Morotssoppa](Soppa/morotssoppa.md)
 
 ## Sås
