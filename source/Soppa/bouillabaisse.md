@@ -16,6 +16,7 @@
 -   3 dl vitt vin
 -   1/2 liter vatten
 -   3 dl vispgrädde
+-   2 msk tomatpuré
 -   2 msk fiskfond
 
 ## Fisk och skaldjur
