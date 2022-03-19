@@ -32,6 +32,8 @@
 -   1/2 pressad citron
 :::
 
+Tärna ingredienserna till soppan i centimeterstora bitar.
+
 Hetta upp olja och smör i en kastrull. Fräs lök, vitlök, purjolök,
 fänkål, potatis och morötter tillsammans med saffran och chiliflakes
 under omrörning i 2--3 minuter. Tillsätt tomatpurén och fräs 30 sekunder
