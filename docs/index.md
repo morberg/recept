@@ -23,7 +23,6 @@ nav_order: 1
 
 * [Anders och Lenas Lax](Fisk/anders-och-lenas-lax.md)
 * [Andreas asiatiska fiskbiffar](Fisk/asiatiska-fiskbiffar.md)
-* [Bouillabaisse](Fisk/bouillabaisse.md)
 * [Brantevikssill](Fisk/brantevikssill.md)
 * [Citrontagliatelle med ugnsbakad lax](Fisk/citronpasta-med-ugnsbakad-lax.md)
 * [Disas musslor](Fisk/disas-musslor.md)
@@ -99,7 +98,7 @@ nav_order: 1
 
 ## Soppa
 
-* [Fisksoppa med saffran](Soppa/fisksoppa-med-saffran.md)
+* [Bouillabaisse](Soppa/bouillabaisse.md)
 * [Guilles tomatsoppa](Soppa/guilles-tomatsoppa.md)
 * [Jordärtskockssoppa med parmachips](Soppa/jordärtskockssoppa-med-parmachips.md)
 * [Köttfärssoppa](Soppa/köttfärssoppa.md)
