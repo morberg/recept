@@ -7,6 +7,32 @@ parent: Smått
 
 ## 4 personer
 
+## Tinas recept
+
+- 1 1/2 kg skalad fast potatis
+- 1/2 purjolök
+- 3 vitlöksklyftor
+- olivolja
+- 5 dl vispgrädde
+- 5 dl mjölk
+- 2-3 tsk salt
+- svartpeppar ur kvarn
+
+Värm ugnen till 180°.
+
+Hyvla potatisen tunt, gärna med mandolin eller i matberedare. Skölj och finstrimla
+purjolöken och skala och krossa vitlöksklyftorna.
+
+Fräs purjolöken och vitlöken i lite olivolja utan att de tar färg. Häll i grädde och mjölk
+och låt blandningen koka upp. Lägg i potatisen och salta och peppra rikligt – eftersom
+potatisen drar åt sig mycket salt ska du inte snåla med saltet. Låt potatisen koka tills
+stärkelsen har lösts ut och blandningen är tjock och krämig. Glöm inte att röra om hela
+tiden, det kan lätt bli bränt.
+
+Häll upp allt i en ugnsfast form. Hit kan du förbereda. Grädda sedan gratängen i 30–40
+minuter. Känn med en sticka, och om potatisen är färdig är det bara att servera.
+
+## Kenjis recept
 - 1 1/2--2 kg potatis
 - 5 dl grädde
 - 1 1/2 tsk salt
