@@ -9,7 +9,7 @@
 - 1/2 dl olivolja
 - 1/2 kruka färsk basilika
 
-Sätt ugnen på 200°. Hacka vitlöken och bland med tomaterna i en ugnsfast form.
+Sätt ugnen på 200°. Hacka vitlöken och blanda med tomaterna i en ugnsfast form.
 Lägg i en hel bit fetaost och ringla över olivolja. Strö över oregano och sätt in i
 ugnen i ca. 30 minuter.
 
