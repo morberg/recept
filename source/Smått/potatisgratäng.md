@@ -34,7 +34,7 @@ minuter. Känn med en sticka, och om potatisen är färdig är det bara att serv
 - 1 1/2--2 kg potatis
 - 5 dl grädde
 - 1 1/2 tsk salt
-- nymald svartpeppar
+- svartpeppar ur kvarn
 - 1 tsk timjan
 - 1 riven vitlöksklyfta
 - 3 dl riven ost
