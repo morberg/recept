@@ -79,6 +79,7 @@ nav_order: 1
 * [Pappardelle med harissa och svarta oliver](Pasta/papardelle-harissa.md)
 * [Pasta Bolognese på högrev](Pasta/pasta-bolognese-högrev.md)
 * [Pastasallad med basilika- och spenatpesto](Pasta/pastasallad-med-pesto.md)
+* [Ravioli med ricotta och spenat](Pasta/ravioli.md)
 * [Rostad blomkålscarbonara](Pasta/rostad-blomkålscarbonara.md)
 * [Spagetti med fetaostbollar och tomatsås](Pasta/spagetti-fetaostbollar.md)
 
