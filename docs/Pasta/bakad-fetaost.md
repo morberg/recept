@@ -8,7 +8,7 @@ parent: Pasta
 ## 4 portioner
 
 - 150 g fetaost
-- 400 g körsbärstomater
+- 400 g körsbärstomater (färska eller på burk)
 - 1 msk torkad oregano
 - 1 vitlöksklyfta
 - 1/2 dl olivolja
