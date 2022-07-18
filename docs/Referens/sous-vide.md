@@ -5,34 +5,31 @@ parent: Referens
 ---
 # Sous vide
 
-<!-- Spara filen med CMD+K S för att undvika automatformattering -->
+<!-- Spara filen med CMD+K S för att undvika automatformattering. Justera kolumnbrytningar genom antalet minustecken under rubrikerna. -->
 
-| **råvara**                | **temp.** | **tid**        | **kommentar**                                                                                  |
-| ------------------------- | --------- | -------------- | ---------------------------------------------------------------------------------------------- |
-| Entrecôte                 | 55°       | 1--4 timmar    |                                                                                                |
-| [Fläsk][]                 | 60°       | 1--4 timmar    | Filé, ytterfilé och kotlett                                                                    |
-| Fransyska                 | 58°       | 24 timmar      | Grillad hel. Bra konsistens, men lite för färdig                                               |
-|                           | 55°       | 48 timmar      | Bra konsistens och färdighet                                                                   |
-| [Hamburgare][]            | 55°       | 60 minuter     |                                                                                                |
-| Högrev                    | 56°       | 22 timmar      |                                                                                                |
-| Kalkon                    | 62°       | 2 timmar       |                                                                                                |
-| [Kyckling][]              | 66°       | 1--4 timmar    |                                                                                                |
-| [Lax][]                   | 46° / 54° | 30--45 minuter | Börja med att salta, sockra och peppra. Lägg i plastpåse ca. 15 min först                      |
-| [Morötter][]              | 84°       | 60 minuter     | Tillsammans med smör och kryddor. Stek tills vätskan kokat bort efteråt                        |
-| Nötbog                    | 55°       | 30 timmar      | Grillad. Nästan för mört, trillade isär som pulled pork                                        |
-|                           | 55°       | 16 timmar      | För lite, fortfarande segt                                                                     |
-|                           | 54°       | 48 timmar      | Bra. Verkar beroende av vilket djur                                                            |
-| [Oxbringa (brisket)][obb] | 57°       | 36--72 timmar  | Mör, påminner om en vanlig köttbit                                                             |
-|                           | 68°       | 24--36 timmar  | Klassisk brisket, pulled pork-liknande konsistens                                              |
-| [Oxbringa (svensk)][obs]  | 58°       | 36--48 timmar  |                                                                                                |
-| [Oxfilé][]                | 55°       | 1 timme        | Lagom rödrosa för Niklas och Olle, medium rare                                                 |
-|                           | 62°       | 1 timme        | Nästan helt färdig. Kör först en timme på 62°, sänk sedan till 55° och lägg i resten av köttet |
-| [Rostbiff][]              | 55°       | 24 timmar      |                                                                                                |
-| Ryggbiff                  | 58°       | 1 timme        | Grillad. Bra för alla, medium.                                                                 |
-| Torsk                     | 50°       | 45 minuter     | Kör inte för länge, max 1,5 timme.                                                             |
-| Ägg                       | 63°       | 2 timmar       |                                                                                                |
-| [Ägg med soja][]          | 60°       | 45 minuter     | Mycket lösa, äts med sked. Koka gärna 1--2 minuter först.                                      |
-| [Onsenägg][]              | 75°       | 13 minuter     |                                                                                                |
+| **råvara**           | **temp.** | **tid**        | **kommentar**                               |
+| -------------------- | --------- | -------------- | ------------------------------------------- |
+| Entrecôte                 | 58°       | 1--4 h     | Medium well, behöver smälta ut fettet                                     |
+| [Fläsk][]                 | 60°       | 1--4 h     | Filé, ytterfilé och kotlett                                               |
+| Fransyska                 | 58°       | 24 h       | Grillad hel. Bra konsistens, men lite för färdig                          |
+|                           | 55°       | 48 h       | Bra konsistens och färdighet                                              |
+| [Hamburgare][]            | 55°       | 60 min     |                                                                           |
+| Högrev                    | 56°       | 24 h       |                                                                           |
+| Kalkon                    | 62°       | 2 h        |                                                                           |
+| [Kyckling][]              | 66°       | 1--4 h     |                                                                           |
+| [Lax][]                   | 50°       | 30--45 min | Börja med att salta, sockra och peppra. Lägg i plastpåse ca. 15 min först |
+| [Morötter][]              | 84°       | 60 min     | Tillsammans med smör och kryddor. Stek tills vätskan kokat bort efteråt   |
+| Nötbog                    | 55°       | 24-48 h    | Verkar beroende av vilket djur, kan ibland bli *för* mört.                |
+| [Oxbringa (brisket)][obb] | 57°       | 36--72 h   | Mör, påminner om en vanlig köttbit                                        |
+|                           | 68°       | 24--36 h   | Klassisk brisket, pulled pork-liknande konsistens                         |
+| [Oxbringa (svensk)][obs]  | 58°       | 36--48 h   |                                                                           |
+| [Oxfilé][]                | 55°       | 1--4 h     | Medium rare. Linda vill ha 60°.                                           |
+| [Rostbiff][]              | 55°       | 24 h       |                                                                           |
+| Ryggbiff                  | 58°       | 1--4 h     | Grillad. Bra för alla, medium.                                            |
+| Torsk                     | 50°       | 45 min     | Kör inte för länge, max 1,5 timme.                                        |
+| Ägg                       | 63°       | 2 h        |                                                                           |
+| [Ägg med soja][]          | 60°       | 45 min     | Ät med sked. Koka gärna 1--2 min. för att sätta vitan.                    |
+| [Onsenägg][]              | 75°       | 13 min     |                                                                           |
 
 [Fläsk]: http://www.seriouseats.com/2016/04/food-lab-complete-guide-to-sous-vide-pork-chops.html
 [Hamburgare]: http://www.seriouseats.com/recipes/2010/06/sous-vide-burgers-recipe.html
