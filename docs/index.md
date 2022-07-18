@@ -117,7 +117,6 @@ nav_order: 1
 
 ## Vegetariskt
 
-* [Fetaostbollar med quinoasallad och tsatsiki](Vegetariskt/fetabollar-med-quinoa.md)
 * [Frittata med paprika- och olivsallad](Vegetariskt/frittata.md)
 * [Piroger med fetaost och spenat](Vegetariskt/piroger.md)
 * [Vegetarisk ramensoppa](Vegetariskt/ramensoppa.md)
