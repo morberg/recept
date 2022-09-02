@@ -114,6 +114,7 @@ nav_order: 1
 * [Pepparrotsdip](Sås/pepparrotsdip.md)
 * [Romescosås](Sås/romescosås.md)
 * [Magisk Tahinisås](Sås/tahinisås.md)
+* [Vitvinssås](Sås/vitvinssås.md)
 
 ## Vegetariskt
 
