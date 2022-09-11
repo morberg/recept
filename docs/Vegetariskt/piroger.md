@@ -46,4 +46,4 @@ calzone.
 
 Lägg pirogerna på en plåt med bakplåtspapper och pensla med ägg
 uppvispat med lite vatten. Strö sesamfrön över pirogerna och grädda dem
-mitt i ugnen i ca 20--25 minuter, tills de har fått fin färg.
+mitt i ugnen i ca 15 minuter, tills de har fått fin färg.
