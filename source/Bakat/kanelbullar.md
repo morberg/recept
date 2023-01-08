@@ -33,7 +33,7 @@ Tag upp degen på mjölat bakbord, arbeta den smidig. Dela degen i fyra delar. K
 varje del till en stor avlång kaka. Bred ut 1/4 av fyllningen och rulla ihop. Skär varje
 rulle i 10 bitar. Ställ dom i pappersformar med snittytan uppåt.
 
-Sätt ugnen på 250°.
+Sätt ugnen på 225°.
 
 Jäs under bakduk till knappt dubbel storlek, ca. 30 minuter. Pensla med uppvispat ägg.
 Grädda mitt i ugnen ca. 5--6 minuter.
