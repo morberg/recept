@@ -14,8 +14,8 @@
 
 ## Fyllning
 - 100 g mjukt smör
-- 6 msk socker
-- 3 msk kanel
+- 4 msk socker
+- 3--4 msk kanel
   
 ## Pensling
 - uppvispat ägg
