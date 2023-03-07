@@ -125,6 +125,7 @@ nav_order: 1
 * [Frittata med paprika- och olivsallad](Vegetariskt/frittata.md)
 * [Piroger med fetaost och spenat](Vegetariskt/piroger.md)
 * [Vegetarisk ramensoppa](Vegetariskt/ramensoppa.md)
+* [Rotselleririsotto med trattkantareller och brysselkål](Vegetariskt/selleririsotto-med-brysselkål.md)
 * [Spansk kikärtsgryta med tomat och ingefära](Vegetariskt/spansk-kikärtsgryta.md)
 * [Vegetarisk garam masala](Vegetariskt/vegetarisk-garam-masala.md)
 
