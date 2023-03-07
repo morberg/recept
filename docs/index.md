@@ -89,6 +89,7 @@ nav_order: 1
 ## Smått
 
 * [Amerikanska pannkakor](Smått/amerikanska-pannkakor.md)
+* [Bao bun med hoisinfläsk](Smått/bao-bun.md)
 * [Basilikapaj med fetaost och oliver](Smått/basilikapaj-med-fetaost-och-oliver.md)
 * [Cong you bing](Smått/cong-you-bing.md)
 * [Fläskpannkaka](Smått/fläskpannkaka.md)
