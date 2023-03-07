@@ -108,6 +108,7 @@ nav_order: 1
 * [Köttfärssoppa](Soppa/köttfärssoppa.md)
 * [Minestrone med pancetta och ägg](Soppa/minestrone.md)
 * [Morotssoppa](Soppa/morotssoppa.md)
+* [Soppa salsiccia](Soppa/soppa-salsiccia.md)
 
 ## Sås
 
