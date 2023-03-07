@@ -75,6 +75,7 @@ nav_order: 1
 ## Pasta
 
 * [Pasta med bakad fetaost och tomater](Pasta/bakad-fetaost.md)
+* [Belugabolognese](Pasta/belugabolognese.md)
 * [Kikärtspasta (Pasta Strozzapreti Ceci)](Pasta/kikärtspasta-pasta-strozzapreti-ceci.md)
 * [Lasagne](Pasta/lasagne.md)
 * [Orrecchiette med broccolikräm](Pasta/orrecchiette-med-broccolikräm.md)
