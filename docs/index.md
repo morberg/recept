@@ -52,6 +52,7 @@ nav_order: 1
 * [Brownies](Gott/brownies.md)
 * [Cheesecake](Gott/cheesecake.md)
 * [Chokladmousse](Gott/chokladmousse.md)
+* [Kolasås](Gott/kolasås.md)
 * [Mormors chokladkaka](Gott/mormors-chokladkaka.md)
 * [Snickerskaka](Gott/snickerskaka.md)
 * [Tarte Tatin](Gott/tarte-tatin.md)
