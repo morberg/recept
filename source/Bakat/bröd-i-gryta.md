@@ -1,6 +1,6 @@
 # Bröd i gryta
 
--   660 g (420 g) kallt vatten
+-   660 g (460 g) kallt vatten
 -   5 g jäst (som en ärta) eller 100 g surdeg
 -   21 g (12 g) salt
 -   160 g (60 g) grovt rågmjöl
