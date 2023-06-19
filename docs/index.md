@@ -54,6 +54,7 @@ nav_order: 1
 * [Cheesecake](Gott/cheesecake.md)
 * [Chokladmousse](Gott/chokladmousse.md)
 * [Kolasås](Gott/kolasås.md)
+* [Kallrökt lax med spetskålskräm](Gott/lax-spetskålskräm.md)
 * [Mormors chokladkaka](Gott/mormors-chokladkaka.md)
 * [Snickerskaka](Gott/snickerskaka.md)
 * [Tarte Tatin](Gott/tarte-tatin.md)
