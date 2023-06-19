@@ -5,6 +5,7 @@
 ::: columns
 
 - 500 g kallrökt lax i tunna skivor
+- 1 vit endivesallat
 
 ### Spetskålskräm
 
@@ -25,9 +26,6 @@
 - 2 msk olivolja
 - 1 nypa flingsalt
 
-### Endive
-
-- 1 vit endivesallat
  
 :::
 
