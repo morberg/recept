@@ -17,8 +17,8 @@
 - 400 g passerade eller hela körsbärstomater på burk
 - 1 dl vatten
 - 1 1/2 tsk socker
-- ev. chili flakes
 - 1 tsk salt
+- ev. chili flakes
 - 1/4 kruka basilika
 
 ### Till servering
@@ -32,13 +32,14 @@ Ta av skinnet från salsicciakorvarna. Skär de nu skinnfria korvarna i centimet
 bitar.
 
 Hetta upp olivolja i en gryta på medelhög värme. Fräs salsiccian tillsammans med den gula
-löken i några minuter tills löken är lätt genomskinlig. Lägg i vitlök och mortlade
-fänkålsfrån i grytan och fräs ytterligare någon minut.
+löken i några minuter tills löken är lätt genomskinlig.
+
+Lägg i vitlök och mortlade fänkålsfrån i grytan och fräs ytterligare någon minut.
 
 Höj värmen och addera tomatpurén. Rör om ordentligt så att tomatpurén inte bränner fast i
-bottnen. Häll på vinte och låt det koka bort.
+bottnen. Häll på vinet och låt det koka bort.
 
-Sänk värmen på plattan och häll på körsbärstomaterna, vattnet och sockret. Lått puttra i
+Sänk värmen på plattan och häll på körsbärstomaterna, vattnet och sockret. Låt puttra i
 20 minuter. Smaka av med salt och chili flakes.
 
 Koka pastan och vänd ner den i såsen. Strö över finhackad basilika.
