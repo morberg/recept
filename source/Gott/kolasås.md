@@ -27,5 +27,5 @@ Häll på grädden och sänk värmen till medellåg.
 Rör runt hela tiden med en slickepott för att trycka ner skummet. Koka tills karamellen
 nått 107°. Häll över i en värmetålig burk (gärna glas).
 
-Karamellen kommer att vara lös från början, men tjocknar när den svalnar. Håller minst en
-månad i en lufttät burk.
+Karamellen kommer att vara lös från början, men tjocknar när den svalnar. Håller minst ett
+par månader i en lufttät burk i kylen.
