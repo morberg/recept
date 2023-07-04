@@ -52,9 +52,11 @@ nav_order: 1
 ## Gott
 
 * [Brownies](Gott/brownies.md)
+* [Brynt smörglass](Gott/brynt-smörglass.md)
 * [Cheesecake](Gott/cheesecake.md)
 * [Chokladmousse](Gott/chokladmousse.md)
 * [Kolasås](Gott/kolasås.md)
+* [Mintchokladglass](Gott/mintchokladglass.md)
 * [Mormors chokladkaka](Gott/mormors-chokladkaka.md)
 * [Snickerskaka](Gott/snickerskaka.md)
 * [Tarte Tatin](Gott/tarte-tatin.md)
