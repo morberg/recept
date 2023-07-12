@@ -24,10 +24,9 @@ parent: Fisk
 ## Srirachamajo
 
 -   1 ägg
--   1 tsk fransk senap
+-   2 tsk sriracha
 -   1/2 pressad lime
 -   1 msk soja
--   1 tsk sriracha
 -   1/2 tsk salt
 -   3 dl olja
 
