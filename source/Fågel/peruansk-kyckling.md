@@ -9,7 +9,6 @@
 ## Sås
 
 -   2 jalapeños
--   1 kruka hackad koriander
 -   1 vitlöksklyfta
 -   3 dl majonnäs
 -   1 dl creme fraiche
@@ -55,4 +54,5 @@ temperaturen är nådd kan du flytta över den till den svalare delen av grillen
 locket igen. Ta bara av locket när du kollar temperaturen, annars riskerar du att bränna
 kycklingen.
 
-Låt kycklingen vila ca. 10 minuter. Servera med såsen, ris och lite kokta sojabönor
+Låt kycklingen vila ca. 10 minuter. Servera med såsen, ris och lite kokta sojabönor.
+Kanske lite färsk koriander också om du gillar det.
