@@ -19,7 +19,7 @@ glykossirap, grädde och mjölk. Koka upp och dra från värmen. Ta upp vaniljst
 
 Vispa äggulor och socker pösigt i en bunke. Häll i hälften av gräddmjölken från kastrullen
 i bunken. Häll tillbaks innehållet i bunken i kastrullen och sjud under konstant vispning
-tills det tjocknar lite. Smeten får inte koka.
+tills det tjocknar lite, upp till 83˚. Smeten får inte koka.
 
 Häll över i en bunke och låt kallna helt i kyl (minst några timmar). Kör i glassmaskin till
 krämig konsistens och frys in.
