@@ -10,10 +10,10 @@
 - vitvinssås (recept finns i såskapitlet)
 - friterad schalottenlök
 
-Sätt ugnen på 225°. Lägg potatisen på en plåt och ringla lite olja över. Rosta i ca. 45
-minuter.
-
 Förbered torsken för sous vide, kör på 52° i mellan 45 minuter och 1 1/2 timme.
+
+Sätt ugnen på 200° (varmluft med undervärme). Lägg potatisen på en plåt och ringla
+lite olja över. Rosta i ca. 25 minuter.
 
 Gör såsen. (Går att förbereda tidigare och värma på inför servering.)
 
