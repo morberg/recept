@@ -55,6 +55,7 @@ nav_order: 1
 * [Brynt smörglass](Gott/brynt-smörglass.md)
 * [Cheesecake](Gott/cheesecake.md)
 * [Chokladmousse](Gott/chokladmousse.md)
+* [Kaffegelato](Gott/kaffegelato.md)
 * [Kolasås](Gott/kolasås.md)
 * [Mintchokladglass](Gott/mintchokladglass.md)
 * [Mormors chokladkaka](Gott/mormors-chokladkaka.md)
