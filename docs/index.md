@@ -60,6 +60,7 @@ nav_order: 1
 * [Mintchokladglass](Gott/mintchokladglass.md)
 * [Mormors chokladkaka](Gott/mormors-chokladkaka.md)
 * [Snickerskaka](Gott/snickerskaka.md)
+* [Sorbet på frukt eller bär](Gott/sorbet.md)
 * [Tarte Tatin](Gott/tarte-tatin.md)
 * [Vaniljglass](Gott/vaniljglass.md)
 * [Yvonnes snabba äpplekaka](Gott/yvonnes-äpplekaka.md)
