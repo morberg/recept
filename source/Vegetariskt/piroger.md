@@ -1,15 +1,16 @@
 # Piroger med fetaost och spenat
+## 12 piroger
 
 ::: columns
 ## Fyllning
 
--   1 gul lök
+-   2 gula lökar
 -   olivolja (till stekning)
--   150 g babyspenat (färsk)
--   6 soltorkade tomater
+-   300 g babyspenat (färsk)
+-   12 soltorkade tomater
 -   salt
 -   svartpeppar
--   150 g fetaost
+-   300 g fetaost
 
 ## Deg
 
@@ -33,7 +34,7 @@ så länge så att blandningen svalnar. Tillsätt då smulad fetaost.
 
 Blanda ihop vetemjöl, bakpulver och salt i en bunke. Lägg i skivor av
 smöret och häll över det kokande vattnet. Rör ihop till en smidig deg.
-Dela degen i 10 delar. Tryck ut rundlar, ca 15 cm i diameter. Degen
+Dela degen i 12 delar. Tryck ut rundlar, ca 15 cm i diameter. Degen
 klibbar inte och är elastisk och fin, så det går enkelt att göra med
 händerna.
 
