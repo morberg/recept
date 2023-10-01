@@ -33,7 +33,7 @@ utan att ta färg så att allt mjuknar, då utvecklas smakerna och framför allt
 Tillsätt linser, krossade tomater, crème fraîche/grädde , vatten, buljongtärning, socker,
 balsamvinäger och lite spiskummin.
 
-Låt det sen puttra med lock på glänt i 25 minuter eller tills du tycker att linserna har
+Låt det sen puttra med lock på glänt i ca. en timme eller tills du tycker att linserna har
 fått bra konsistens.
 
 Smaksätt med torkad oregano eller färsk basilika mot slutet.
