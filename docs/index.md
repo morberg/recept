@@ -69,6 +69,7 @@ nav_order: 1
 ## Kött
 
 * [Biff Barbacoa](Kött/barbacoa.md)
+* [Boef Bourguignon med potatismos](Kött/boef-bourguignon.md)
 * [Creolsk gryta](Kött/creolsk-gryta.md)
 * [Falukorv med blomkålspuré och grönsaker](Kött/falukorv-blomkålspuré.md)
 * [Fläskfilé med krämig polenta](Kött/fläskfilé-med-krämig-polenta.md)
@@ -134,6 +135,7 @@ nav_order: 1
 ## Vegetariskt
 
 * [Frittata med paprika- och olivsallad](Vegetariskt/frittata.md)
+* [Melanzane Parmigiana - auberginegratäng](Vegetariskt/melanzane-parmigiana.md)
 * [Piroger med fetaost och spenat](Vegetariskt/piroger.md)
 * [Vegetarisk ramensoppa](Vegetariskt/ramensoppa.md)
 * [Rotselleririsotto med trattkantareller och brysselkål](Vegetariskt/selleririsotto-med-brysselkål.md)
