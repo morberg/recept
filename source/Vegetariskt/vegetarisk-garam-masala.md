@@ -12,7 +12,6 @@
 ## Garam Masala
 
 - antingen 1 färdig påse *eller*
-
 - 2 tsk malen spiskummin
 - 2 tsk malen koriander
 - 2 tsk malen gurkmeja
