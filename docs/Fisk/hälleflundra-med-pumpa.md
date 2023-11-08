@@ -29,7 +29,7 @@ parent: Fisk
 
 ## Pumpakräm
 
-- 1/2 kg butternutpumpa
+- 1 kg butternutpumpa
 - 1 dl creme fraiche
 - 1 citron
 
@@ -44,7 +44,7 @@ Hyvla pumpan tunt på mandolin. Lägg pumpan i lagen och låt stå.
 
 **Pumpakräm** Skär pumpan i bitar och koka mjuk i ca. 20 minuter. Häll av, men spara lite
 av kokvattnet. Blanda i creme fraiche och mixa med stavmixer. Smaka av med citronsaft och
-salt.
+salt. Spä med kokvattnet om det behövs för konsistensen.
 
 **Ugnsrostade grönsaker** Skala och dela pumpan i bitar. Halvera brysselkålen. Skala
 morötterna och dela i bitar. Lägg på en plåt tillsammans med potatisen och ringla olja
