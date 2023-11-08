@@ -3,7 +3,7 @@
 ## 6 portioner
 ::: columns
 
-- 1,4 kg högrev i bit
+- 1 1/2 kg högrev i bit
 - 200 g rökt sidfläsk
 - 2 schalottenlökar
 - 3 vitlöksklyftor
