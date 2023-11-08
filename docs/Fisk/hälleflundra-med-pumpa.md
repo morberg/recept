@@ -24,8 +24,8 @@ parent: Fisk
 - 1/2 dl 24% ättika
 - 1 1/2 dl socker
 - 3 1/2 dl vatten
-- 1/2 kg butternutpumpa
 - 1 stjärnanis
+- 1/2 kg butternutpumpa
 
 ## Pumpakräm
 
