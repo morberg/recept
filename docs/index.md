@@ -30,6 +30,7 @@ nav_order: 1
 * [Disas musslor](Fisk/disas-musslor.md)
 * [Fiskburgare med cole slaw](Fisk/fiskburgare.md)
 * [Fiskpinnetacos](Fisk/fiskpinnetacos.md)
+* [Hälleflundra med pumpa](Fisk/hälleflundra-med-pumpa.md)
 * [Inkokt lax med romsås och timjanmorötter](Fisk/inkokt-lax.md)
 * [Kallrökt lax med spetskålskräm](Fisk/lax-spetskålskräm.md)
 * [Laxsallad med lime och jordnötter](Fisk/laxsallad-med-lime-och-jordnötter.md)
