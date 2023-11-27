@@ -24,8 +24,8 @@ parent: Referens
 |                           | 68°       | 24--36 h   | Klassisk brisket, pulled pork-liknande konsistens                         |
 | [Oxbringa (svensk)][obs]  | 58°       | 36--48 h   |                                                                           |
 | [Oxfilé][]                | 55°       | 1--4 h     | Medium rare. Linda vill ha 60°.                                           |
-| [Rostbiff][]              | 55°       | 24 h       |                                                                           |
-| Ryggbiff                  | 58°       | 1--4 h     | Grillad. Bra för alla, medium.                                            |
+| [Rostbiff][]              | 56°       | 8--12 h    |                                                                           |
+| Ryggbiff                  | 56°       | 1--4 h     | Grillad. Bra för alla, medium.                                            |
 | Torsk                     | 50°       | 45 min     | Kör inte för länge, max 1,5 timme.                                        |
 | Ägg                       | 63°       | 2 h        |                                                                           |
 | [Ägg med soja][]          | 60°       | 45 min     | Ät med sked. Koka gärna 1--2 min. för att sätta vitan.                    |
