@@ -5,7 +5,6 @@
 -   1/2 finhackad gul lök
 -   1--2 tsk curry
 -   pressad citron
--   salt
 
 Gör så här:
 
