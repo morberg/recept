@@ -7,18 +7,17 @@ parent: Gott
 
 ## 800 g
 
-
-- 75 g   kaffebönor
-- 240 g  grädde
-- 240 g  mjölk
-- 200 g  mjölk
 - 50 g   socker
-- 15 g   glukossirap
-- 15 g   mörk sirap
 - 70 g   torrmjölk
 - 1.5 g  salt
 - 1 g    xanthan (1 krm)
 - 36 g   äggula (2 ägg)
+- 200 g  mjölk
+- 15 g   mörk sirap
+- 15 g   glukossirap
+- 75 g   kaffebönor
+- 240 g  grädde
+- 240 g  mjölk
 - 5 g    sherry (1 tsk)
 
 Sätt sous vide på 77°. Blanda samman alla torra ingredienser (utom kaffet): socker,
