@@ -4,7 +4,7 @@
 
 - 50 g   socker
 - 70 g   torrmjölk
-- 1.5 g  salt
+- 1 1/2 g  salt
 - 1 g    xanthan (1 krm)
 - 36 g   äggula (2 ägg)
 - 200 g  mjölk
