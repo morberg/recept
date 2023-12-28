@@ -58,6 +58,7 @@ nav_order: 1
 * [Chokladmousse](Gott/chokladmousse.md)
 * [Crème brûlée](Gott/crème-brûlée.md)
 * [Kaffegelato](Gott/kaffegelato.md)
+* [Kaffeglass](Gott/kaffeglass.md)
 * [Kolasås](Gott/kolasås.md)
 * [Mintchokladglass](Gott/mintchokladglass.md)
 * [Mormors chokladkaka](Gott/mormors-chokladkaka.md)
