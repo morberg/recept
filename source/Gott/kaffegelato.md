@@ -5,7 +5,7 @@
 - 310 g standardmjölk
 - 110 g vispgrädde
 - 100 g espresso (5 st. mycket stark, liten på vår kaffemaskin)
-- 5 äggulor
+- 90 g äggulor (behövs 5 ägg)
 - 100 g rårörsocker
 - 30 g kokossirap
 - 1 gelatinblad
