@@ -11,7 +11,7 @@ parent: Smått
 - 3 msk (15 g) sichuanpeppar
 - 500 ml rapsolja
 - 4 mellanstora vitlöksklyftor
-- 30 g färsk ingefära, krossad med bredsidan av en kniv
+- 30 g färsk ingefära
 - 1 shalottenlök, grovt hackad
 - 1 kanelstång
 - 3 lagerblad
@@ -26,16 +26,16 @@ parent: Smått
 - 2 msk vita sesamfrön (valfritt)
 
 
-Oljan räcker till många omgångar Dan dan-nudlar. Gör såhär när den är slut. Ingredienserna
-kan variera beroende på vad du har hemma, men typ det som står i receptet funkar bra.
-Klipp den torkade chilin i centimeterstora bitar, släng fröna. Rosta chilin med 1 msk
-sichuanpeppar i en torr wok tills det börjar dofta och bli något mörkt i kanterna, ca. 2
-minuter. Mortla tills det liknar chiliflakes (inte till ett för fint pulver). Ställ åt
-sidan.
+Ingredienserna kan variera beroende på vad du har hemma, men typ det som står i receptet
+funkar bra. Klipp den torkade chilin i centimeterstora bitar, släng fröna. Rosta chilin
+med 1 msk sichuanpeppar i en torr wok tills det börjar dofta och bli något mörkt i
+kanterna, ca. 2 minuter. Mortla tills det liknar chiliflakes (inte till ett för fint
+pulver). Ställ åt sidan.
 
-Blanda resten av sichuanpepparn (2 msk) med övriga ingredienser i en wok. Hett upp på
-medelvärme tills det börjar bubbla lätt. Oljan ska hålla 95°--105°. Koka tills löken är
-gyllenbryn och oljan är aromatisk, ca. 30 minuter.
+Krossa ingefäran med bredsidan av en kniv. Blanda resten av sichuanpepparn (2 msk) med
+övriga ingredienser i en wok. Hetta upp på medelvärme tills det börjar bubbla lätt. Oljan
+ska hålla 95°--105°. Koka tills löken är gyllenbryn och oljan är aromatisk, ca. 30
+minuter.
 
 Sila oljan och släng kryddorna. Du kan spara vitlök och schalottenlök och ha som tillbehör
 till andra rätter.
