@@ -114,6 +114,7 @@ nav_order: 1
 * [Ost- och skinkpaj](Smått/ost-och-skinkpaj.md)
 * [Pannkakor](Smått/pannkakor.md)
 * [Potatisgratäng](Smått/potatisgratäng.md)
+* [Szechaunsk chiliolja](Smått/szechaunsk-chiliolja.md)
 * [Zuccinipaj med pesto](Smått/zuccinipaj-med-pesto.md)
 
 ## Soppa
