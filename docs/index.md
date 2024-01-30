@@ -57,7 +57,6 @@ nav_order: 1
 * [Cheesecake](Gott/cheesecake.md)
 * [Chokladmousse](Gott/chokladmousse.md)
 * [Crème brûlée](Gott/crème-brûlée.md)
-* [Dan dan-nudlar](Gott/dan-dan-nudlar.md)
 * [Kaffegelato](Gott/kaffegelato.md)
 * [Kaffeglass](Gott/kaffeglass.md)
 * [Kolasås](Gott/kolasås.md)
@@ -89,6 +88,7 @@ nav_order: 1
 
 * [Pasta med bakad fetaost och tomater](Pasta/bakad-fetaost.md)
 * [Belugabolognese](Pasta/belugabolognese.md)
+* [Dan dan-nudlar](Pasta/dan-dan-nudlar.md)
 * [Fylld färsk pasta med fetaost, spenat och solrosfrön](Pasta/färsk-pasta-med-fetaost.md)
 * [Kikärtspasta (Pasta Strozzapreti Ceci)](Pasta/kikärtspasta-pasta-strozzapreti-ceci.md)
 * [Lasagne](Pasta/lasagne.md)
