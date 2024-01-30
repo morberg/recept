@@ -11,7 +11,7 @@
 - 1 msk sesamolja
 - 2 msk varmt vatten
 - 2 msk japansk soja
-- 2 msk Chikiang eller balsamvinäger
+- 2 msk Chinkiang eller balsamvinäger
 - 2 tsk socker
 - 1/2--1 dl sichaunsk chiliolja (finns under Smått i receptsamlingen)
 - 1 riven klyfta vitlök
