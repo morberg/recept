@@ -49,12 +49,12 @@ parent: Gott
 - 4--5 tunt skivade vårlökar
 
 
-**Chilioljan** räcker till många omgångar Dan dan-nudlar. Gör såhär när
-den är slut. Ingredienserna kan variera beroende på vad du har hemma, men typ det som står
-i receptet funkar bra. Klipp den torkade chilin i centimeterstora bitar, släng fröna.
-Rosta chilin med 1 msk sichuanpeppar i en torr wok tills det börjar dofta och bli något
-mörkt i kanterna, ca. 2 minuter. Mortla tills det liknar chiliflakes (inte till ett för
-fint pulver). Ställ åt sidan.
+**Chilioljan** räcker till många omgångar Dan dan-nudlar. Gör såhär när den är slut.
+Ingredienserna kan variera beroende på vad du har hemma, men typ det som står i receptet
+funkar bra. Klipp den torkade chilin i centimeterstora bitar, släng fröna. Rosta chilin
+med 1 msk sichuanpeppar i en torr wok tills det börjar dofta och bli något mörkt i
+kanterna, ca. 2 minuter. Mortla tills det liknar chiliflakes (inte till ett för fint
+pulver). Ställ åt sidan.
 
 Blanda resten av sichuanpepparn (2 msk) med övriga ingredienser i en wok. Hett upp på
 medelvärme tills det börjar bubbla lätt. Oljan ska hålla 95°--105°. Koka tills löken är
