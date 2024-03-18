@@ -13,7 +13,7 @@
 - 2 msk japansk soja
 - 2 msk Chinkiang eller balsamvinäger
 - 2 tsk socker
-- 1/2--1 dl sichaunsk chiliolja (finns under Smått i receptsamlingen)
+- 1/2--1 dl Sichuansk chiliolja (finns under Smått i receptsamlingen)
 - 1 riven klyfta vitlök
 
 ### Fläsk
@@ -33,7 +33,7 @@
 
 :::
 
-Rosta sechuanpepparn i en torr wok tills den börjar dofta, ca. en minut. Mortla till ett
+Rosta sichuanpepparn i en torr wok tills den börjar dofta, ca. en minut. Mortla till ett
 fint pulver och ställ åt sidan.
 
 Rör ihop jordnötssmör, sesamolja och vatten till en jämn smet. Blanda i övriga

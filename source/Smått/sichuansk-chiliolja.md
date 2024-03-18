@@ -1,4 +1,4 @@
-# Szechuansk chiliolja
+# Sichuansk chiliolja
 
 ## 6 dl
 ::: columns
