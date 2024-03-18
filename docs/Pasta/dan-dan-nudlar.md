@@ -17,7 +17,7 @@ parent: Pasta
 - 2 msk japansk soja
 - 2 msk Chinkiang eller balsamvinäger
 - 2 tsk socker
-- 1/2--1 dl Sichuansk chiliolja (finns under Smått i receptsamlingen)
+- 1/2--1 dl [Sichuansk chiliolja](#sichuansk-chiliolja) (finns under Smått i receptsamlingen)
 - 1 riven klyfta vitlök
 
 ### Fläsk
