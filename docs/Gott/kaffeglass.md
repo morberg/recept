@@ -9,22 +9,18 @@ parent: Gott
 
 - 50 g   socker
 - 70 g   torrmjölk
-- 1 1/2 g  salt
-- 1 g    xanthan (1 krm)
+- 1 1/2 g  salt (2 krm)
+- 30 g  dextros
+- 1 g    stabilisator (1 krm)
 - 36 g   äggula (2 ägg)
 - 200 g  mjölk
-- 15 g   mörk sirap
-- 15 g   glukossirap
 - 75 g   kaffebönor
 - 240 g  grädde
 - 240 g  mjölk
-- 5 g    sherry (1 tsk)
 
 Sätt sous vide på 77°. Blanda samman alla torra ingredienser (utom kaffet): socker,
-torrmjölk, salt, xanthan. Separera gulorna i en liten skål. Häll den mindre delen mjölk,
-glukossirap och mörk sirap i en mixer. Slå på mixern så att det skapas en virvel. Häll i
-dom torra ingredienserna, kör på max i ca. 30 sekunder så att xanthanet blandas ut
-ordentligt.
+torrmjölk, salt, dextros och stabilisator. Separera gulorna i en liten skål. Häll den
+mindre mängden mjölk i en mixer, kör igång den och häll i dom torra ingredienserna.
 
 Förbered en 3-litersplastpåse genom att ställa den i en hög litersbehållare. Förbered ett
 isbad.
@@ -42,14 +38,11 @@ Sätt en sil över mixern. Klipp av ett hörn på plastpåsen och häll över i 
 
 Tillsätt äggulor och kör mixern.
 
-Tillsätt sherry och kör igen.
-
 Häll över i en ny 3-literspåse, försök tömma ut luft. Kör i sous vide i 45 minuter. Plocka
-upp och kyl i isbad. Låt mogna minst 8 timmar.
+upp och kyl i isbad. Låt mogna minst 8 timmar, gärna över natten.
 
-Kyl ner glassmaskinen och häll i mixen genom att klippa av ett hörn på påsen. Frys in
-glassen. Behöver mjukna 20--30 minuter i kyl innan man äter den, ideal
-serveringstemperatur är 12--14 minusgrader.
+Kyl ner glassmaskinen och häll i mixen genom att klippa av ett hörn på påsen. Frys in som
+vanligt.
 
 Recept hämtat från [underbelly](https://under-belly.org/ice-cream-flavor-coffee/), minskat
 mängden till 800 g och förenklat något.
