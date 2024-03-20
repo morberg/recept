@@ -4,7 +4,7 @@
 
 - 50 g   socker
 - 70 g   torrmjölk
-- 1 1/2 g  salt
+- 1 1/2 g  salt (2 krm)
 - 30 g  dextros
 - 1 g    stabilisator (1 krm)
 - 36 g   äggula (2 ägg)
