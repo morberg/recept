@@ -11,7 +11,7 @@ parent: Pasta
 
 ## Köttfärssås
 
-- efter eget huvud på ca. 500 g färs
+- på 500 g färs, se recept under "Spagetti med köttfärssås"
 
 ## Bechamelsås (kan ersättas med 500g keso)
 
