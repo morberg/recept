@@ -7,6 +7,9 @@ parent: Pasta
 
 ## 4 personer
 
+- 400 g spagetti
+
+## Köttfärssås
 - 1 gul lök
 - 1 morot
 - 1 klyfta vitlök
@@ -18,7 +21,6 @@ parent: Pasta
 - 1 msk fisksås
 - 1 tsk worcestershiresås
 
-- 500 g spagetti
 
 Börja med att hacka löken. Stek på medelvärme i en stekgryta medan du skalar och river
 moroten. I med den i samma gryta. Hacka vitlöken och lägg i. Stek i 5--10 minuter så att
@@ -30,14 +32,12 @@ worcestershiresås.
 
 Låt puttra länge (gärna ett par timmar, men minst 20 minuter) på svag värme.
 
-Smaka av med soja, fisksås, worcestershiresås, salt och peppar. Servera med kokt spagetti.
+Smaka av med soja, worcestershiresås, salt och peppar. Servera med kokt spagetti.
 
-**Varianter**
-
-Här är några saker man också kan testa att ha i sin köttfärssås:
+## Varianter och tips
 
 - körsbärstomater kan bytas ut mot krossade eller passerade tomater
-- gör gärna dubbel sats (går bra att blanda tomater)
+- gör gärna dubbel sats (gärna med blandade tomater, en burk körsbärstomater och en passerade)
 - 1 msk gochujang (kan användas i många recept som har tomatpuré om man vill ha en
   kryddigare variant)
 - 1 stjälk selleri eller lite hackad rotselleri (ska egentligen finnas i klassisk
@@ -47,4 +47,3 @@ Här är några saker man också kan testa att ha i sin köttfärssås:
 - 1 msk flytande fond
 - 3--4 finhackade sardeller
 - 1 lagerblad
-- andra sorters pasta
