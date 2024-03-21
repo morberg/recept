@@ -100,6 +100,7 @@ nav_order: 1
 * [Rostad blomkålscarbonara](Pasta/rostad-blomkålscarbonara.md)
 * [Salsicciapasta med mozzarella](Pasta/salsicciapasta.md)
 * [Spagetti med fetaostbollar och tomatsås](Pasta/spagetti-fetaostbollar.md)
+* [Spagetti med köttfärssås](Pasta/spagetti-med-köttfärssås.md)
 
 ## Smått
 
