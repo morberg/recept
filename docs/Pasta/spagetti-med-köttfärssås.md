@@ -44,6 +44,7 @@ Smaka av med soja, worcestershiresås, salt och peppar. Servera med kokt spagett
   bolognese, men man har det sällan hemma och inte lönt att köpa bara för en stjälk - så
   stor skillnad gör det inte)
 - häll i 1 dl vitt vin och låt koka bort innan man lägger i tomaterna
+- tillsätt bacon eller pancetta (typ 100 gram)
 - 1 msk flytande fond
 - 3--4 finhackade sardeller
 - 1 lagerblad
