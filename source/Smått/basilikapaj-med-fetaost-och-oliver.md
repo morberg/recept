@@ -3,23 +3,23 @@
 ::: {.columns}
 ## Pajdeg
 
--   4 dl vetemjöl
--   150 g smör
+-   3 dl vetemjöl
+-   100 g smör
 -   1/2 kruka basilika
 -   1 dl färsk riven parmesanost
 -   1/2 dl vatten
 
 ## Fyllning
 
--   5 tomater
+-   3 tomater
 -   1/2 kruka basilika
 -   150 g fetaost
 -   1 burk svarta oliver
 
 ## Äggstanning
 
--   4 ägg
--   4 dl mjölk
+-   3 ägg
+-   3 dl mjölk
 -   1 tsk salt
 -   2 krm svartpeppar
 -   1--2 vitlöksklyftor
