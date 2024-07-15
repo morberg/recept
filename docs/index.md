@@ -116,6 +116,7 @@ nav_order: 1
 * [Pannkakor](Smått/pannkakor.md)
 * [Potatisgratäng](Smått/potatisgratäng.md)
 * [Sichuansk chiliolja](Smått/sichuansk-chiliolja.md)
+* [Potatistortilla](Smått/tortilla.md)
 * [Zuccinipaj med pesto](Smått/zuccinipaj-med-pesto.md)
 
 ## Soppa
