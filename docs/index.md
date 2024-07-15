@@ -151,6 +151,7 @@ nav_order: 1
 
 ## Referens
 
+* [Enklare mattips](Referens/enkelt.md)
 * [Ris](Referens/ris.md)
 * [Sous vide](Referens/sous-vide.md)
 
