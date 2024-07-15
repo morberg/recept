@@ -8,7 +8,7 @@
 - 1 tsk salt (minst) och svartpeppar ur kvarn
 - 7 ägg
 
-Skala potatisen och skär den i 1⁄2 cm tjocka skivor.
+Skala potatisen och skär den i ca. 3 mm tjocka skivor.
 
 Värm olivoljan i en stor stekpanna. Lägg i potatis och lök och sautera dem i 10–15
 minuter. Salta och peppra. Smaka av, salta förmodligen mer (upp mot 1 msk kan behövas).
