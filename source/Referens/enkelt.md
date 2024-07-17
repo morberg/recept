@@ -7,13 +7,13 @@ Tips till några snabbare saker som inte riktigt behöver recept.
 - Köttbullar och makaroner / potatismos
 - Korv med bröd / potatissallad
 - Falukorv med potatismos / stuvade makaroner
-- Bacon / prinskorv / rökt lax och äggröra
+- Äggröra med bacon / prinskorv / rökt lax
 - Pytt i panna
-- Lax med örtsås / sojamajo, sojabönor och ris
+- Lax med sojabönor, ris och örtsås / sojamajo
 - Fiskpinnar med spenat och kokt ägg / kokt potatis, ärtor och remoulad
 - Sill, potatis och ägg
 - Risotto med stekt kyckling
-- Färdiggrillad kyckling eller revben med potatissallad / ugnspotatis
+- Färdiggrillad kyckling / revben med potatissallad / ugnspotatis
 - Kycklingkebab / falafel, tomat, sallad, rödlök, libabröd, vitlöksdressing
 - Omelett med grönsallad
 - Grekisk sallad med fetaost och oliver
@@ -29,13 +29,14 @@ Tips till några snabbare saker som inte riktigt behöver recept.
 ## Mackor
 
 - Varma mackor
-- BLT: Bacon, sallad tomat. Majonnäsen är viktig! Stek gärna brödet.
-- Räkmacka
-- Stekt eller kokt ägg
+- BLT: Bacon, sallad, tomat. Majonnäsen är viktig! Stek gärna brödet.
+- Räkor, kokt ägg, citron
+- Stekt ägg med ketchup / krispig chiliolja
+- Kokt ägg med kaviar
 - Köttbullar, rödbetssallad och rostad lök
 - Gravad lax, philadelphiaost, gurka, ruccola
-- Rostbiff m. remoulad och rostad lök
-- Avokadotoast med pocherat ägg
+- Rostbiff med remoulad och rostad lök
+- Avokadotoast med pocherat ägg och krasse
 - Wrap med kyckling och hummus
 - Bagel med färskost och rökt lax
-- Sardiner på rostat bröd med citron och svartpeppar
+- Sardiner på rostat bröd med pressad citron och svartpeppar
