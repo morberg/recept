@@ -22,7 +22,9 @@ pdf/receptsamling.pdf: pdf/receptsamling.md tools/*
 	$(LATEX_FLAGS) \
 	-o pdf/receptsamling.pdf
 
-tex: pdf/receptsamling.md tools/format.tex
+tex: pdf/receptsamling.tex 
+
+pdf/receptsamling.tex: pdf/receptsamling.md tools/format.tex
 	pandoc pdf/receptsamling.md \
 	$(LUA_FLAGS) \
 	$(LATEX_FLAGS) \
