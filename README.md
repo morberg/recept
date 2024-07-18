@@ -6,6 +6,7 @@ Checka ut en lokal kopia med:
 
     git clone https://github.com/morberg/recept.git
 
+
 ## Ingredienslista
 
 Listan med ingredienser har ofta ganska korta rader. Det gör att sidlayouten kan bli lite
@@ -28,9 +29,8 @@ att generera docs-katalogen lokalt kör du `make jekyll`.
 
 ## Utskriftsversion
 
-Installera xelatex och vänner på din maskin med `brew cask install basiclatex`. Du behöver
-också `brew install pandoc`.
+Installera xelatex och vänner på din maskin med t.ex. `brew install basictex`. Du behöver
+också `brew install pandoc`. Senast testat med pandoc 3.2.1 och TeX Live 2024.
 
-Sen är det bara att köra `make pdf` för att generera `receptsamling.pdf` som passar bra
-för utskrift. Ibland klagar pandoc på en saknad glyf i typsnitten, kör `make clean` och
-sedan `make pdf` så löser det sig.
+Sen är det bara att köra `make pdf` för att generera `pdf/receptsamling.pdf` som passar
+bra för utskrift.
