@@ -212,8 +212,8 @@ nav_order: 1
 
 
 @app.command()
-def print_pandoc_index():
-    """Generate pandoc markdown file from source/ dir.
+def single_markdown():
+    """Generate one markdown file from all files in `source/` dir.
 
     Use as starting point for pandoc to generate a PDF.
     """

@@ -35,7 +35,7 @@ index.md: source/*/*.md tools/create-index.py
 	python tools/create-index.py print-index > docs/index.md
 
 pdf/receptsamling.md: source/*/*.md tools/create-index.py
-	python tools/create-index.py print-pandoc-index > pdf/receptsamling.md
+	python tools/create-index.py single-markdown > pdf/receptsamling.md
 
 
 .PHONY: clean
