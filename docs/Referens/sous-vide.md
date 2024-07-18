@@ -7,8 +7,8 @@ parent: Referens
 
 <!-- Spara filen med CMD+K S för att undvika automatformattering. Justera kolumnbrytningar genom antalet minustecken under rubrikerna. -->
 
-| **råvara**           | **temp.** | **tid**        | **kommentar**                               |
-| -------------------- | --------- | -------------- | ------------------------------------------- |
+| **råvara**           | **temp.** | **tid**          | **kommentar**                             |
+| -------------------- | --------- | ---------------- | ----------------------------------------- |
 | Entrecôte                 | 58°       | 1--4 h     | Medium well, behöver smälta ut fettet                                     |
 | [Fläsk][]                 | 60°       | 1--4 h     | Filé, ytterfilé och kotlett                                               |
 | Fransyska                 | 58°       | 24 h       | Grillad hel. Bra konsistens, men lite för färdig                          |
