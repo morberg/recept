@@ -22,9 +22,6 @@ toc-title: Innehåll
 header-includes:
 - \usepackage{xfrac}
 ---"""
-PANDOC_PRE_FILE_PATH = "``` {.include shift-heading-level-by=1}"
-PANDOC_POST_FILE_PATH = r"""```
-\clearpage"""
 
 
 class Directory(NamedTuple):
@@ -91,9 +88,13 @@ def print_pandoc_categories(dirs: List[Directory]):
         print(f"# {category}")
         for file in sorted(dir.files):
             file_path = dir.name + "/" + file
-            print(PANDOC_PRE_FILE_PATH)
-            print(file_path)
-            print(PANDOC_POST_FILE_PATH)
+            lines = open(file_path).readlines()
+            for line in lines:
+                # Indent all headers one step
+                if line[0] == "#":
+                    print("#", end="")
+                print(line, end="")
+            print("\n\\clearpage\n")
 
 
 def append_skip_colons(in_file: str, out_file: str):

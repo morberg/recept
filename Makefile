@@ -1,5 +1,4 @@
-LUA_FLAGS = --lua-filter=tools/include-files.lua \
-	--lua-filter=tools/xfrac.lua \
+LUA_FLAGS = --lua-filter=tools/xfrac.lua \
 	--lua-filter=tools/columns.lua \
 	--toc --toc-depth=2
 
@@ -28,7 +27,6 @@ tex: pdf/receptsamling.md tools/format.tex
 	$(LUA_FLAGS) \
 	$(LATEX_FLAGS) \
 	-o pdf/receptsamling.tex
-
 
 index.md: source/*/*.md tools/create-index.py
 	mkdir -p docs
