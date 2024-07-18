@@ -15,13 +15,15 @@ jekyll: source/*/*.md source/* index.md
 	cp source/*.png docs/
 	cp source/favicon.ico docs/
 
-pdf: pdf/receptsamling.md tools/format.tex
+pdf: pdf/receptsamling.pdf
+
+pdf/receptsamling.pdf: pdf/receptsamling.md tools/*
 	pandoc pdf/receptsamling.md \
 	$(LUA_FLAGS) \
 	$(LATEX_FLAGS) \
 	-o pdf/receptsamling.pdf
 
-receptsamling.tex: pdf/receptsamling.md tools/format.tex
+tex: pdf/receptsamling.md tools/format.tex
 	pandoc pdf/receptsamling.md \
 	$(LUA_FLAGS) \
 	$(LATEX_FLAGS) \
@@ -39,5 +41,4 @@ pdf/receptsamling.md: source/*/*.md tools/create-index.py
 .PHONY: clean
 clean:
 	rm -f pdf/*
-	rm -f receptsamling.md
 	rm -rf docs
