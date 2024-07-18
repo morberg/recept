@@ -7,6 +7,7 @@ parent: Referens
 
 Tips till några snabbare saker som inte riktigt behöver recept.
 
+
 - Hamburgare
 - Tacos / nachos
 - Köttbullar och makaroner / potatismos
@@ -31,7 +32,9 @@ Tips till några snabbare saker som inte riktigt behöver recept.
 - Färsk fylld pasta
 - Dumplings
 
+
 ## Mackor
+
 
 - Varma mackor
 - BLT: Bacon, sallad, tomat. Majonnäsen är viktig! Stek gärna brödet.
@@ -45,3 +48,4 @@ Tips till några snabbare saker som inte riktigt behöver recept.
 - Wrap med kyckling och hummus
 - Bagel med färskost och rökt lax
 - Sardiner på rostat bröd med pressad citron och svartpeppar
+
