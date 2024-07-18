@@ -141,7 +141,7 @@ def create_folders(dirs: List[Directory]):
     dir_names = [dir.name.replace("source/", "docs/") for dir in dirs]
     for sort_order, dir_name in enumerate(dir_names):
         try:
-            os.mkdir(dir_name)
+            os.makedirs(dir_name)
         except FileExistsError:
             pass
         create_index_file(dir_name, sort_order)
