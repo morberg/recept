@@ -11,7 +11,7 @@ parent: Bakat
 -   160 g (60 g) grovt rågmjöl
 -   700 g (540 g) vetemjöl special
 
-Ger två runda bröd. Använd måtten inom parantes för ett lite större bröd.
+Ger två runda bröd. Använd måtten inom parentes för ett lite större bröd.
 På kvällen dagen innan:
 
 1.  Blanda ut jäst eller surdeg i vattnet och tillsätt salt.
