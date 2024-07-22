@@ -16,7 +16,7 @@
 - 1 citron
 - 1 kruka basilika
 - 1 liten påse babyspenat
-- parmaskinka
+- ev. några skivor parmaskinka
 
 :::
 
