@@ -20,7 +20,7 @@ parent: Pasta
 - 1 citron
 - 1 kruka basilika
 - 1 liten påse babyspenat
-- parmaskinka
+- ev. några skivor parmaskinka
 
 
 Finhacka lök och vitlök, stek i rejält med olivolja i en kastrull. I med tomatpuré och
