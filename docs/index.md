@@ -101,6 +101,7 @@ nav_order: 1
 * [Salsicciapasta med mozzarella](Pasta/salsicciapasta.md)
 * [Spagetti med fetaostbollar och tomatsås](Pasta/spagetti-fetaostbollar.md)
 * [Spagetti med köttfärssås](Pasta/spagetti-med-köttfärssås.md)
+* [Krämig tomat- och citronpasta](Pasta/tomat-och-citronpasta.md)
 
 ## Smått
 
