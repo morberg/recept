@@ -1,5 +1,10 @@
-#!/usr/bin/env python3
-# %%
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "typer",
+# ]
+# ///
+
 from __future__ import annotations
 
 import os
@@ -234,3 +239,4 @@ def create_docs():
 # %%
 if __name__ == "__main__":
     app()
+

@@ -15,6 +15,13 @@ konstig. Därför visar vi gärna ingredienslistan i två kolumner. Ange
 avsnittet med `:::`. Formatet är [pandoc
 markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).
 
+## Beroenden
+
+Installera xelatex och vänner på din maskin med t.ex. `brew install basictex`. Du behöver
+också `brew install pandoc`. Senast testat med pandoc 3.2.1 och TeX Live 2024.
+
+Slutligen behövs `brew install uv` för att köra python-koden som finns i `tools`.
+
 ## Webbversion
 
 Om man i "Settings" för github-projektet slår på GitHub Pages kan recepten under katalogen
@@ -29,9 +36,6 @@ Vill du generera `index.md` på din lokala maskin gör du det med `make index.md
 att generera docs-katalogen lokalt kör du `make jekyll`.
 
 ## Utskriftsversion
-
-Installera xelatex och vänner på din maskin med t.ex. `brew install basictex`. Du behöver
-också `brew install pandoc`. Senast testat med pandoc 3.2.1 och TeX Live 2024.
 
 Sen är det bara att köra `make pdf` för att generera `pdf/receptsamling.pdf` som passar
 bra för utskrift.

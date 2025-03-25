@@ -9,7 +9,7 @@ LATEX_FLAGS = --template=tools/recipe-template.tex \
 all: jekyll pdf
 
 jekyll: source/*/*.md source/* index.md
-	python tools/create-index.py create-docs
+	uv run tools/create-index.py create-docs
 	cp source/_config.yml docs/
 	cp source/*.png docs/
 	cp source/favicon.ico docs/
@@ -32,10 +32,10 @@ pdf/receptsamling.tex: pdf/receptsamling.md tools/format.tex
 
 index.md: source/*/*.md tools/create-index.py
 	mkdir -p docs
-	python tools/create-index.py print-index > docs/index.md
+	uv run tools/create-index.py print-index > docs/index.md
 
 pdf/receptsamling.md: source/*/*.md tools/create-index.py
-	python tools/create-index.py single-markdown > pdf/receptsamling.md
+	uv run tools/create-index.py single-markdown > pdf/receptsamling.md
 
 
 .PHONY: clean
