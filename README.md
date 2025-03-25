@@ -1,11 +1,11 @@
 # Recept
+
 Enkel receptsamling i markdown-format. Alla recept ligger under katalogen `source`. Varje
 underkatalog är en egen kategori. Varje fil i en katalog är ett recept.
 
 Checka ut en lokal kopia med:
 
     git clone https://github.com/morberg/recept.git
-
 
 ## Ingredienslista
 
@@ -16,9 +16,10 @@ avsnittet med `:::`. Formatet är [pandoc
 markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).
 
 ## Webbversion
+
 Om man i "Settings" för github-projektet slår på GitHub Pages kan recepten under katalogen
 `docs` automatiskt publiceras. Det är påslaget för detta repository och du hittar
-resultatet på https://morberg.github.io/recept/ .
+resultatet på <https://morberg.github.io/recept/> .
 
 Filen `index.md` behöver genereras för att få en innehållsförteckning. Detta sker
 automatiskt med github actions när du checkar in till github. Även katalogen `docs`, som
