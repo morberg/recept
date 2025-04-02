@@ -18,6 +18,7 @@ nav_order: 1
 * [Lussebullar](Bakat/lussebullar.md)
 * [Pestosnurror](Bakat/pestosnurror.md)
 * [Pizza](Bakat/pizza.md)
+* [Surdegsbröd](Bakat/surdegsbröd.md)
 * [Tekakor med rivna morötter](Bakat/tekakor-med-rivna-morötter.md)
 * [Världens bästa bröd](Bakat/världens-bästa-bröd.md)
 
@@ -72,6 +73,7 @@ nav_order: 1
 
 * [Biff Barbacoa](Kött/barbacoa.md)
 * [Boef Bourguignon med potatismos](Kött/boef-bourguignon.md)
+* [Bulgogi i salladsblad](Kött/bulgogi.md)
 * [Creolsk gryta](Kött/creolsk-gryta.md)
 * [Falukorv med blomkålspuré och grönsaker](Kött/falukorv-blomkålspuré.md)
 * [Fläskfilé med krämig polenta](Kött/fläskfilé-med-krämig-polenta.md)

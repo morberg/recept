@@ -9,26 +9,27 @@ parent: Kött
 
 
 ## Rostade chilifrukter i buljong
--   1 torkad ancho chili
--   1 torkad poblano chili
--   5 dl kycklingbuljong
+
+- 1 torkad ancho chili
+- 1 torkad poblano chili
+- 5 dl kycklingbuljong
 
 ## Kött
 
--   1 1/2--2 kg helt nötkött, t.ex. högrev
+- 1 1/2--2 kg helt nötkött, t.ex. högrev
 
 ## Sås
 
--   1 finhackad lök
--   6 hackade vitlöksklyftor
--   2 tsk mald spiskummin
--   1/2 tsk mald kryddnejlika
--   2 tsk torkad oregano
--   2 chipotle chili i adobo-sås + 2 msk sås
--   1/2 dl äppelcidervinäger
--   5 dl kycklingbuljong
--   2 tsk fisksås
--   2 lagerblad
+- 1 finhackad lök
+- 6 hackade vitlöksklyftor
+- 2 tsk mald spiskummin
+- 1/2 tsk mald kryddnejlika
+- 2 tsk torkad oregano
+- 2 chipotle chili i adobo-sås + 2 msk sås
+- 1/2 dl äppelcidervinäger
+- 5 dl kycklingbuljong
+- 2 tsk fisksås
+- 2 lagerblad
 
 
 Sätt ugnen på 125°.
