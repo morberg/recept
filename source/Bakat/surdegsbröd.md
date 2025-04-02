@@ -7,9 +7,13 @@
 | Salt         | 10 g   | 20 g   |
 | Vetemjöl     | 500 g  | 1000 g |
 
+Använd mjöl med hög proteinhalt, t.ex. Manitoba Cream eller vetemjöl special. Du
+kan också experimentera med att byta ut en del av vetemjölet mot annat mjöl.
+
 **På kvällen dagen innan** tar du ut surdegen ur kylen och matar den med ca. 1
 dl vetemjöl, 1 dl rågsikt och 1 dl vatten. Blanda runt och låt stå i ca. 4--5
-timmar tills surdegen dubblat i storlek.
+timmar tills surdegen dubblat i storlek. Genom att använda varmt vatten kan du
+minska tiden som behövs för surdegen att komma till liv.
 
 Ställ en bunke på en våg. Mät upp vatten, rör i surdeg och salt. Om surdegen
 inte har full kraft kan du smula i lite jäst, typ som en ärta. Blanda runt tills
