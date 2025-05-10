@@ -145,6 +145,7 @@ nav_order: 1
 ## Vegetariskt
 
 * [Frittata med paprika- och olivsallad](Vegetariskt/frittata.md)
+* [Halloumiburgare med avokado](Vegetariskt/halloumiburgare.md)
 * [Melanzane Parmigiana - auberginegratäng](Vegetariskt/melanzane-parmigiana.md)
 * [Piroger med fetaost och spenat](Vegetariskt/piroger.md)
 * [Vegetarisk ramensoppa](Vegetariskt/ramensoppa.md)
