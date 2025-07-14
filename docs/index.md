@@ -82,6 +82,7 @@ nav_order: 1
 * [Grova öländska kroppkakor](Kött/kroppkakor.md)
 * [Lammstek med svartrots- och potatisgratäng](Kött/lammstek-med-svartrotsgratäng.md)
 * [Larb](Kött/larb.md)
+* [Långkokt högrev med tillbehör](Kött/långkokt-högrev.md)
 * [Revbensspjäll med cole slaw](Kött/revbensspjäll.md)
 * [Salami- och pestofyllda rullader](Kött/salami-och-pestofyllda-rullader.md)
 * [Sloppy Joe med guacamole och picklad rödlök](Kött/sloppy-joe.md)
