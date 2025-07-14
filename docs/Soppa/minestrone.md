@@ -32,4 +32,4 @@ Lägg i purjolök, selleri och morot och stek någon minut till. Häll på det k
 fond, vitlök och chiliflakes. Låt koka i fem minuter.
 
 Lägg i pastan och låt allt bli varmt. Lägg soppn i skålar, lägg på äggula, riv över
-parmesan och toppa med basilika. Servera gärna med [pestosnurror](../Bakat/pestosnurror.html).
+parmesan och toppa med basilika. Servera gärna med [pestosnurror](../Bakat/pestosnurror).

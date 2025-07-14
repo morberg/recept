@@ -8,6 +8,7 @@
 from __future__ import annotations
 
 import os
+import re
 from typing import List, NamedTuple
 
 import typer
@@ -84,11 +85,25 @@ def print_categories(dirs: List[Directory]):
         print()
 
 
-def print_pandoc_categories(dirs: List[Directory]):
-    """Generate pandoc markdown file.
+def get_heading_id(title: str) -> str:
+    """Generate Pandoc heading ID from title."""
+    # Lowercase, replace spaces with '-', remove non-alphanum except '-'
+    id = re.sub(r"[^\w\- ]", "", title.lower())
+    id = id.replace(" ", "-")
+    return id
 
-    Used as starting point for pandoc to generate a PDF.
-    """
+
+def print_pandoc_categories(dirs: List[Directory]):
+    """Generate pandoc markdown file with internal links."""
+    title_to_id = {}
+    # Build a mapping from file path to heading ID
+    for dir in dirs:
+        for file in dir.files:
+            file_path = dir.name + "/" + file
+            title = get_title(file_path)
+            heading_id = get_heading_id(title)
+            title_to_id[file] = heading_id
+
     for dir in dirs:
         category = dir.name.removeprefix("source/")
         print(f"# {category}")
@@ -96,8 +111,14 @@ def print_pandoc_categories(dirs: List[Directory]):
             file_path = dir.name + "/" + file
             lines = open(file_path).readlines()
             for line in lines:
+                # Replace links to other recipes with anchor links
+                line = re.sub(
+                    r"\]\(\.\./[^/]+/([^)]+)\)",
+                    lambda m: f"](#{title_to_id.get(m.group(1), m.group(1).replace('.md', ''))})",
+                    line,
+                )
                 # Indent all headers one step
-                if line[0] == "#":
+                if line.startswith("#"):
                     print("#", end="")
                 print(line, end="")
             print("\n\\clearpage\n")
@@ -239,4 +260,3 @@ def create_docs():
 # %%
 if __name__ == "__main__":
     app()
-

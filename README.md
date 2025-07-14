@@ -15,6 +15,12 @@ konstig. Därför visar vi gärna ingredienslistan i två kolumner. Ange
 avsnittet med `:::`. Formatet är [pandoc
 markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).
 
+## Länkar mellan recept
+
+Det går bra att länka mellan recept, kommer att fungera både i webb-versionen
+och i PDF:en. Använd relativa länkar till den markdown-fil som har receptet och
+ha inte med någon filändelse (t.ex. `[länktext](../Smått/sichuansk-chiliolja)).
+
 ## Beroenden
 
 Installera xelatex och vänner på din maskin med t.ex. `brew install basictex`. Du behöver

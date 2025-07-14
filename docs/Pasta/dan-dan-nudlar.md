@@ -17,7 +17,7 @@ parent: Pasta
 - 2 msk japansk soja
 - 2 msk chinkiang- eller balsamvinäger
 - 2 tsk socker
-- 1/2--1 dl sichuansk chiliolja (finns under Smått i receptsamlingen)
+- 1/2--1 dl [sichuansk chiliolja](../Smått/sichuansk-chiliolja)
 - 1 riven klyfta vitlök
 
 ### Fläsk
@@ -25,7 +25,6 @@ parent: Pasta
 - 200 g fläskfärs
 - 1 msk Shaoxingvin (eller sherry)
 - 1 msk japansk soja
-
 
 ### Till servering
 
