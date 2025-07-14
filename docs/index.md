@@ -138,6 +138,7 @@ nav_order: 1
 * [Cajundressing](Sås/cajundressing.md)
 * [Currysås](Sås/currysås.md)
 * [Pepparrotsdip](Sås/pepparrotsdip.md)
+* [Rabarberchutney](Sås/rabarberchutney.md)
 * [Romescosås](Sås/romescosås.md)
 * [Magisk Tahinisås](Sås/tahinisås.md)
 * [Vitvinssås](Sås/vitvinssås.md)
