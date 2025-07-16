@@ -47,29 +47,24 @@ def get_title(file_name: str) -> str:
         return title
 
 
-def get_dirs() -> List[Directory]:
+def get_dirs(root="source/") -> List[Directory]:
     """Returns a sorted list of tuples with directories and
     their file names from source/ directory.
 
     Directories containing '.git' and current dir will be excluded.
-
-    The directories will be sorted alphabetically with the exception
-    of "Referens" which will be last.
+    'Referens' will be last in list.
     """
-    dirs = [
-        Directory(dir_name, files)
-        for dir_name, _, files in os.walk("source/")
-        if ".git" not in dir_name  # exclude *.git* directories
-        if dir_name != "source/"  # exclude root dir
-        if dir_name != "source/Referens"
-    ]
+    dirs = []
+    referens = None
+    for dir_name, _, files in os.walk(root):
+        if ".git" in dir_name or dir_name == root:
+            continue
+        if dir_name == os.path.join(root, "Referens"):
+            referens = Directory(dir_name, files)
+        else:
+            dirs.append(Directory(dir_name, files))
     dirs.sort()
-    referens = [
-        Directory(dir_name, files)
-        for dir_name, _, files in os.walk("source/")
-        if dir_name == "source/Referens"
-    ]
-    return dirs + referens
+    return dirs + ([referens] if referens else [])
 
 
 def print_categories(dirs: List[Directory]):
@@ -78,7 +73,7 @@ def print_categories(dirs: List[Directory]):
         category = dir.name.removeprefix("source/")
         print(f"## {category}\n")
         for file in sorted(dir.files):
-            file_path = dir.name + "/" + file
+            file_path = os.path.join(dir.name, file)
             title = get_title(file_path)
             url = file_path.removeprefix("source/")
             print(f"* [{title}]({url})")
@@ -99,7 +94,7 @@ def print_pandoc_categories(dirs: List[Directory]):
     # Build a mapping from file path to heading ID
     for dir in dirs:
         for file in dir.files:
-            file_path = dir.name + "/" + file
+            file_path = os.path.join(dir.name, file)
             title = get_title(file_path)
             heading_id = get_heading_id(title)
             title_to_id[file] = heading_id
@@ -108,7 +103,7 @@ def print_pandoc_categories(dirs: List[Directory]):
         category = dir.name.removeprefix("source/")
         print(f"# {category}")
         for file in sorted(dir.files):
-            file_path = dir.name + "/" + file
+            file_path = os.path.join(dir.name, file)
             lines = open(file_path).readlines()
             for line in lines:
                 # Replace links to other recipes with anchor links
@@ -132,7 +127,7 @@ def append_skip_colons(in_file: str, out_file: str):
                 output.write(line)
 
 
-def create_index_file(dir_name: str, sort_order: int):
+def create_index_file(dir_name: str, sort_order: int, file_name: str = "index.md"):
     """Create index.md in dir_name with YAML header
 
     Example:
@@ -155,7 +150,7 @@ nav_order: {sort_order + 2}
 
 # {title}
 """
-    filename = dir_name + "/index.md"
+    filename = os.path.join(dir_name, file_name)
     with open(filename, "w") as f:
         f.write(header)
 
@@ -210,8 +205,8 @@ def create_jekyll_files(input_dirs: List[Directory]):
     for input_dir in input_dirs:
         for file in input_dir.files:
             output_dir = input_dir.name.replace("source/", "docs/")
-            output_file = output_dir + "/" + file
-            input_file = input_dir.name + "/" + file
+            output_file = os.path.join(output_dir, file)
+            input_file = os.path.join(input_dir.name, file)
             header = jekyll_file_header(input_file)
             create_file(output_file, header)
             append_skip_colons(input_file, output_file)
