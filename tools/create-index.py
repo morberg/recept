@@ -90,14 +90,12 @@ def get_heading_id(title: str) -> str:
 
 def print_pandoc_categories(dirs: List[Directory]):
     """Generate pandoc markdown file with internal links."""
-    title_to_id = {}
     # Build a mapping from file path to heading ID
-    for dir in dirs:
-        for file in dir.files:
-            file_path = os.path.join(dir.name, file)
-            title = get_title(file_path)
-            heading_id = get_heading_id(title)
-            title_to_id[file] = heading_id
+    title_to_id = {
+        file: get_heading_id(get_title(os.path.join(dir.name, file)))
+        for dir in dirs
+        for file in dir.files
+    }
 
     for dir in dirs:
         category = dir.name.removeprefix("source/")
