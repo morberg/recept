@@ -80,19 +80,29 @@ def print_categories(dirs: List[Directory]):
         print()
 
 
-def get_heading_id(title: str) -> str:
-    """Generate Pandoc heading ID from title."""
-    # Lowercase, replace spaces with '-', remove non-alphanum except '-'
-    id = re.sub(r"[^\w\- ]", "", title.lower())
-    id = id.replace(" ", "-")
-    return id
-
-
 def print_pandoc_categories(dirs: List[Directory]):
     """Generate pandoc markdown file with internal links."""
-    # Build a mapping from file path to heading ID
-    title_to_id = {
-        file: get_heading_id(get_title(os.path.join(dir.name, file)))
+
+    def convert_to_anchor_link(filename_to_id, line):
+        """Replace relative markdown links to other recipes with anchor
+        links."""
+        # Matches e.g. ](../any_folder_name/some-file) and changes them into: ](#some-id)
+        return re.sub(
+            r"\]\(\.\./[^/]+/([^)]+)\)",
+            lambda m: f"](#{filename_to_id[m.group(1)]})",
+            line,
+        )
+
+    def get_heading_id(title: str) -> str:
+        """Generate Pandoc heading ID from title."""
+        # Lowercase, replace spaces with '-', remove non-alphanum except '-'
+        id = re.sub(r"[^\w\- ]", "", title.lower())
+        id = id.replace(" ", "-")
+        return id
+
+    # Build a mapping from file name (without .md extension) to heading ID
+    filename_to_id = {
+        file.replace(".md", ""): get_heading_id(get_title(os.path.join(dir.name, file)))
         for dir in dirs
         for file in dir.files
     }
@@ -102,19 +112,14 @@ def print_pandoc_categories(dirs: List[Directory]):
         print(f"# {category}")
         for file in sorted(dir.files):
             file_path = os.path.join(dir.name, file)
-            lines = open(file_path).readlines()
-            for line in lines:
-                # Replace links to other recipes with anchor links
-                line = re.sub(
-                    r"\]\(\.\./[^/]+/([^)]+)\)",
-                    lambda m: f"](#{title_to_id.get(m.group(1), m.group(1).replace('.md', ''))})",
-                    line,
-                )
-                # Indent all headers one step
-                if line.startswith("#"):
-                    print("#", end="")
-                print(line, end="")
-            print("\n\\clearpage\n")
+            with open(file_path) as f:
+                for line in f:
+                    line = convert_to_anchor_link(filename_to_id, line)
+                    # Indent all headings one step
+                    if line.startswith("#"):
+                        print("#", end="")
+                    print(line, end="")
+                print("\n\\clearpage\n")
 
 
 def append_skip_colons(in_file: str, out_file: str):
