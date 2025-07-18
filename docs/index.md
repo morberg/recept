@@ -148,6 +148,7 @@ nav_order: 1
 
 * [Frittata med paprika- och olivsallad](Vegetariskt/frittata.md)
 * [Halloumiburgare med avokado](Vegetariskt/halloumiburgare.md)
+* [Koreansk tofu](Vegetariskt/koreansk-tofu.md)
 * [Melanzane Parmigiana - auberginegratäng](Vegetariskt/melanzane-parmigiana.md)
 * [Piroger med fetaost och spenat](Vegetariskt/piroger.md)
 * [Vegetarisk ramensoppa](Vegetariskt/ramensoppa.md)
