@@ -18,7 +18,7 @@
 - 1 msk sesamolja
 - 4 tsk socker
 - 1 1/2 msk ingefära, färsk och finriven
-- 2 tsk vitlök, finriven
+- 1 vitlök, finriven
 
 ### Böngroddar
 
