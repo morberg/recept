@@ -4,9 +4,8 @@
 
 :::columns
 
-- 600 g fast tofu
-- Salt och malen peppar
-- 2 dl potatismjöl
+- 400 g fast tofu
+- 1 dl potatismjöl
 
 ### Sås
 
@@ -22,7 +21,7 @@
 
 ### Böngroddar
 
-- en burk böngroddar
+- en burk böngroddar eller ett paket färska
 - 2 tsk soja
 - 1 tsk sesamolja
 - 1 tsk risvinäger eller pressad lime
