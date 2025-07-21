@@ -5,7 +5,7 @@
 :::columns
 
 - 400 g fast tofu
-- 1 dl potatismjöl
+- ca. 1 dl potatismjöl
 
 ### Sås
 
