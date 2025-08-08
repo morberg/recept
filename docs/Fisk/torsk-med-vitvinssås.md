@@ -12,7 +12,7 @@ parent: Fisk
 - 1 påse machésallad
 - 1/2 dl solrosfrön
 - 1 citron
-- vitvinssås (recept finns i såskapitlet)
+- [vitvinssås](../Sås/vitvinssås) (recept finns i såskapitlet)
 - friterad schalottenlök
 
 Förbered torsken för sous vide, kör på 52° i mellan 45 minuter och 1 1/2 timme.
