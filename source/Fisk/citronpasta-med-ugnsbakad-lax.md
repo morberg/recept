@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Citrontagliatelle med ugnsbakad lax
 
 ## 4 personer

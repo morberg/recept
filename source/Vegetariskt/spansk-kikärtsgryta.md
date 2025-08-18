@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Spansk kikärtsgryta med tomat och ingefära
 
 ## 4 personer

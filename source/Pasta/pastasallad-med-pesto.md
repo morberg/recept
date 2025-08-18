@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Pastasallad med basilika- och spenatpesto
 
 ## 4 portioner

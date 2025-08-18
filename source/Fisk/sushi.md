@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Sushi
 
 ## 4 personer

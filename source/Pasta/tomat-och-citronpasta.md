@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Krämig tomat- och citronpasta
 
 ## 4 personer

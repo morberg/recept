@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Jamie's Beef and Stout pie
 
 ## 4 personer

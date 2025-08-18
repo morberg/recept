@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Tekakor med rivna morötter
 
 ## Ca 20 st

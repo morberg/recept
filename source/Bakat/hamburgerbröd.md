@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Hamburgerbröd
 
 ## 8 stycken

@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Kikärtspasta (Pasta Strozzapreti Ceci)
 
 ## 4 portioner

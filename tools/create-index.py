@@ -2,6 +2,7 @@
 # requires-python = ">=3.13"
 # dependencies = [
 #     "typer",
+#     "pyyaml",
 # ]
 # ///
 
@@ -12,6 +13,7 @@ import re
 from typing import List, NamedTuple
 
 import typer
+import yaml
 
 PANDOC_FRONTMATTER = r"""---
 author: Niklas Morberg
@@ -36,15 +38,50 @@ class Directory(NamedTuple):
     files: List[str]
 
 
+def parse_front_matter(file_path: str) -> tuple[dict, str]:
+    """Parse YAML front matter and return metadata + content"""
+    with open(file_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    if content.startswith("---\n"):
+        try:
+            front_matter_end = content.find("\n---\n", 4)
+            if front_matter_end != -1:
+                yaml_content = content[4:front_matter_end]
+                metadata = yaml.safe_load(yaml_content) or {}
+                markdown_content = content[
+                    front_matter_end + 5 :
+                ]  # Skip past second ---
+                return metadata, markdown_content
+        except yaml.YAMLError:
+            pass
+
+    return {}, content
+
+
+def should_include_in_pdf(file_path: str) -> bool:
+    """Check if recipe should be included in PDF"""
+    metadata, _ = parse_front_matter(file_path)
+    return not metadata.get("pdf_exclude", False)
+
+
 def get_title(file_name: str) -> str:
     """Extracts the recipe title from file_name.
 
-    Assumes the title of the recipe is first line in file.
-    The first line can be formatted as a markdown header.
+    First tries YAML front matter 'title' field, then falls back to
+    first markdown heading.
     """
-    with open(file_name, "r") as f:
-        title = f.readline().strip("# \n")
-        return title
+    metadata, content = parse_front_matter(file_name)
+
+    # Try YAML title first
+    if "title" in metadata:
+        return metadata["title"]
+
+    # Fall back to first heading
+    lines = content.strip().split("\n")
+    for line in lines:
+        if line.startswith("# "):
+            return line[2:].strip()
 
 
 def get_dirs(root="source/") -> List[Directory]:
@@ -101,33 +138,52 @@ def print_pandoc_categories(dirs: List[Directory]):
         return id
 
     # Build a mapping from file name (without .md extension) to heading ID
-    filename_to_id = {
-        file.replace(".md", ""): get_heading_id(get_title(os.path.join(dir.name, file)))
-        for dir in dirs
-        for file in dir.files
-    }
+    # Only include files that should be in PDF
+    filename_to_id = {}
+    for dir in dirs:
+        for file in dir.files:
+            file_path = os.path.join(dir.name, file)
+            if should_include_in_pdf(file_path):
+                filename_to_id[file.replace(".md", "")] = get_heading_id(
+                    get_title(file_path)
+                )
 
     for dir in dirs:
         category = dir.name.removeprefix("source/")
+
+        # Check if any files in this category should be included
+        category_files = [
+            file
+            for file in dir.files
+            if should_include_in_pdf(os.path.join(dir.name, file))
+        ]
+
+        if not category_files:
+            continue  # Skip empty categories
+
         print(f"# {category}")
-        for file in sorted(dir.files):
+        for file in sorted(category_files):
             file_path = os.path.join(dir.name, file)
-            with open(file_path) as f:
-                for line in f:
-                    line = convert_to_anchor_link(filename_to_id, line)
-                    # Indent all headings one step
-                    if line.startswith("#"):
-                        print("#", end="")
-                    print(line, end="")
-                print("\n\\clearpage\n")
+            metadata, content = parse_front_matter(file_path)
+
+            # Process the markdown content (skip YAML front matter)
+            for line in content.split("\n"):
+                line = convert_to_anchor_link(filename_to_id, line + "\n")
+                # Indent all headings one step
+                if line.startswith("#"):
+                    print("#", end="")
+                print(line, end="")
+            print("\n\\clearpage\n")
 
 
 def append_skip_colons(in_file: str, out_file: str):
-    """Append in_file to out_file. Skip lines starting with ':::'"""
-    with open(in_file, "r") as input, open(out_file, "a") as output:
-        for line in input:
+    """Append in_file to out_file. Skip lines starting with ':::' and YAML front matter"""
+    metadata, content = parse_front_matter(in_file)
+
+    with open(out_file, "a") as output:
+        for line in content.split("\n"):
             if not line.startswith(":::"):
-                output.write(line)
+                output.write(line + "\n")
 
 
 def create_index_file(dir_name: str, sort_order: int, file_name: str = "index.md"):

@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Lammstek med svartrots- och potatisgratäng
 
 ## 4 portioner

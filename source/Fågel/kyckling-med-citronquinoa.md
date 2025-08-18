@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Kyckling med citronquinoa och fikonsky
 
 ## 4 personer

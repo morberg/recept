@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Kallbryggt kaffe
 
 ## 1 liter

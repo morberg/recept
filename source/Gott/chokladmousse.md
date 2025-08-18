@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Chokladmousse
 
 ## 6 personer

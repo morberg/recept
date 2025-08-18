@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Cajundressing
 
 ## ca 2 dl

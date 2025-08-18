@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Jordärtskockssoppa med parmachips
 
 ## 4 portioner

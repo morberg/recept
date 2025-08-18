@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Laxsallad med lime och jordnötter
 
 ## 4 personer

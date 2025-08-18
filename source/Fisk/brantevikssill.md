@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Brantevikssill
 
 ::: columns

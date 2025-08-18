@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Fläskfilé med krämig polenta
 
 ## 4 portioner

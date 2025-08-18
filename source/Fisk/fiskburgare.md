@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Fiskburgare med cole slaw
 
 ## 4 portioner

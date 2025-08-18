@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Världens bästa bröd
 
 -   6 dl vatten

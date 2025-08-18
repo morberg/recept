@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Färska vårrullar med dippsås
 
 ## 4 personer

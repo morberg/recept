@@ -7,6 +7,23 @@ Checka ut en lokal kopia med:
 
     git clone https://github.com/morberg/recept.git
 
+## Metadata
+
+Recept kan innehålla metadata i YAML-format i början av filen. Metadata anges mellan
+`---` på egen rad och innehåller information om receptet. Exempel:
+
+    ---
+    title: "Chokladkakor"
+    pdf_exclude: true
+    ---
+
+- **`title`**: Receptets titel. Om detta saknas plockas titeln från första
+  H1-headern i filen.
+- **`pdf_exclude`**: Sätt till `true` för att exkludera receptet från PDF-versionen.
+  Receptet syns fortfarande på webben.
+
+Metadata behöver inte anges.
+
 ## Ingredienslista
 
 Listan med ingredienser har ofta ganska korta rader. Det gör att sidlayouten kan bli lite
@@ -43,5 +60,5 @@ att generera docs-katalogen lokalt kör du `make jekyll`.
 
 ## Utskriftsversion
 
-Sen är det bara att köra `make pdf` för att generera `pdf/receptsamling.pdf` som passar
-bra för utskrift.
+Kör `make pdf` för att generera `pdf/receptsamling.pdf` som passar bra för
+utskrift.

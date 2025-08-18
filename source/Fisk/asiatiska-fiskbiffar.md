@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Andreas asiatiska fiskbiffar
 
 ::: columns

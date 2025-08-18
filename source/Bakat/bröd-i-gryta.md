@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Bröd i gryta
 
 -   660 g (460 g) kallt vatten

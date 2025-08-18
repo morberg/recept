@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Orrecchiette med broccolikräm
 
 ::: columns

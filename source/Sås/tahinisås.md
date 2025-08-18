@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Magisk Tahinisås
 
 -   3/4 tsk hel spiskummin

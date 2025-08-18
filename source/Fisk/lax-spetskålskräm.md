@@ -1,3 +1,7 @@
+---
+pdf_exclude: true
+---
+
 # Kallrökt lax med spetskålskräm
 
 ## 4 portioner
