@@ -3,6 +3,7 @@ layout: default
 title: Fiskburgare med cole slaw
 parent: Fisk
 ---
+
 # Fiskburgare med cole slaw
 
 ## 4 portioner
@@ -61,3 +62,4 @@ på båda sidor och är genomstekta.
 
 Servera burgarna tillsammans med cole slaw, pommes frites och
 srirachamajo.
+

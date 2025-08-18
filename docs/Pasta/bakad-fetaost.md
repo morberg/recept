@@ -23,3 +23,4 @@ Koka 4 portioner pasta, gärna penne. Hacka basilikan.
 Häll av pastan (spara någon dl. av kokvattnet). Blanda pastan med basilika, tomater och
 fetaost till en krämig sås under några minuter. Späd med pastavatten om det behövs. Smaka
 av med salt och peppar.
+

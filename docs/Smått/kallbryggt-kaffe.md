@@ -3,6 +3,7 @@ layout: default
 title: Kallbryggt kaffe
 parent: Smått
 ---
+
 # Kallbryggt kaffe
 
 ## 1 liter
@@ -19,3 +20,4 @@ i en behållare med lock och ställ in i kylen.
 3.  Sila genom kaffefilter
 
 Använd för iskaffe.
+

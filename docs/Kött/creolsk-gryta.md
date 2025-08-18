@@ -29,3 +29,4 @@ Gör så här:
     och paprikan. Låt det blir varmt och smaka av med salt och peppar,
     spetsa ev. med tabasco eller sriracha.
 5.  Servera med ris, ett gott bröd och en grönsallad.
+

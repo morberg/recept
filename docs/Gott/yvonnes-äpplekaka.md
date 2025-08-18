@@ -21,3 +21,4 @@ Gör så här:
     ut skivorna (eller klyftorna) i en form.
 2.  Smält smöret1 och tillsätt övriga ingredienser. Smula över äpplena.
 3.  Kör på full effekt i mikrovågsugn i 6--8 minuter.
+

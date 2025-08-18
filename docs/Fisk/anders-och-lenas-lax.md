@@ -46,3 +46,4 @@ en ugnsfast form och bred på nötblandningen.
 
 Ställ in laxen högt upp i ugnen under 2--3 minuter så att det får lite
 färg. Servera tillsammans med potatissalladen och limeklyftor.
+

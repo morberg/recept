@@ -28,3 +28,4 @@ förhindra att det bränner i botten.
 
 När chutneyn har svalnat något, häll upp den på väl rengjorda och förvärmda
 glasburkar och förslut.
+

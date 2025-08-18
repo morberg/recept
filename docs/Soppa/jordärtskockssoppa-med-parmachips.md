@@ -3,6 +3,7 @@ layout: default
 title: Jordärtskockssoppa med parmachips
 parent: Soppa
 ---
+
 # Jordärtskockssoppa med parmachips
 
 ## 4 portioner
@@ -47,3 +48,4 @@ och värm. Smaka av med salt och peppar.
 
 Garnera med parmachips, timjan och ett par varv med svartpeppar. Servera
 med grissini.
+

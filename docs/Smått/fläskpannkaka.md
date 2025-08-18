@@ -23,3 +23,4 @@ Instruktioner:
 4.  Häll i resten av mjölken
 5.  När fläsket har fått lite färg, häll på smeten.
 6.  Grädda i 30--40 minuter.
+

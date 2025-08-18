@@ -60,3 +60,4 @@ fett.
 Lägg nudlarna i soppskålar och häll den varma buljongen över. Toppa med
 krispig tofu, ägghalvor, böngroddar, salladslök, chili och koriander.
 Pressa över lite lime. Ät och njut!
+

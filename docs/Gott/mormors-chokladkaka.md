@@ -23,3 +23,4 @@ Instruktioner:
 4.  Smöra och bröda en rund springform och häll i smeten.
 5.  Grädda i mitten av ugnen i ca. 12 minuter.
 6.  Servera t ex med hallon och glass. Kan göras dagen innan.
+

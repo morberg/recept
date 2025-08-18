@@ -48,3 +48,4 @@ pajen stannat helt och är gyllenbrun.
 
 Skär tomaterna i halvor eller fjärdedelar, blanda med basilika, olja och
 vinäger. Toppa med blandningen vid servering.
+

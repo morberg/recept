@@ -3,6 +3,7 @@ layout: default
 title: Kikärtspasta (Pasta Strozzapreti Ceci)
 parent: Pasta
 ---
+
 # Kikärtspasta (Pasta Strozzapreti Ceci)
 
 ## 4 portioner
@@ -32,3 +33,4 @@ Lägg tillbaka såsen i stekpannan och rör ihop med resterande hela kikärtor.
 Vänd ihop med den kokta pastan, späd ev. med lite pastavatten och olivolja.
 
 Servera med nyriven parmesan.
+

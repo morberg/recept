@@ -18,3 +18,4 @@ Skala äpplet och riv ner det i majonnäsen.
 Blanda i lök och curry och rör om ordentligt.
 
 Smaka av med citronsaft, salt, peppar och ev. en nypa socker. Rör i lite vatten om såsen behöver bli lösare. 
+

@@ -41,3 +41,4 @@ Blanda linserna med citronskal, citronsaft, olivolja, salt och peppar.
 Häll upp soppan i skålar och toppa med citronlinserna. Servera gärna med
 [pestosnurror](../Bakat/pestosnurror).
 
+

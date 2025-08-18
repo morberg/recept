@@ -52,3 +52,4 @@ möjligt i bunken och ha kvar till nästa runda potatis).
 Täck med aluminimfolie och grädda i 30 minuter. Ta av folien och grädda i 30 minuter till.
 Lägg på osten som är kvar och grädda ytterligare 30 minuter. Ta ut och låt vila lite innan
 servering.
+

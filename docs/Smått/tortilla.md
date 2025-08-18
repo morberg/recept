@@ -26,3 +26,4 @@ Smeten ska sätta sig ute i kanten men fortfarande vara lite lös och krämig
 Täck tortillan med ett platt lock och vänd pannan upp och ner så att tortillan hamnar
 på locket. Låt den sedan glida ner i stekpannan med den stekta sidan uppåt. Stek den
 andra sidan i ett par minuter, tills den är gyllenbrun och frasig.
+

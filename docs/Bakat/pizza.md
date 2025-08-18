@@ -47,3 +47,4 @@ tomatsåsen. Skiva mozarellan och lägg ut på pizzan. Avsluta med topping.
 Lägg på parmaskinka, oliver och ruccola efter gräddningen.
 
 Grädda pizzorna i mitten av ugnen under 7--10 minuter.
+

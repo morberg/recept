@@ -51,3 +51,4 @@ Smaka av med färsk timjan, pressad citron, salt och peppar.
 
 Lägg upp räkor i botten på 4 portionsskålar och sleva soppan över.
 Garnera med en kvist timjan. Servera med gott bröd och en aioli.
+

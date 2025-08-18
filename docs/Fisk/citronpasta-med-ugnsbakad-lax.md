@@ -3,6 +3,7 @@ layout: default
 title: Citrontagliatelle med ugnsbakad lax
 parent: Fisk
 ---
+
 # Citrontagliatelle med ugnsbakad lax
 
 ## 4 personer
@@ -52,3 +53,4 @@ allt i skålar.
 
 Blanda nykokt pasta med citronsåsen och servera med ugnsbakad lax,
 grönsaker och citronklyftor.
+

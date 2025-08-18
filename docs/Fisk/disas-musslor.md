@@ -44,3 +44,4 @@ Ta ut pommesen ur ugnen (klockan borde ringa nu ungefär). Lägg tomaterna
 och de hackade örterna i kastrullen och låt dem bli varma i
 gräddblandningen. Skeda upp tomatröran och gräddblandningen över
 musslorna och servera tillsammans med pommes frites och aïoli.
+

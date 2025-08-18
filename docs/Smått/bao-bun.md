@@ -61,3 +61,4 @@ gyllene. Häll då på den smaksatta hoisinsåsen och låt steka med in en minut
 
 När bröden är klara, fyll dem med fläsk, gurka och majonnäs. Strö salladslök, jordnötter
 och srirachasås överst. Servera genast!
+

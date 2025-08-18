@@ -39,3 +39,4 @@ Smaka av med salt och peppar. Plocka upp citrongräset och släng. Häll upp bul
 skålar och fördela grönsakerna jämnt. Dela upp nudlarna, skiva kycklingen och lägg i.
 Toppa med chili och koriander.
 
+

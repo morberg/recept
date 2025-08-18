@@ -56,3 +56,4 @@ Vänd ner tofun i såsen. Se till att alla bitar har sås på sig.
 
 Servera t.ex. med ris, finhackad kål eller sallad, morot, gurka, jalapeño, ett stänk
 sesamfrön, smulad salladsost och koriander.
+

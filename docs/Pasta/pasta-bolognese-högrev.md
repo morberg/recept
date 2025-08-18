@@ -48,3 +48,4 @@ Koka pastan enligt anvisning på förpackningen. Häll av pastan och vänd
 ihop med såsen strax före servering.
 
 Servera med parmesan och ruccola.
+

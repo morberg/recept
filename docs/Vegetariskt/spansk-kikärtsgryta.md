@@ -3,6 +3,7 @@ layout: default
 title: Spansk kikärtsgryta med tomat och ingefära
 parent: Vegetariskt
 ---
+
 # Spansk kikärtsgryta med tomat och ingefära
 
 ## 4 personer

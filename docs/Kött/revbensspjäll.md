@@ -46,3 +46,4 @@ gräddfil kan det bli lite rinnigt. Smaka av.
 Blanda **kryddsåsen.** Tag ut spjället och bred över såsen. Stek i
 ytterligare 30 minuter. När köttet kan lossas från benen är spjället
 klart.
+

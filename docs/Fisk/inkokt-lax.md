@@ -58,3 +58,4 @@ Lyft försiktigt upp laxen med en hålslev och lägg den på ett fat. Strö
 
 Servera laxen ljummen med nykokt potatis, romsås, morötter, sockerärtor
 och citronklyftor.
+

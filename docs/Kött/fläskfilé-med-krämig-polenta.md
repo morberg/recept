@@ -3,6 +3,7 @@ layout: default
 title: Fläskfilé med krämig polenta
 parent: Kött
 ---
+
 # Fläskfilé med krämig polenta
 
 ## 4 portioner
@@ -41,3 +42,4 @@ Skär fläskfilén i skivor. Stek i 2 msk smör i en stekpanna, ca. 3 minuter p�
 Krydda med salt och peppar.
 
 Vänd till sist ner tomaterna i svampfräset. Servera polentan med svamp och fläskfilé.
+

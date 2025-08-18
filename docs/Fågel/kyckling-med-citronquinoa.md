@@ -3,6 +3,7 @@ layout: default
 title: Kyckling med citronquinoa och fikonsky
 parent: Fågel
 ---
+
 # Kyckling med citronquinoa och fikonsky
 
 ## 4 personer
@@ -44,3 +45,4 @@ Skala och finhacka schalottenlöken och fräs den mjuk i smör. Häll på
 vinägern och låt koka upp. Häll i kycklingbuljong och koka tills hälften
 återstår. Red med maizena, utrörd i lite vatten. Hacka fikonen och lägg
 dem i såsen.
+

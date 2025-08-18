@@ -3,6 +3,7 @@ layout: default
 title: Chokladmousse
 parent: Gott
 ---
+
 # Chokladmousse
 
 ## 6 personer
@@ -25,3 +26,4 @@ Instruktioner:
     slickepott och skyffla runt chokladen med lätt hand. Det gör inget
     om moussen inte blir så fluffig -- oljan gör susen.
 5.  Häll upp i små koppar eller skålar.
+

@@ -34,3 +34,4 @@ Koka upp 2--3 liter vatten i en 3--4 litersgryta och häll i 2 msk salt.
 Lägg försiktigt i kroppkakorna i kokande vatten, koka upp och låt sjuda i ca. 50 minuter.
 
 Servera med kaffegrädde, lingon, smält smör och sirap.
+

@@ -40,3 +40,4 @@ Sätt ugnen på 225°.
 
 Jäs under bakduk till knappt dubbel storlek, ca. 30 minuter. Pensla med uppvispat ägg.
 Grädda mitt i ugnen ca. 5--6 minuter.
+

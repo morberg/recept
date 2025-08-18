@@ -42,3 +42,4 @@ parent: Referens
 [Rostbiff]: http://niklash.blogspot.se/2014/12/sous-vide-oxbringa-med-pepparrotssas.html
 [Ägg med soja]: http://www.seriouseats.com/recipes/2014/09/singapore-style-soft-cooked-eggs-with-kaya-jam-and-toast-recipe.html
 [Onsenägg]: http://www.seriouseats.com/2016/08/how-to-make-onsen-tamago-japanese-poached-egg.html
+

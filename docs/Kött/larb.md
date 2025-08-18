@@ -46,3 +46,4 @@ kokta jasminriset.
 
 Det går att byta ut fläskfärsen mot tärnad halloumi eller anamma-färs för
 ett vegetariskt alternativ.
+

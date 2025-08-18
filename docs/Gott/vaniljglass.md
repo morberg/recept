@@ -23,3 +23,4 @@ tills det tjocknar lite, upp till 83˚. Smeten får inte koka.
 
 Häll över i en bunke och låt kallna helt i kyl (minst några timmar). Kör i glassmaskin till
 krämig konsistens och frys in.
+

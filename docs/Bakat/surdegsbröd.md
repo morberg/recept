@@ -44,3 +44,4 @@ Annars kan du ställa in degen i kylskåp till kvällen eller till nästa morgon
 Lägg upp brödet på en bakplåt med sömmen ner. Skåra längs med. Ställ om ugnen
 till ångläge, sätt värmen på 225°. Häll på vatten i botten av ugnen. Ställ in
 plåten och baka i ca. 40 minuter.
+

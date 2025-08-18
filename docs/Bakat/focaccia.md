@@ -32,3 +32,4 @@ parent: Bakat
 4.  Sätt ugnen på 200°.
 5.  Sätt mycket försiktigt in långpannan i ugnen och grädda i 15
     minuter.
+

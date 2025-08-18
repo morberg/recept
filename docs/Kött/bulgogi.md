@@ -60,3 +60,4 @@ Servera det nystekta köttet med gochujangmajonnäs, ris, kimchi, spenat och
 böngroddar.
 
 Lägg allt det goda i salladsblad och ät gärna med händerna!
+

@@ -43,3 +43,4 @@ fetaosten.
 
 Vispa ihop ägg, mjölk, salt, peppar och pressad vitlök. Häll
 äggstanningen över fyllningen. Grädda i 200° ca 30--35 minuter.
+

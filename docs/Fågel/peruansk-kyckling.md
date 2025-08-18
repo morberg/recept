@@ -59,3 +59,4 @@ kycklingen.
 
 Låt kycklingen vila ca. 10 minuter. Servera med såsen, ris och lite kokta sojabönor.
 Kanske lite färsk koriander också om du gillar det.
+

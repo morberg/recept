@@ -60,3 +60,4 @@ Stek lök, champinjoner och resten av sidfläsket i smöret tills det får färg
 mjuk.
 
 Smaka av grytan med salt och peppar. Toppa med svampfräset och servera med potatismoset.
+

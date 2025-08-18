@@ -36,3 +36,4 @@ och paprika.
 
 Lägg fyllningen i pajskalet. Grädda i ugnen tills pajen har fått fin färg 20--25 minuter.
 Servera med en god sallad.
+

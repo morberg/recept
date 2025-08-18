@@ -3,6 +3,7 @@ layout: default
 title: Kallrökt lax med spetskålskräm
 parent: Fisk
 ---
+
 # Kallrökt lax med spetskålskräm
 
 ## 4 portioner
@@ -51,3 +52,4 @@ Lägg upp den varma kålkrämen på tallrikar. Toppa med stekt broccoli, endivbl
 fänkålscrudité.
 
 Avsluta med kallrökt lax.
+

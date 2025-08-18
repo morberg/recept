@@ -3,6 +3,7 @@ layout: default
 title: Bröd i gryta
 parent: Bakat
 ---
+
 # Bröd i gryta
 
 -   660 g (460 g) kallt vatten
@@ -35,3 +36,4 @@ Om du bakar i gryta:
     andra brödet när ugnen blivit varm.
 
 Alternativt baka i varmluft med undervärme på 225° i 40 minuter.
+

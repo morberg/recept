@@ -50,3 +50,4 @@ fläskkarrén och vänd ner i marinaden. Låt stå i några minuter.
 Salta potatisen när den är färdig och blanda runt.
 
 Servera karrén med lite japansk soja, nektarinsallad och potatis.
+

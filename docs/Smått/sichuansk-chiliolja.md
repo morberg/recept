@@ -45,3 +45,4 @@ tills det börjar bubbla och håll oljan mellan 95°--105°. Koka i sju minuter 
 och då. Ta bort från värmen och rör i salt och ev. MSG och sesamfrön. Låt svalna och häll
 över i en glasburk och förvara i kyl. Håller flera månader eller ännu längre.
 
+

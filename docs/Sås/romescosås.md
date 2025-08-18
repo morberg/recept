@@ -18,3 +18,4 @@ Skär bort kanterna från brödskivan och mixa den tillsammans med övriga
 ingredienser. Smaka av med salt och peppar.
 
 Häll upp såsen i en skål och mal lite svartpeppar över.
+

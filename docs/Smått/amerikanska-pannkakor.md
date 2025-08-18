@@ -24,3 +24,4 @@ Instruktioner:
 5.  Grädda pannkakorna i en het panna eller plättlagg.
 6.  Vänd pannkakorna när den ostekta sidan börjar visa små kratrar.
 7.  Stek i omgångar och håll dem varma i ett ugnssäkert fat i ugnen.
+

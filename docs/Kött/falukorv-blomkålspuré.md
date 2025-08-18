@@ -42,3 +42,4 @@ syltlök, salt och peppar.
 Skär falukorven i tjocka skivor och grilla i grillpanna eller stek i
 stekpanna. Servera falukorven med den fluffiga blomkålspurén och
 grönsaksfräset.
+

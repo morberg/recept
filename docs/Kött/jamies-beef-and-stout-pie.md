@@ -3,6 +3,7 @@ layout: default
 title: Jamie's Beef and Stout pie
 parent: Kött
 ---
+
 # Jamie's Beef and Stout pie
 
 ## 4 personer
@@ -43,3 +44,4 @@ vara ganska tjock.
 
 Bred moset ovanpå grytan. Tryck ner lite färsk rosmarin och ringla över
 olivolja. Gratinera i ugn på 200° tills moset blir vackert gyllenbrunt.
+

@@ -3,6 +3,7 @@ layout: default
 title: Lammstek med svartrots- och potatisgratäng
 parent: Kött
 ---
+
 # Lammstek med svartrots- och potatisgratäng
 
 ## 4 portioner
@@ -46,3 +47,4 @@ innan serveringen av lammsteken.
 
 Duka med varma tallrikar. Skär lammsteken i vackra skivor. Bjud den med
 gratängen, såsen och gärna någon god svamp.
+

@@ -3,6 +3,7 @@ layout: default
 title: Andreas asiatiska fiskbiffar
 parent: Fisk
 ---
+
 # Andreas asiatiska fiskbiffar
 
 ## Fiskbiffar
@@ -64,3 +65,4 @@ fisksås och olja i en skål. Tillsätt dressingen till nudelsalladen och
 blanda om väl. Smaka av med lite salt.
 
 Servera fiskbiffarna med risnudelsallad.
+

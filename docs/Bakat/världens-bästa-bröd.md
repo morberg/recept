@@ -3,6 +3,7 @@ layout: default
 title: Världens bästa bröd
 parent: Bakat
 ---
+
 # Världens bästa bröd
 
 -   6 dl vatten
@@ -32,3 +33,4 @@ Grädda i 30 minuter med locket på. Ta sedan av locket och sänk
 temperaturen till 210°. Grädda i ytterligare 15 minuter utan lock.
 
 Låt brödet vila i minst 30 minuter innan det skärs upp.
+

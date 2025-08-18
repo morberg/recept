@@ -21,3 +21,4 @@ Instruktioner:
 3.  Hetta upp smör i en stekpanna. Bryn rullarna runt om. Salta och
     peppra. Sänk värmen och lägg på ett lock. Låt puttra i 5--10
     minuter. Servera med ris.
+

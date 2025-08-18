@@ -36,3 +36,4 @@ soja. Rör runt, koka upp och låt småputtra på låg värme i 5--10 minuter.
 Skär upp kycklingen i mindre bitar och lägg tillbaks i pannan.
 
 Servera med pasta och sallad. Garnera med oliver, fetaost och kryddgrönt.
+

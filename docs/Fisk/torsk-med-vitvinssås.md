@@ -26,3 +26,4 @@ Rosta solrosfrön i en torr stekpanna. Skär citronen i klyftor.
 
 Lägg upp en torskbit på varje tallrik och toppa med schalottenlök. Lägg upp machésallad
 och strö över solrosfrön. Servera med potatis och vitvinssås.
+

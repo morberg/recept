@@ -3,6 +3,7 @@ layout: default
 title: Magisk Tahinisås
 parent: Sås
 ---
+
 # Magisk Tahinisås
 
 -   3/4 tsk hel spiskummin
@@ -33,3 +34,4 @@ och citron. Syran ska vara ordentligt pigg, sötman låg men märkbar.
 
 Såsen kan användas bl.a. till
 [wraps](http://taffel.se/recept/wrap-med-tahinisas-och-rodkal).
+

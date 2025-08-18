@@ -35,3 +35,4 @@ Instruktioner:
     på varje sida.
 8.  Låt pannkakorna rinna av på hushållspapper, skär i små tårtbitar och
     servera med lite soja att doppa dem i.
+

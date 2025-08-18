@@ -29,3 +29,4 @@ Instruktioner:
 6.  Lägg pannkakorna vikta eller hoprullade på ett fat, plättarna
     laggvis i högar. Håll fatet varmt, t ex genom att ställa det i en
     100° varm ugn.
+

@@ -39,3 +39,4 @@ Smaka av med tabasco, salt och peppar.
 
 Tillsätt kycklingköttet och sänk plattan till låg värme. Strö över
 klippt persilja och servera med ris och ärtor.
+

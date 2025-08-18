@@ -3,6 +3,7 @@ layout: default
 title: Brantevikssill
 parent: Fisk
 ---
+
 # Brantevikssill
 
 -   1 kg sillfilé
@@ -32,3 +33,4 @@ Blanda samman allt (utom fisken som fortfarande rinner av) med sockret.
 
 Varva sill och inläggning i en hög glasburk. Börja och sluta med ett lager av blandningen. Ingen vätska ska tillsättas,
 det kommer själv att vattna sig.
+

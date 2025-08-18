@@ -3,6 +3,7 @@ layout: default
 title: Laxsallad med lime och jordnötter
 parent: Fisk
 ---
+
 # Laxsallad med lime och jordnötter
 
 ## 4 personer
@@ -31,4 +32,5 @@ gärna vara lite rå i mitten.
 
 Blanda nudelsalladen med laxkuber. Toppa med koriander och jordnötter, servera med lime i
 klyftor.
+
 
