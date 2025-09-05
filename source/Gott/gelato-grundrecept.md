@@ -28,7 +28,7 @@ varianter:
   Servera med 1 dl hackade rostade hasselnötter.
 
 I jordnöts-, pistage- och hasselnötsreceptet kan du byta ut 1/2 dl grädde mot
-1/2 mjölk eftersom nötterna innehåller fett.
+1/2 dl mjölk eftersom nötterna innehåller fett.
 
 ## Instruktioner
 
