@@ -5,15 +5,17 @@ parent: Gott
 ---
 # Kaffegelato
 
-## 750 g
+## 4 portioner
 
-- 310 g standardmjölk
-- 110 g vispgrädde
-- 100 g espresso (5 st. mycket stark, liten på vår kaffemaskin)
-- 90 g äggulor (behövs 5 ägg)
-- 100 g rårörsocker
-- 30 g kokossirap
-- 1 gelatinblad
+- 200 ml mjölk (helst 3%)
+- 180 ml grädde (35–40%)
+- 35 g mjölkpulver
+- 60 g socker
+- 35 g druvsocker
+- 2 krm glasspulver
+- 80 g bryggd stark espresso (4 mycket stark liten
+- 1 tsk kakao
+- 2 msk whisky (kan uteslutas)
 
 Förbered espresson och låt svalna. Lägg gelatinet i en skål kallt vatten.
 
