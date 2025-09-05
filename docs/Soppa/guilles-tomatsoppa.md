@@ -17,7 +17,7 @@ parent: Soppa
 - 1 l vatten
 - 2 tärningar grönsaksbuljong
 - ev. 2 msk mandelsmör
-- 2 burkar vita bönor à 400 g (ca. 3 dl kokta), skölda
+- 2 burkar vita bönor à 400 g (ca. 3 dl kokta), sköljda
 
 ## Citronlinser
 
@@ -32,7 +32,7 @@ Fräs gul lök, vitlök och morötter i olivoljan till löken mjuknar och blir l
 transparent.
 
 Häll på timjan, krossade tomater, vatten, buljongtärningar, mandelsmör och vita bönor.
-Koka upp och låt sjuda i ca. 15 minuter eller till morötterna är mjukva.
+Koka upp och låt sjuda i ca. 15 minuter eller till morötterna är mjuka.
 
 Mixa soppan slät med en stavmixer. Smaka av med salt och peppar.
 
