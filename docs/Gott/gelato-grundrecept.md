@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Gelato: grundrecept med några varianter
+title: Gelato - grundrecept med några varianter
 parent: Gott
 ---
-# Gelato: grundrecept med några varianter
+# Gelato - grundrecept med några varianter
 
 ## 4 portioner
 
@@ -56,3 +56,4 @@ Kör glassmeten i glassmaskinen tills den har fått den typiska, krämiga
 gelato-konsistensen. Det tar mellan 15 och 25 minuter beroende på glassmaskin.
 
 Ställ glassen i frysen i 30 minuter för att få rätt konsistens vid servering.
+

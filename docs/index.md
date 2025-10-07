@@ -58,7 +58,7 @@ nav_order: 1
 * [Cheesecake](Gott/cheesecake.md)
 * [Chokladmousse](Gott/chokladmousse.md)
 * [Crème brûlée](Gott/crème-brûlée.md)
-* [Gelato: grundrecept med några varianter](Gott/gelato-grundrecept.md)
+* [Gelato - grundrecept med några varianter](Gott/gelato-grundrecept.md)
 * [Kaffegelato](Gott/kaffegelato.md)
 * [Kaffeglass](Gott/kaffeglass.md)
 * [Kolasås](Gott/kolasås.md)
