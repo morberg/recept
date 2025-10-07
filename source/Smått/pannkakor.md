@@ -16,7 +16,7 @@ Instruktioner:
 2.  Smält smöret och rör ner det i smeten -- det gör att inget extra
     fett behövs vid gräddningen.
 3.  Hetta upp en pannkakslagg eller en stekpanna med sluttande kanter.
-    Håll i ett tunt lager smet1 och sänk värmen.
+    Håll i ett tunt lager smet och sänk värmen.
 4.  När ytan stelnat och blivit matt är det dags att grädda på andra
     sidan. Färgen ska vara ljust gulbrun.
 5.  Rör om smeten då och då under gräddningen så att mjölet inte sjunker
