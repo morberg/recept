@@ -1,4 +1,4 @@
-# Gelato: grundrecept med några varianter
+# Gelato - grundrecept med några varianter
 
 ## 4 portioner
 
