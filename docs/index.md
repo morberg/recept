@@ -143,6 +143,7 @@ nav_order: 1
 * [Rabarberchutney](Sås/rabarberchutney.md)
 * [Romescosås](Sås/romescosås.md)
 * [Magisk Tahinisås](Sås/tahinisås.md)
+* [Teriyakisås](Sås/teriyakisås.md)
 * [Vitvinssås](Sås/vitvinssås.md)
 
 ## Vegetariskt
