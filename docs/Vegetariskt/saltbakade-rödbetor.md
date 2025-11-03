@@ -30,7 +30,8 @@ medan betorna bakar.
 När betorna är klara, plocka ur dem från formen och skala dem. Dela rödbetorna i
 fjärdedelar.
 
-Lägg upp dressingen som en spegel på fyra små tallrikar. Toppa med fyra bitar
-rödbeta, salta och peppra. Strö över färsk dill och avsluta med riven pepparrot.
+Rör runt dressingen och lägg upp en spegel på fyra små tallrikar. Toppa med fyra
+bitar rödbeta per tallrik, salta och peppra. Strö över färsk dill och avsluta
+med riven pepparrot.
 
 
