@@ -59,6 +59,9 @@ lägg det i marinaden. Låt stå i minst 30 minuter, gärna över natten. Stek s
 köttet, lite i taget, på en riktigt het panna i lite rapsolja. Om man steker för
 mycket på en gång kokar det istället för att stekas, så undvik det!
 
+Som ett alternativ kan du också steka köttet i 2--3 cm tjocka skivor tillsammans
+med vitlök, låta det vila och sedan skiva upp. Häll på lite soja efteråt.
+
 **Gochujangmajonnäs**: Blanda samman gochujang, majonnäs, vitlök, salladslök och
 sesamolja.
 
