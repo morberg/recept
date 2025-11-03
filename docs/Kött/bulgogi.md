@@ -20,7 +20,7 @@ gochujangmajonnäs, sesamgroddar, ris och kimchi.
 - 1 päron, rivet
 - 3 msk vitt vin
 - 4 klyftor vitlök, rivna
-- Neutral rapsolja (att steka i)
+- rapsolja att steka i
 
 ## Sesammarinerade böngroddar
 
@@ -32,10 +32,20 @@ gochujangmajonnäs, sesamgroddar, ris och kimchi.
 ## Gochujangmajonnäs
 
 - 1--2 msk gochujang (koreansk chilipasta, kan ersättas av sriracha eller sambal oelek)
-- 1 tesked sesamolja
+- 1 tsk sesamolja
 - 1 klyfta vitlök, riven
 - 2 salladslökar, fint skivade
 - 1 dl majonnäs
+
+## Ssamjang
+
+- 5 msk misopasta
+- 2 1/2 msk gochujang
+- 1 msk sirap
+- 2 tsk sesamolja
+- 1 salladslök, fint skivad
+- 2 tsk rostade sesamfrön
+- vatten
 
 ## Till servering
 
@@ -56,8 +66,11 @@ sesamolja.
 över böngroddarna. Skölj groddarna med iskallt vatten. Låt rinna av väl i ett
 durkslag. Blanda groddarna med sesamolja, salt och sesamfrön. Lägg i en skål.
 
-Servera det nystekta köttet med gochujangmajonnäs, ris, kimchi, spenat och
-böngroddar.
+**Ssamjang**: Blanda samman ingredienserna och späd med lite vatten (ca. 2--3
+msk) till bra konsistens.
+
+Servera det nystekta köttet med ssamjang, gochujangmajonnäs, ris, kimchi, spenat
+och böngroddar.
 
 Lägg allt det goda i salladsblad och ät gärna med händerna!
 
