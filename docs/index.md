@@ -153,6 +153,7 @@ nav_order: 1
 * [Melanzane Parmigiana - auberginegratäng](Vegetariskt/melanzane-parmigiana.md)
 * [Piroger med fetaost och spenat](Vegetariskt/piroger.md)
 * [Vegetarisk ramensoppa](Vegetariskt/ramensoppa.md)
+* [Saltbakade rödbetor med mormors dressing](Vegetariskt/saltbakade-rödbetor.md)
 * [Rotselleririsotto med trattkantareller och brysselkål](Vegetariskt/selleririsotto-med-brysselkål.md)
 * [Spansk kikärtsgryta med tomat och ingefära](Vegetariskt/spansk-kikärtsgryta.md)
 * [Vegetarisk garam masala](Vegetariskt/vegetarisk-garam-masala.md)
