@@ -47,6 +47,7 @@ nav_order: 1
 * [Johannas grekiska kyckling](Fågel/johannas-kyckling.md)
 * [Kyckling med citronquinoa och fikonsky](Fågel/kyckling-med-citronquinoa.md)
 * [Kyckling (eller tofu) med cashewnötter](Fågel/kyckling-och-cashew.md)
+* [Kycklinggratäng med jordnötter och sweet chili](Fågel/kycklinggratäng.md)
 * [Peruansk kyckling](Fågel/peruansk-kyckling.md)
 * [Ramensoppa med kyckling](Fågel/ramensoppa-med-kyckling.md)
 * [Vietnamesiska kycklingvingar](Fågel/vietnamesiska-kycklingvingar.md)
