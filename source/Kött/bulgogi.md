@@ -47,7 +47,8 @@ gochujangmajonnäs, sesamgroddar, ris och kimchi.
 
 - Koreanskt eller japanskt ris, kokt
 - Olika sorters salladsblad, t.ex. gemsallad, krispsallad eller huvudsallad
-- Kimchi (hemgjord eller köpt)
+- Gurkstavar
+- Kimchi
 
 :::
 
