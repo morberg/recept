@@ -70,7 +70,7 @@ durkslag. Blanda groddarna med sesamolja, salt och sesamfrön. Lägg i en skål.
 **Ssamjang**: Blanda samman ingredienserna och späd med lite vatten (ca. 2--3
 msk) till bra konsistens.
 
-Servera det nystekta köttet med ssamjang, gochujangmajonnäs, ris, kimchi, spenat
-och böngroddar.
+Servera det nystekta köttet med ssamjang, gochujangmajonnäs, ris, kimchi,
+gurkstavar och böngroddar.
 
 Lägg allt det goda i salladsblad och ät gärna med händerna!
