@@ -13,6 +13,8 @@ parent: Sås
 - 1 dl crème fraiche
 - 1 dl vispgrädde
 
+En klassiker till fisk och skaldjur, men funkar även till sparris.
+
 Koka upp grädde och creme fraiche, mixa i smör och smaka av med salt samt cest
 och saft från citronen.
 
