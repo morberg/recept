@@ -106,6 +106,7 @@ nav_order: 1
 * [Salsicciapasta med mozzarella](Pasta/salsicciapasta.md)
 * [Spagetti med fetaostbollar och tomatsås](Pasta/spagetti-fetaostbollar.md)
 * [Spagetti med köttfärssås](Pasta/spagetti-med-köttfärssås.md)
+* [Spaghetti alla puttanesca](Pasta/spaghetti-puttanesca.md)
 * [Krämig tomat- och citronpasta](Pasta/tomat-och-citronpasta.md)
 
 ## Smått
@@ -140,6 +141,7 @@ nav_order: 1
 * [Bearnaisesås](Sås/bearnaisesås.md)
 * [Cajundressing](Sås/cajundressing.md)
 * [Currysås](Sås/currysås.md)
+* [Grönpepparsås](Sås/grönpepparsås.md)
 * [Pepparrotsdip](Sås/pepparrotsdip.md)
 * [Rabarberchutney](Sås/rabarberchutney.md)
 * [Romescosås](Sås/romescosås.md)
@@ -153,6 +155,7 @@ nav_order: 1
 * [Halloumiburgare med avokado](Vegetariskt/halloumiburgare.md)
 * [Koreansk tofu](Vegetariskt/koreansk-tofu.md)
 * [Melanzane Parmigiana - auberginegratäng](Vegetariskt/melanzane-parmigiana.md)
+* [Okonomiyaki](Vegetariskt/okonomiyaki.md)
 * [Piroger med fetaost och spenat](Vegetariskt/piroger.md)
 * [Vegetarisk ramensoppa](Vegetariskt/ramensoppa.md)
 * [Saltbakade rödbetor med mormors dressing](Vegetariskt/saltbakade-rödbetor.md)
