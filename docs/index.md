@@ -88,6 +88,7 @@ nav_order: 1
 * [Revbensspjäll med cole slaw](Kött/revbensspjäll.md)
 * [Salami- och pestofyllda rullader](Kött/salami-och-pestofyllda-rullader.md)
 * [Sloppy Joe med guacamole och picklad rödlök](Kött/sloppy-joe.md)
+* [Stekt entrecôte eller ryggbiff](Kött/stekt-kött.md)
 
 ## Pasta
 

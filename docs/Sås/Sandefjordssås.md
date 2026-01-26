@@ -7,18 +7,20 @@ parent: Sås
 
 ## 4 portioner
 
-- 50 g forellrom (valfritt)
 - 1/2 citron
 - 100 g smör
 - 1 dl crème fraiche
 - 1 dl vispgrädde
 
-En klassiker till fisk och skaldjur, men funkar även till sparris.
+**Klassisk Sandefjordssås**: Smält smöret i en kastrull. Häll på grädde och koka
+upp. Dra kastrullen åt sidan och mixa ner crème fraiche. Smaka av med
+citronzest, -saft och salt.
 
-Koka upp grädde och creme fraiche, mixa i smör och smaka av med salt samt cest
-och saft från citronen.
+**Sandefjordsås med örter**: Gör klassisk Sandefjordsås och lägg ner örterna
+precis innan servering.
 
-Vänd i forellromen vid servering.
+**Sandefjordsås med rom**: Gör klassisk Sandefjordsås. Låt såsen svalna innan du
+lägger i rommen så inte rommen blir tillagad. Rör ner gräslök.
 
-Kan också smaksättas med hackade färska örter (dill och gräslök är vanligt, men
-dragon funkar också), eller vitlök.
+**Sandefjord med brynt smör**: Gör klassisk Sandefjordsås, men bryn smöret först
+under omrörning i kastrull. Låt smöret svalna lite innan grädden tillsätts.
