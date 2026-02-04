@@ -36,6 +36,7 @@ nav_order: 1
 * [Kallrökt lax med spetskålskräm](Fisk/lax-spetskålskräm.md)
 * [Laxsallad med lime och jordnötter](Fisk/laxsallad-med-lime-och-jordnötter.md)
 * [Rödspätta Grenoble](Fisk/rödspätta-grenoble.md)
+* [Sallad Niçoise](Fisk/sallad-niçoise.md)
 * [Sushi](Fisk/sushi.md)
 * [Torsk med vitvinssås och friterad schalottenlök](Fisk/torsk-med-vitvinssås.md)
 * [Torskrygg med blomkålspuré och brynt smör](Fisk/torskrygg-blomkålspuré.md)
