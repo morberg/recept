@@ -19,7 +19,7 @@
 :::
 
 Receptet går att variera med olika grönsaker: broccoli, svamp, aubergine,
-minimajs, morot, etc.. 
+minimajs, morot, etc..
 
 Börja med att reducera kokosmjölken. Öppna burkarna utan att röra om. Gröp ur
 kokosgrädden med en sked och lägg i en wok, låt kokosvattnet vara kvar i
@@ -36,10 +36,10 @@ under omrörning tills curryn löses upp.
 Vänd i kycklingen och stek den tills den får lite yta. Vänd i jordnötssmör och
 fräs lite till.
 
-Blanda i kokosvattnet, fisksås och limeblad. Låt koka under lock i ca 10
+Blanda i kokosvattnet, fisksås och limeblad. Låt koka under lock i ca. 10
 minuter.
 
-Vänd i paprika och haricot verts, låt koka i ytterligare 10-15 minuter. Smaka av
-med salt och pressad lime.
+Vänd i paprika och haricot verts, låt koka i ytterligare 10--15 minuter. Smaka
+av med salt och pressad lime.
 
 Stäng av värmen och blanda i thaibasilika. Servera med jasminris.
