@@ -7,6 +7,7 @@ parent: Fisk
 
 ## 4 portioner
 
+
 ### Sallad
 - 6 ägg
 - 6 medelstora kokta potatisar, gärna Amadine
@@ -27,6 +28,7 @@ parent: Fisk
 - 1 1/2 dl rapsolja
 - 2 msk olivolja
 - 1/2 dl färsk timjan, hackad
+
 
 Koka upp en kastrull med vatten. Lägg varsamt ner äggen i det kokande vattnet
 och koka i 7 1/2 minut. Ta upp äggen och spola kallt vatten i kastrullen. Skala
