@@ -11,6 +11,7 @@ parent: Gott
 - 25 g dextros (3 1/2 msk)
 - 25 g mjölkpulver (2 1/2 msk)
 - 2 krm glasspulver
+- 1 krm salt
 - 3 1/2 dl standardmjölk
 - 1 1/2 dl vispgrädde
 
