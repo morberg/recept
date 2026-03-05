@@ -17,7 +17,6 @@ parent: Soppa
 - 2 msk kycklingfond
 - 2 små vitlöksklyftor, finrivna
 - 1 tsk chiliflakes
-- 4 äggulor
 - parmesan
 - basilika
 
@@ -25,11 +24,11 @@ parent: Soppa
 Koka pastan al dente, minst 1 min. kortare än vad som står på paketet. Skölj av i kallt
 vatten så att den inte fortsätter att koka. Koka upp vattnet till soppan.
 
-Strimla purjolök och ev selleri fint. Hetta upp olivolja i en kastrull och bryn pancettan
-med tomatpurén till en rostad färg.
+Strimla purjolök och ev. selleri fint. Hetta upp olivolja i en kastrull och bryn
+pancettan. Tillsätt tomatpurén och rör runt.
 
-Lägg i purjolök, selleri och morot och stek någon minut till. Häll på det kokande vattnet,
-fond, vitlök och chiliflakes. Låt koka i fem minuter.
+Lägg i purjolök, selleri, vitlök och morot och stek några minuter till. Häll på
+vatten och fond. Låt koka i fem minuter. Smaka av med chiliflakes.
 
-Lägg i pastan och låt allt bli varmt. Lägg soppn i skålar, lägg på äggula, riv över
-parmesan och toppa med basilika. Servera gärna med [pestosnurror](../Bakat/pestosnurror).
+Lägg i pastan och låt allt bli varmt. Lägg soppan i skålar, riv över parmesan
+och toppa med basilika.
