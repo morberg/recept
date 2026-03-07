@@ -20,7 +20,7 @@ parent: Sås
 
 Krossa grönpeppar grovt i en mortel.
 
-Hetta upp smöret i en kastrull och fräs den krossade grönpepparen tillsammans
+Hetta upp smöret i en kastrull och fräs den krossade grönpepparn tillsammans
 med tomatpuré och dijonsenap i ca 1 minut under omrörning.
 
 Tillsätt vispgrädde, crème fraiche, soja och buljongtärning.
