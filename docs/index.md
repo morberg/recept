@@ -49,6 +49,7 @@ nav_order: 1
 * [Kyckling med citronquinoa och fikonsky](Fågel/kyckling-med-citronquinoa.md)
 * [Kyckling (eller tofu) med cashewnötter](Fågel/kyckling-och-cashew.md)
 * [Kycklinggratäng med jordnötter och sweet chili](Fågel/kycklinggratäng.md)
+* [Kycklinggryta med bacon](Fågel/kycklinggryta-med-bacon.md)
 * [Kycklinggryta med dragon](Fågel/kycklinggryta-med-dragon.md)
 * [Panang curry](Fågel/panang-curry.md)
 * [Peruansk kyckling](Fågel/peruansk-kyckling.md)
