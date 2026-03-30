@@ -2,26 +2,20 @@
 
 ## 4 portioner
 
+- 2 schalottenlökar
 - 1 msk smör
-- 1 1/2 msk torkad grönpeppar
-- 1 msk tomatpuré
-- 1 msk dijonsenap
+- 1 msk grönpeppar i lag
+- 2 msk konjak
+- 2 msk kalvfond
 - 2 dl vispgrädde
-- 1 dl crème fraiche
-- 2 tsk soja
-- 1/2 tärning oxbuljong (eller motsvarande mängd fond)
-- 1/2 tsk salt
-- 1 krm svartpeppar
+- 1 tsk majsstärkelse
+- 1 dl vatten
+- salt
+- peppar
 
-Krossa grönpeppar grovt i en mortel.
+Skala och finhacka löken. Fräs den i smöret på svag värme tills löken blivit
+genomskinlig. Krossa pepparkornen och låt dem fräsa med någon minut. Häll i
+konjaken och låt den koka upp.
 
-Hetta upp smöret i en kastrull och fräs den krossade grönpepparn tillsammans
-med tomatpuré och dijonsenap i ca 1 minut under omrörning.
-
-Tillsätt vispgrädde, crème fraiche, soja och buljongtärning.
-
-Låt såsen koka upp och sedan sjuda på svag värme i ca 5 minuter tills den har
-fått en fin konsistens.
-
-Smaka av med salt och svartpeppar. Serveras förslagsvis till stekt eller grillat
-kött.
+Rör ner fond och grädde. Blanda majstärkelsen med vattnet och rör ner i såsen
+och låt sjuda ca 5 minuter.  Smaka av med salt och peppar.

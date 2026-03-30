@@ -1,46 +1,50 @@
 # Okonomiyaki
 
-## 4 portioner
+## 2 portioner
 
 ::: columns
 
-- 1/2 spetskålshuvud eller vitkål (ca 500 g)
-- 4 salladslökar
 - 2 dl vetemjöl
+- 2 ägg
+- 1 1/2 dl vatten
+- 250 g vitkål, strimlad
+- 3-4 salladslökar, tunt strimlad
+- 1 msk inlagd ingefära, hackad (gari)
 - 1/2 tsk salt
-- 1/2 tsk bakpulver
-- 2 dl dashi (eller vatten med lite buljong)
-- 4 ägg
-- 1 dl panko (japanskt ströbröd)
-- matolja till stekning
+- rapsolja
 
-### Tillbehör och topping
+### Sås
 
-- 1 dl majonnäs (gärna japansk Kewpie)
-- 1 dl okonomiyakisås (eller hälften ketchup, hälften worcestershiresås)
-- 1 msk torkat sjögräs (aonori)
-- 1/2 dl picklad ingefära (gari)
-- 1/2 kruka färsk koriander (valfritt)
-- 1 ask bonitoflingor (katsuobushi)
+- 1/2 dl ketchup
+- 2 msk worcestersås
+- 1 msk honung
+- 1 msk japansk soja
+
+### Topping
+
+- majonnäs
+- salladslök
+- rivna morötter
+- bonitoflakes
+- furikake
+- terikayisås
 
 :::
 
-Ansa och strimla kålen mycket fint, gärna med mandolin. Skiva salladslöken tunt.
+Blanda mjöl, ägg, vatten och salt i en stor skål.
 
-Blanda vetemjöl, salt och bakpulver i en stor bunke. Vispa ner dashi (eller
-vatten) och äggen till en jämn smet.
+Tillsätt den strimlade vitkålen, salladslöken och ingefäran. Rör ordentligt så
+att all kål täcks av smeten.
 
-Vänd ner kål, salladslök och panko i smeten. Blanda väl så att all kål är täckt
-av smet.
+Häll rapsolja i en stekpanna, sätt värmen på medelhög och häll sedan i smeten.
+Tryck till och forma smeten så att den täcker hela stekpannan. Stek i 4--5
+minuter.
 
-Hetta upp lite olja i en stekpanna på medelvärme. Klicka ut smeten till runda
-pannkakor, cirka 10–15 cm i diameter och 2 cm tjocka.
+Blanda under tiden såsen i en skål.
 
-Stek pannkakorna i 3–4 minuter per sida tills de är gyllenbruna och genomstekta.
-Tryck till dem lätt med en stekspade under tiden.
+Vänd sedan pannkakan, antingen med stekspadar eller genom att flippa på en
+tallrik. Häll direkt på hälften av såsen på pannkakan och bred ut över hela.
+Stek ytterligare 4--5 minuter, fast på medelvärme.
 
-Lägg upp pannkakorna på tallrikar. Ringla över rikligt med okonomiyakisås och
-majonnäs i ett fint mönster. Teriyakisås passar också bra till.
-
-Toppa med torkat sjögräs, picklad ingefära, eventuellt koriander och avsluta med
-bonitoflingor som "dansar" av värmen. Serveras direkt.
+Lägg pannkakan på ett fat, bred på resterande sås, och avsluta med topping (inte
+alla förslag behövs - välj ut några du gillar och/eller har hemma).
