@@ -165,7 +165,7 @@ nav_order: 1
 * [Okonomiyaki](Vegetariskt/okonomiyaki.md)
 * [Piroger med fetaost och spenat](Vegetariskt/piroger.md)
 * [Vegetarisk ramensoppa](Vegetariskt/ramensoppa.md)
-* [Rostad purjolök med crème fraiche och sumak](Vegetariskt/roasted-leeks-with-crème-fraîche-hazelnuts-and-sumac.md)
+* [Rostad purjolök med crème fraiche och sumak](Vegetariskt/rostad-purjolök.md)
 * [Saltbakade rödbetor med mormors dressing](Vegetariskt/saltbakade-rödbetor.md)
 * [Rotselleririsotto med trattkantareller och brysselkål](Vegetariskt/selleririsotto-med-brysselkål.md)
 * [Spansk kikärtsgryta med tomat och ingefära](Vegetariskt/spansk-kikärtsgryta.md)
