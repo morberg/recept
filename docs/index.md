@@ -157,6 +157,7 @@ nav_order: 1
 
 ## Vegetariskt
 
+* [Bakade betor med brynt hasselnöts- och misosmör](Vegetariskt/bakade-betor-med-brynt-smör.md)
 * [Frittata med paprika- och olivsallad](Vegetariskt/frittata.md)
 * [Halloumiburgare med avokado](Vegetariskt/halloumiburgare.md)
 * [Koreansk tofu](Vegetariskt/koreansk-tofu.md)
