@@ -38,7 +38,31 @@ pdf/receptsamling.md: source/*/*.md tools/create-index.py
 	uv run tools/create-index.py single-markdown > pdf/receptsamling.md
 
 
+.PHONY: parse
+parse:
+	@target='parse'; \
+	args=''; \
+	for arg in $(MAKECMDGOALS); do \
+		if [ "$$arg" != "$$target" ]; then \
+			args="$$args $$arg"; \
+		fi; \
+	done; \
+	if [ -z "$$args" ]; then \
+		echo "Error: URL not provided"; \
+		echo ""; \
+		echo "Usage: make parse <recipe-url>"; \
+		echo ""; \
+		echo "Example:"; \
+		echo "  make parse https://www.koket.se/okonomiyaki-japanska-kalpannkakor"; \
+		exit 1; \
+	fi; \
+	uv run tools/import-recipe.py $$args
+
 .PHONY: clean
 clean:
 	rm -f pdf/*
 	rm -rf docs
+
+# Catch-all rule to handle URLs passed as targets
+%:
+	@:
