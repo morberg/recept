@@ -4,11 +4,11 @@
 
 ::: columns
 
-- 4 dl crème fraîche
+- 2 dl crème fraîche
 - 1 apelsin, skal och 3 msk juice
 - 1/4 tsk rödvinsvinäger
-- 5 kvistar dragon, plus 5g blad, grovt hackade
-- 5 purjolökar, skurna i 3 cm tjocka slantar (ca. 700 g)
+- 3 kvistar dragon, plus 5g blad, grovt hackade
+- 3 purjolökar, skurna i 3 cm tjocka slantar (ca. 700 g)
 
 ### Hasselnöts- och sumaksalsa
 
