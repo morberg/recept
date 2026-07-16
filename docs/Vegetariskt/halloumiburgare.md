@@ -11,7 +11,7 @@ parent: Vegetariskt
 - 2 msk inlagd jalapeño
 - 1 hel inlagd grillad paprika
 - 1 1/2 dl majonnäs
-- 200 g halloumi
+- 400 g halloumi
 - 2 avokador
 - 1 kruka krispsallat
 - 4 hamburgerbröd
@@ -34,3 +34,4 @@ Rosta hamburgerbröden (i ugn eller på grillen).
 Häll av vattnet från löken i ett durkslag.
 
 Bygg burgarna av bröd, sallat, skivad avokado, lök, halloumi och majonnäs.
+
