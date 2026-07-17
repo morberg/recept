@@ -51,6 +51,7 @@ nav_order: 1
 * [Kycklinggratäng med jordnötter och sweet chili](Fågel/kycklinggratäng.md)
 * [Kycklinggryta med bacon](Fågel/kycklinggryta-med-bacon.md)
 * [Kycklinggryta med dragon](Fågel/kycklinggryta-med-dragon.md)
+* [Marry me chicken](Fågel/marry-me-chicken.md)
 * [Panang curry](Fågel/panang-curry.md)
 * [Peruansk kyckling](Fågel/peruansk-kyckling.md)
 * [Ramensoppa med kyckling](Fågel/ramensoppa-med-kyckling.md)
