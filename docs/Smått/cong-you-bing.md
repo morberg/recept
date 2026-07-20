@@ -14,25 +14,25 @@ parent: Smått
 -   1--2 dl hackad salladslök
 -   matfett till stekning
 
-Prova gärna att [grilla
-pannkakorna](http://www.seriouseats.com/2015/06/grill-your-scallion-pancakes-chinese-appetizer.html).
+Blanda mjöl och salt i en bunke eller en matberedare med degkrok.
 
-Instruktioner:
+Sätt igång matberedaren, slå på vattnet och blanda samman.
 
-1.  Blanda mjöl och salt i en bunke eller en matberedare med degkrok.
-2.  Sätt igång matberedaren, slå på vattnet och blanda samman.
-3.  Häll ut på lätt mjölat bakbord och forma till en klump.
-4.  Rulla in degen i plastfolie och låt vila 30 minuter i rumstemperatur
-    eller några timmar (upp till en natt) i kylskåp.
-5.  Dela degen i fyra delar och kavla ut en degbit i taget till en tunn
-    pannkaka. Pensla lite sesamolja på varje pannkaka . Rulla ihop
-    pannkakan till en rulle, snurra ihop som en kanelbulle och nyp fast
-    den yttre änden.
-6.  Kavla ut till en ny pannkaka. Pensla med sesamolja och strö över den
-    hackade löken. Gör om kanelbulleövningen: rulla ihop, snurra till en
-    bulle, nyp fast och kavla ut till en pannkaka igen.
-7.  Stek pannkakorna på medelhög värme i rikligt med fett, 3--4 minuter
-    på varje sida.
-8.  Låt pannkakorna rinna av på hushållspapper, skär i små tårtbitar och
-    servera med lite soja att doppa dem i.
+Häll ut på lätt mjölat bakbord och forma till en klump.
+
+Rulla in degen i plastfolie och låt vila 30 minuter i rumstemperat eller några
+timmar (upp till en natt) i kylskåp.
+
+Dela degen i fyra delar och kavla ut en degbit i taget till en tu pannkaka.
+Pensla lite sesamolja på varje pannkaka . Rulla ih pannkakan till en rulle,
+snurra ihop som en kanelbulle och nyp fa den yttre änden.
+
+Kavla ut till en ny pannkaka. Pensla med sesamolja och strö över d hackade
+löken. Gör om kanelbulleövningen: rulla ihop, snurra till bulle, nyp fast och
+kavla ut till en pannkaka igen.
+
+Stek pannkakorna på medelhög värme i rikligt med fett, 3--4 minut på varje sida.
+
+Låt pannkakorna rinna av på hushållspapper, skär i små tårtbitar o servera med
+lite soja att doppa dem i.
 

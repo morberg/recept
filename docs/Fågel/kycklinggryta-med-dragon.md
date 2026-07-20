@@ -7,6 +7,7 @@ parent: Fågel
 
 ## 4 portioner
 
+
 - 450 g kycklinglårfilé utan skinn
 - 1 msk smör
 - 150 g purjolök, skivad
@@ -16,7 +17,12 @@ parent: Fågel
 - 1 st kycklingbuljongtärning
 - 1/2 msk torkad dragon
 - ev. majsstärkelse
+
+### Till servering
+
 - 150 g haricot verts
+- ugnsrostad eller kokt potatis
+
 
 Skär kycklingen i mindre bitar. Salta och peppra. Stek kycklingen i smör tills
 den får färg runtom.

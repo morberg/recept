@@ -15,12 +15,13 @@ parent: Soppa
 -   1--2 dl vispgrädde
 -   ev. några blad färsk dragon
 
-Instruktioner:
+Skala och skiva morötterna. Finhacka rödlöken och svetta den smöret på låg värme
+utan att den tar färg.
 
-1.  Skala och skiva morötterna. Finhacka rödlöken och svetta den i
-    smöret på låg värme utan att den tar färg.
-2.  Tillsätt buljong, morötter och torkad dragon. Koka i 15 minuter.
-3.  Mixa alltsammans till en slät konsistens. Späd med vispgrädde och
-    smaka av med salt och peppar.
-4.  Garnera med färsk dragon och servera med ett gott bröd till.
+Tillsätt buljong, morötter och torkad dragon. Koka i 15 minuter.
+
+Mixa alltsammans till en slät konsistens. Späd med vispgrädde o smaka av med
+salt och peppar.
+
+Garnera med färsk dragon och servera med ett gott bröd till.
 

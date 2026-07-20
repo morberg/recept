@@ -22,8 +22,12 @@ parent: Fågel
 - 1 tsk torkad timjan
 - 1 msk majsstärkelse
 - 10 g färsk timjan, till garnering
-- 3 dl ris, till servering
-- 1/2 dl syltlök till servering
+
+### Till servering
+
+- 3 dl ris
+- 1/2 dl syltlök
+
 
 Skär kycklingen i mindre bitar, salta och peppra.
 

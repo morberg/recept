@@ -15,13 +15,19 @@ parent: Smått
 -   1 1/2 dl matolja
 -   4 dl filmjölk
 
-Instruktioner:
+Rör ihop vetemjöl, bakpulver, salt och socker
 
-1.  Rör ihop vetemjöl, bakpulver, salt och socker
-2.  Rör ihop äggen tillsammans med oljan.
-3.  Vispa grundligt mjölblandningen med filmjölken till en jämn smet.
-4.  Blanda i omgångar ner äggblandningen.
-5.  Grädda pannkakorna i en het panna eller plättlagg.
-6.  Vänd pannkakorna när den ostekta sidan börjar visa små kratrar.
-7.  Stek i omgångar och håll dem varma i ett ugnssäkert fat i ugnen.
+Rör ihop äggen tillsammans med oljan. (Som överkurs kan man separera gula och
+vita, vispa vitan fluffig separat, blanda gulorna med oljan och sedan vända ner
+vispade vitor när resten av smeten är färdig. Överkurs som sagt.)
+
+Vispa grundligt mjölblandningen med filmjölken till en jämn smet.
+
+Blanda i omgångar ner äggblandningen.
+
+Grädda pannkakorna i en het panna eller plättlagg.
+
+Vänd pannkakorna när den ostekta sidan börjar visa små kratrar.
+
+Stek i omgångar och håll dem varma i ett ugnssäkert fat i ugnen.
 

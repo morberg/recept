@@ -15,10 +15,9 @@ parent: Fågel
 - 1 msk fisksås
 - 100 g haricot verts
 - 1 röd paprika
-- 3--4 st kaffir limeblad
+- 3--4 st kaffir-limeblad
 - 1 pressad lime
-- Ev. 3 kvistar söt thaibasilika
-- salt
+- ev. 3 kvistar söt thaibasilika
 
 
 Receptet går att variera med olika grönsaker: broccoli, svamp, aubergine,

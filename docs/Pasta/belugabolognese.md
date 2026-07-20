@@ -21,9 +21,11 @@ parent: Pasta
 - 1 tsk socker
 - 1 msk balsamvinäger
 - lite spiskummin
-- 500 g pasta
-- salt och peppar
 - basilika eller oregano
+
+## Till servering
+
+- 500 g pasta
 - parmesan
 
 
@@ -33,7 +35,7 @@ en klassisk bolognese). Skala och hacka lök och vitlök.
 Fräs allt mjukt i olja i en kastrull eller stekpanna. Det är bra om det får fräsa länge
 utan att ta färg så att allt mjuknar, då utvecklas smakerna och framför allt sötman.
 
-Tillsätt linser, krossade tomater, crème fraîche/grädde , vatten, buljongtärning, socker,
+Tillsätt linser, krossade tomater, crème fraîche/grädde, vatten, buljongtärning, socker,
 balsamvinäger och lite spiskummin.
 
 Låt det sen puttra med lock på glänt i ca. en timme eller tills du tycker att linserna har
@@ -42,7 +44,7 @@ fått bra konsistens.
 Smaksätt med torkad oregano eller färsk basilika mot slutet.
 
 Sen kan du mixa såsen med stavmixer, eller låta det koka en stund till att linserna blir
-mjukare. Smaka av med salt och mal över svartpeppar.
+mjukare. Smaka av med salt och nymald svartpeppar.
 
 Koka pastan.
 

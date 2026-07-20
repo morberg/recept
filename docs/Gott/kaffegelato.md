@@ -7,8 +7,8 @@ parent: Gott
 
 ## 4 portioner
 
-- 200 ml mjölk (helst 3%)
-- 180 ml grädde (35–40%)
+- 200 ml mjölk
+- 180 ml grädde
 - 35 g mjölkpulver
 - 60 g socker
 - 35 g druvsocker
@@ -19,21 +19,14 @@ parent: Gott
 
 Förbered espresson och låt svalna lite.
 
-Ställ en metallskål i frysen.
-
 Blanda alla torra ingredienser i en kastrull.
 
 Tillsätt mjölk och grädde. Värm upp på medelvärme under omrörning och stäng av
 precis när det börjar bubbla (har du en termometer ska den komma upp i 80–90
-grader). Ta bort från värmen och bland i kaffet.
+grader). Ta bort från värmen och rör i kaffe och whisky.
 
-Häll den varma smeten i den iskalla skålen och låt svalna i rumstemperatur.
-Ställ sedan skålen i kylskåpet i 2 timmar eller tills smeten är helt kall. Du
-kan med fördel göra detta kvällen före.
+Häll den varma smeten i ett kärl och låt svalna i rumstemperatur. Ställ sedan
+kärlet i kylskåpet i 2 timmar eller över natten.
 
-Mixa den helt kalla glassmeten i ca 30 sekunder med en stavmixer.
-
-Kör glassmeten i glassmaskinen tills den har fått den typiska, krämiga
-gelato-konsistensen. Det tar mellan 15 och 25 minuter beroende på glassmaskin.
-
-Ställ glassen i frysen i 30 minuter för att få rätt konsistens vid servering.
+Mixa den kalla glassmeten i ca 30 sekunder med en stavmixer och kör sedan i
+glassmaskin. Ställ in i frysen i minst 30 minuter.

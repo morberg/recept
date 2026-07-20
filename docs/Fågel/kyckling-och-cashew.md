@@ -26,7 +26,7 @@ parent: Fågel
 
 ## Protein
 
--   2 kycklingfiléer
+-   2 kycklingfiléer *eller*
 -   125 gram tofu
 
 ## Topping

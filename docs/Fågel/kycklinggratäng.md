@@ -8,7 +8,6 @@ parent: Fågel
 ## 4 portioner
 
 
-- jasminris
 - 600 g kycklinglårfilé
 - 3 vitlöksklyftor
 - 20 cm purjolök
@@ -21,6 +20,10 @@ parent: Fågel
 - 1 lime (pressad saft)
 - 1 1/2 dl jordnötter
 - 1 kruka färsk koriander
+
+### Till servering
+
+- jasminris
 
 
 Sätt ugnen på 225° varmluft.
