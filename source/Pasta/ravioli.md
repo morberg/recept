@@ -16,7 +16,8 @@
 - 1/2 citron, finrivet skal
 - 1 krm nyriven muskotnöt
 
-## Servering
+## Topping
+
 - Rostade solrosfrön
 
 :::
@@ -52,4 +53,4 @@ skära ut raviolin.
 
 Koka pastan al dente ca 3 min i välsaltat vatten.
 
-Servera eventuellt med rostade solrosfrön.
+Strö över rostade solrosfrön.

@@ -4,10 +4,7 @@
 
 ::: columns
 
-- 4 port ris
 - 4 kycklingfiléer (ca 600 g)
-- salt
-- peppar
 - 1/2 dl vetemjöl
 - 1 förp strimlade soltorkade tomater (à 200 g)
 - 2 msk olivolja
@@ -18,8 +15,12 @@
 - 2 1/2 dl vatten
 - 1 kycklingbuljongtärning
 - 2 1/2 dl vispgrädde
-- 1 1/2 dl riven parmesan (+ ev extra till servering)
+- 1 1/2 dl riven parmesan
 - 1 kruka basilika
+  
+### Till servering
+
+- jasminris
 - sallad
 - parmesan
 
@@ -43,5 +44,5 @@ innertemperatur på 70°. Vänd kycklingen några gånger under tillagningen.
 
 Strimla basilikan och blanda ner i såsen.
 
-Till servering: Servera kycklingen med riset, lite extra riven parmesan och
+Till servering: Servera kycklingen med ris, lite extra riven parmesan och
 gärna en enkel sallad.

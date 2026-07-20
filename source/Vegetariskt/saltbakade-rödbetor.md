@@ -1,10 +1,10 @@
-# Saltbakade rödbetor med mormors dressing
+# Saltbakade rödbetor med mormorsdressing
 
 ## 4 portioner som förrätt
 
 ## Rödbetor
 - 1 kg hela rödbetor (räkna med 1 stor beta per person)
-- 500 g Grovt salt till bakning
+- 500 g grovt salt till bakning
 - färsk dill
 - färsk pepparrot
 
