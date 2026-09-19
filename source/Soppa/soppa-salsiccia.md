@@ -41,5 +41,5 @@ Bryt mozzarella i stora bitar. Vänd runt med yoghurt, finrivet citronskal och o
 Avsluta med svartpeppar. Servera soppan toppad med krämen samt den frästa salvian och
 vitlöken.
 
-**Tips!** Vikålen går att byta mot en annan kålsort, till exempel spetskål eller
+**Tips!** Vitkålen går att byta mot en annan kålsort, till exempel spetskål eller
 savoykål.
