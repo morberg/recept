@@ -40,6 +40,7 @@ nav_order: 1
 * [Sushi](Fisk/sushi.md)
 * [Torsk med vitvinssås och friterad schalottenlök](Fisk/torsk-med-vitvinssås.md)
 * [Torskrygg med blomkålspuré och brynt smör](Fisk/torskrygg-blomkålspuré.md)
+* [Torskrygg med kantareller och picklad rödkål](Fisk/torskrygg-med-kantareller-och-picklad-rödkål.md)
 
 ## Fågel
 
