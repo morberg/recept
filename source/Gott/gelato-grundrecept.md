@@ -5,7 +5,7 @@
 - 80 g strösocker
 - 25 g dextros
 - 25 g mjölkpulver
-- 2 krm glasspulver
+- 1 krm glasspulver
 - 1 krm salt
 - 3 1/2 dl standardmjölk
 - 1 1/2 dl vispgrädde

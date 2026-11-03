@@ -7,7 +7,7 @@
 - 35 g mjölkpulver
 - 60 g socker
 - 35 g druvsocker
-- 2 krm glasspulver
+- 1 krm glasspulver
 - 80 g bryggd stark espresso (4 mycket stark liten)
 - 1 tsk kakao
 - 2 msk whisky (kan uteslutas)
