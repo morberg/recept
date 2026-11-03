@@ -5,7 +5,7 @@ parent: Vegetariskt
 ---
 # Bakade betor med brynt hasselnöts- och misosmör
 
-## 4 portioner
+## 2 portioner
 
 
 - 700 g rödbetor
@@ -22,9 +22,9 @@ parent: Vegetariskt
 - salt och svartpeppar
 
 
-Dela rödbetorna i 4 och purjolöken i stubbar. Ringla över olivolja, salta och
-peppra. Baka rödbetorna och purjolöken i ugnen ca 50 min eller tills de blivit
-mjuka.
+Sätt ugnen på 200°. Dela rödbetorna i 4 och purjolöken i stubbar. Ringla över
+olivolja, salta och peppra. Baka rödbetorna och purjolöken i ugnen ca 45 min
+eller tills de blivit mjuka.
 
 Smält smöret i en kastrull och vispa tills det börjar bubbla och sedan tystna.
 Stäng av värmen när smöret börjar dofta nötigt och blir ljusbrunt. Låt svalna
@@ -34,3 +34,4 @@ honung och saft från 1/2 citron.
 Lägg rödbetor och purjolök på ett fat. Smula över fetaost och riven pepparrot.
 Skeda över smöret och toppa med färsk dill.
 
+Varmrätt för 2 personer, förrätt eller tillbehör till 4 personer.
